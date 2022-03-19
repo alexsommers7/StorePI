@@ -10,6 +10,7 @@ const cors = require('cors');
 
 const globalErrorHandler = require('./controllers/errController');
 const productRouter = require('./routes/productRoutes');
+const brandRouter = require('./routes/brandRoutes');
 const categoryRouter = require('./routes/categoryRoutes');
 const userRouter = require('./routes/userRoutes');
 const reviewRouter = require('./routes/reviewRoutes');
@@ -68,6 +69,7 @@ app.use(compression());
 
 app.use('/', viewRouter);
 app.use('/api/v1/products', productRouter);
+app.use('/api/v1/brands', brandRouter);
 app.use('/api/v1/categories', categoryRouter);
 app.use('/api/v1/users', userRouter);
 app.use('/api/v1/reviews', reviewRouter);

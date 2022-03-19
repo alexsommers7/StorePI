@@ -24,6 +24,7 @@ exports.aliasTopProductsCheap = catchAsync(async (req, res, next) => {
   req.query.sort = 'sale_price,-reviews_average,-reviews_quantity';
   req.query.fields =
     'name,sku,sale_price,reviews_average,reviews_quantity,image_main';
+
   next();
 });
 
@@ -32,5 +33,6 @@ exports.aliasTopProductsRated = catchAsync(async (req, res, next) => {
   req.query.sort = '-reviews_average,-reviews_quantity,sale_price';
   req.query.fields =
     'name,reviews_average,reviews_quantity,sku,sale_price,image_main';
+
   next();
 });

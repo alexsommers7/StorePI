@@ -100,10 +100,15 @@ exports.getAll = (Model) =>
   catchAsync(async (req, res, next) => {
     let filter;
 
+    // hacky way to allow for nested routes
     if (req.params.productId) filter = { product: req.params.productId };
     else if (req.params.categoryId)
       filter = { category: req.params.categoryId };
     else if (req.params.userId) filter = { user: req.params.userId };
+    else if (req.body.brandFormatted)
+      filter = { brand: { $regex: req.body.brandFormatted, $options: 'i' } };
+
+    console.log(filter);
 
     const features = new APIFeatures(Model.find(filter), req.query)
       .filter()

@@ -24,7 +24,6 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.13.13",
     "morgan": "^1.10.0",
-    "pug": "^3.0.2",
     "slugify": "^1.6.4",
     "stripe": "^8.195.0",
     "validator": "^13.7.0"

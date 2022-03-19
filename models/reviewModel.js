@@ -79,20 +79,17 @@ reviewSchema.post('save', function () {
   this.constructor.calcAverageRating(this.product);
 });
 
-// document middleware to update our stats whenever a review is updated or delete, not just when it's created
 reviewSchema.pre(/^findOneAnd/, async function (next) {
-  // remember that we need access to the product so we can update it, but we can't just use 'this' here
-  // to get around it, we will just execute the query ('this' points to the query here)
-  // the .findOne() method gets the review document from the DB
-  // so, the review doc is NOT updated with the new review/is not deleted yet. That's why the subsequent post middleware is necessary
+  // need access to the product to update, but can't just use 'this'
+  // as a workaround, execute the query ('this')
+  // review doc is NOT updated yet, hence the subsequent post middleware
   this.r = await this.findOne();
 
   next();
 });
 
-// then, once the review has been updated (hence the post), call the calcAverageRating function to update the stats
-// since we need to pass the review itself from the pre middleware to the post middleware, we just stored it on 'this' (aka the query itself)
-// this is an example of query middleware
+// once the review has been updated, call the calcAverageRating function to update the stats
+// since the review needs to be passed from pre to post middleware, it was stored in 'this'
 reviewSchema.post(/^findOneAnd/, async function () {
   await this.r.constructor.calcAverageRating(this.r.product);
 });

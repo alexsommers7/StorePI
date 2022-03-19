@@ -22,7 +22,6 @@ const purchaseSchema = new mongoose.Schema(
       default: Date.now(),
     },
     paid: {
-      // in case an admin wants to manually create a purchase outside of Stripe, for example
       type: Boolean,
       default: true,
     },

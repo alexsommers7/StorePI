@@ -80,16 +80,8 @@ const productSchema = new mongoose.Schema(
   }
 );
 
-// adding this here to add a custom index to sort by fields we commonly query
-// this makes queries much faster
-// there are two types: single field index and compound index
-// note that if a field exists in a compound index, you don't need to create a single field index for it. This happens automatically.
-// don't go all willy nilly adding these indexes though, they take up quite a bit of space. Also, don't do custom indexes on collections that are written to more than they are read.
-// this is because on high-write additional resources will be consumed in order to update the index every time the underlying collection is updated.
-// if you ever remove any of these from the code, you also will want to remove it from the DB itself (Indexes tab in the collection in Compass).
-// productSchema.index({ price: 1 }); // single field. 1 is ascending, -1 is descending
-// productSchema.index({ price: 1, reviewsAverage: -1 }); // compound index
-productSchema.index({ slug: 1 }); // another compound index example
+// custom index
+productSchema.index({ price: 1 });
 
 // remove when saving/importing
 // productSchema.pre('validate', function (next) {
@@ -110,7 +102,6 @@ productSchema.pre(/^find/, function (next) {
   next();
 });
 
-// using static method, group products by category property. For each group, sum up the products
 productSchema.statics.calcCategoryItemCount = async function (categoryId) {
   const stats = await this.aggregate([
     {

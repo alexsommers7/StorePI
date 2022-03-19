@@ -1,0 +1,32 @@
+[
+  {
+		"name": "Electronics",
+		"slug": "electronics",
+		"_id": "6213d49cb7f67e0d64774e92"
+	},
+	{
+		"name": "Men's Clothing",
+		"slug": "mens-clothing",
+		"_id": "6213d49cb7f67e0d64774e93"
+	},
+	{
+		"name": "Women's Clothing",
+		"slug": "womens-clothing",
+		"_id": "6213d49cb7f67e0d64774e94"
+	},
+	{
+		"name": "Kids & Baby",
+		"slug": "kids-and-baby",
+		"_id": "6213d49cb7f67e0d64774e95"
+	},
+	{
+		"name": "Health & Beauty",
+		"slug": "health-and-beauty",
+		"_id": "6213d49cb7f67e0d64774e96"
+	},
+	{
+		"name": "Home",
+		"slug": "home",
+		"_id": "6213d49cb7f67e0d64774e97"
+	}
+]

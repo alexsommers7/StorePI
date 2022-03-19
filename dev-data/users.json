@@ -1,0 +1,163 @@
+[
+  {
+		"photo": "user-1.jpg",
+		"role": "admin",
+		"_id": "6213d79b3a57cb555079db69",
+		"name": "Alex Sommers",
+		"email": "alex@alexsommers.com",
+    "password": "$2a$12$Dzpx7AVmjOsT7dYFeddaCuYNOxNciTznHaUfecSuu27o2mSDoaPb."
+  },
+  {
+		"photo": "user-2.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db6a",
+		"name": "Dorothy Jennings",
+		"email": "dorothy@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS",
+		"wishlist": ["6213d55cf8b9765ec0fbbcad", "6213d55cf8b9765ec0fbbcaa"]
+  },
+  {
+		"photo": "user-3.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db6b",
+		"name": "Jodi Warner",
+		"email": "jodi@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-4.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db6c",
+		"name": "Shari Castro",
+		"email": "shari@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-5.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db6d",
+		"name": "Jimmy Castillo",
+		"email": "jimmy@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-6.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db6e",
+		"name": "Daisy Gregory",
+		"email": "daisy@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-7.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db6f",
+		"name": "Amy Neal",
+		"email": "amy@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-8.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db70",
+		"name": "Candace Burns",
+		"email": "candace@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-9.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db71",
+		"name": "Marco Lawrence",
+		"email": "marco@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-10.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db72",
+		"name": "Dustin Fernandez",
+		"email": "dustin@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-11.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db73",
+		"name": "Casey Zimmerman",
+		"email": "casey@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-12.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db74",
+		"name": "Jean Webb",
+		"email": "jean@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-13.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db75",
+		"name": "Cody Mendez",
+		"email": "cody@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-14.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db76",
+		"name": "Kelly Beck",
+		"email": "kelly@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-15.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db77",
+		"name": "Phil Fletcher",
+		"email": "phil@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-16.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db78",
+		"name": "Aubrey Strickland",
+		"email": "aubrey@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-17.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db79",
+		"name": "Bennie Walton",
+		"email": "bennie@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-18.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db7a",
+		"name": "Ramone Delgado",
+		"email": "ramone@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-19.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db7b",
+		"name": "Perry Jimenez",
+		"email": "perry@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  },
+  {
+		"photo": "user-20.jpg",
+		"role": "user",
+		"_id": "6213d79b3a57cb555079db7c",
+		"name": "Tracy Flores",
+		"email": "tracy@example.com",
+    "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
+  }
+]

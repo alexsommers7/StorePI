@@ -1,0 +1,15 @@
+[
+	{
+		"user": "6213d79b3a57cb555079db6b",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 1
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 3
+			}
+		]
+	}
+]

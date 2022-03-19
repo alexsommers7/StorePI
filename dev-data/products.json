@@ -1,0 +1,212 @@
+[
+  {
+		"_id": "6213d55cf8b9765ec0fbbcaa",
+		"sku": 1,
+    "name": "HP 24 in. LED Monitor IPS Micro-edge HDMI VGA 60Hz 5ms - 24m",
+		"category": "6213d49cb7f67e0d64774e92",
+		"brand": "HP",
+		"best_seller": true,
+		"regular_price": 149.95,
+		"sale_price": 129.95,
+		"in_stock": true,
+		"description": "Enjoy more desk space than you ever thought possible with this ultra-slim HP display. The attractive, micro-edge design adds stylish beauty to any environment, and provides for a seamless multi-monitor setup.",
+		"features": [
+			"3-sided micro-edge display",
+			"Low blue light mode",
+			"Ultra-wide 178 degree horizontal and vertical viewing angles"
+		],
+		"specs": [
+			{ "Screen Size": "24 in."},
+			{ "Connector Type": "1x HDMI 1.4, 1x VGA, HDCP support (HDMI)" },
+			{ "Model": "24M" },
+			{ "Resolution": "1080p" },
+			{ "Aspect Ratio": "16:9" },
+			{ "Response Time": "5 ms" },
+			{ "Color": "Black" }
+		],
+		"image_main": "electronics/1a.jpg",
+		"images": [
+			"electronics/1a.jpg",
+			"electronics/1b.jpg",
+			"electronics/1c.jpg",
+			"electronics/1d.jpg"
+		]
+  },
+	{
+		"_id": "6213d55cf8b9765ec0fbbcad",
+		"sku": 2,
+    "name": "Acer Predator XB3 - 27 in. Monitor Full HD",
+		"category": "6213d49cb7f67e0d64774e92",
+		"brand": "Acer",
+		"best_seller": false,
+		"regular_price": 369.99,
+		"sale_price": 249.99,
+		"in_stock": true,
+		"description": "Bring on the blitz. Turbo-charged refresh rates will fuel your need for gaming speed with this captivating 27 inch dislay.",
+		"features": [
+			"1 ms response time",
+			"1920 x 1080 resolution",
+			"Equipped with an HDMI so you can continue to enjoy all of your accessories"
+		],
+		"specs": [
+			{ "Screen Size": "27 in." },
+			{ "Refresh Rate": "240 Hz" },
+			{ "Number of USB 3 Ports": "4" },
+			{ "Display Screen Technology": "In-plane Switching (IPS) Technology" },
+			{ "Aspect Ratio": "16:9" },
+			{ "Response Time": "1 ms" },
+			{ "Color": "Black" }
+		],
+		"image_main": "electronics/2a.jpg",
+		"images": [
+			"electronics/2a.jpg",
+			"electronics/2b.jpg",
+			"electronics/2c.jpg",
+			"electronics/2d.jpg"
+		]
+  },
+	{
+		"_id": "6213d55cf8b9765ec0fbbcb0",
+		"sku": 3,
+    "name": "Susulv-MCL Men Shirt Men's Large Size Long Sleeve Lapel Zipper Shirt",
+		"category": "6213d49cb7f67e0d64774e93",
+		"brand": "Susulv-MCL",
+		"best_seller": false,
+		"regular_price": 119.99,
+		"sale_price": 119.99,
+		"in_stock": false,
+		"description": "Cool, slim fit, top quality casual style shirt, perfect and comfortable for daily wear or relaxing weekends.",
+		"features": [
+			"Buttoned, classic-style shirt",
+			"Standard collar",
+			"Soft and comfortable"
+		],
+		"specs": [
+			{ "Material": "Cotton and polyester" },
+			{ "Fit Type": "Slim" },
+			{ "Color": "Army Green" }
+		],
+		"image_main": "mens_clothing/1a.jpg",
+		"images": [
+			"mens_clothing/1a.jpg",
+			"mens_clothing/1b.jpg",
+			"mens_clothing/1c.jpg",
+			"mens_clothing/1d.jpg",
+			"mens_clothing/1e.jpg"
+		]
+  },
+	{
+		"_id": "6213d55cf8b9765ec0fbbcb6",
+		"sku": 4,
+    "name": "Women's Tek Gear® Microfleece Crewneck Top",
+		"category": "6213d49cb7f67e0d64774e94",
+		"brand": "Tek Gear",
+		"best_seller": false,
+		"regular_price": 24.99,
+		"sale_price": 11.99,
+		"in_stock": true,
+		"description": "Staying in tip-top shape is easy as this women's Tek Gear tee moves with you through every activity.",
+		"features": [
+			"Soft microfleece construction",
+			"Rounded hem",
+			"Crewneck"
+		],
+		"specs": [
+			{ "Material": "80% recycled polyester, 20% polyester" },
+			{ "Wash Type": "Machine wash" },
+			{ "Color": "Lavender" }
+		],
+		"image_main": "womens_clothing/1a.jpg",
+		"images": [
+			"womens_clothing/1a.jpg",
+			"womens_clothing/1b.jpg",
+			"womens_clothing/1c.jpg"
+		]
+  },
+	{
+		"_id": "6213d55cf8b9765ec0fbbcbe",
+		"sku": 5,
+    "name": "Toddler Boy Jumping Beans® Flannel Shirt",
+		"category": "6213d49cb7f67e0d64774e95",
+		"brand": "Jumping Beans",
+		"best_seller": true,
+		"regular_price": 16.99,
+		"sale_price": 8.99,
+		"in_stock": true,
+		"description": "Modernize his style with this button-front plaid shirt by Jumping Beans.",
+		"features": [
+			"Button front",
+			"Long sleeves",
+			"Plaid pattern"
+		],
+		"specs": [
+			{ "Material": "Cotton" },
+			{ "Wash Type": "Machine wash" },
+			{ "Color": "Blue Bright Buffalo" }
+		],
+		"image_main": "kids_and_baby/1a.jpg",
+		"images": [
+			"kids_and_baby/1a.jpg",
+			"kids_and_baby/1b.jpg"
+		]
+  },
+	{
+		"_id": "6213d55cf8b9765ec0fbbcc6",
+		"sku": 6,
+    "name": "Flowerbomb Ruby Orchid Eau de Parfum",
+		"category": "6213d49cb7f67e0d64774e96",
+		"brand": "Viktor & Rolf",
+		"best_seller": true,
+		"regular_price": 88.99,
+		"sale_price": 88.99,
+		"in_stock": true,
+		"description": "The heart of this luxurious perfume features two accords: the ruby orchid and the red vanilla bean accord, giving the fragrance a unequivocal sensuality, enhanced by the fresh scent of peach, floral, and vanilla fragrance.",
+		"features": [
+			"Diamond grenade fragrance bottle",
+			"Fresh scent of peach, floral, and vanilla fragrance",
+			"Women's perfume inspired by the theatrical tradition of burlesque"
+		],
+		"specs": [
+			{ "Fragrance Family": "Florals" },
+			{ "Scent Type": "Warm Florals" },
+			{ "Key Notes": "Vine Peach, Ruby Orchid, Bourbon Vanilla" }
+		],
+		"image_main": "health_and_beauty/1a.jpg",
+		"images": [
+			"health_and_beauty/1a.jpg",
+			"health_and_beauty/1b.jpg",
+			"health_and_beauty/1c.jpg",
+			"health_and_beauty/1d.jpg"
+		]
+  },
+	{
+		"_id": "6213d55cf8b9765ec0fbbccb",
+		"sku": 7,
+    "name": "World Rug Gallery Modern Large Floral Flowers Indoor Outdoor Rug",
+		"category": "6213d49cb7f67e0d64774e97",
+		"brand": "World Rug Gallery",
+		"best_seller": false,
+		"regular_price": 119.99,
+		"sale_price": 47.99,
+		"in_stock": true,
+		"description": "Experience comfort, durability, and versatility with this World Rug Gallery Modern Large Floral Flowers Indoor Outdoor rug.",
+		"features": [
+			"Indoor & outdoor use",
+			"Fade, stain & water-resistant",
+			"Kid & pet friendly"
+		],
+		"specs": [
+			{ "Material": "Polypropylene" },
+			{ "Pile Height": "0.23in." },
+			{ "Shape": "Rectangular" },
+			{ "Pattern": "Floral" }
+		],
+		"image_main": "home/1a.jpg",
+		"images": [
+			"home/1a.jpg",
+			"home/1b.jpg",
+			"home/1c.jpg",
+			"home/1d.jpg"
+		]
+  }
+]

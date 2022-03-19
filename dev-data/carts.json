@@ -1,0 +1,240 @@
+[
+  {
+		"user": "6213d79b3a57cb555079db6a",
+		"products": []
+	},
+	{
+		"user": "6213d79b3a57cb555079db6b",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 1
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 3
+			}
+		]
+	},
+		{
+		"user": "6213d79b3a57cb555079db6c",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 1
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 3
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db6d",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 4
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 8
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db6e",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 1
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 31
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db6f",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 14
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 1
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db70",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 7
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 7
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db71",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 5
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 8
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db72",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 2
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 4
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db73",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 3
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 1
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db74",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 10
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 1
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db75",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 13
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 6
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db76",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 1
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 1
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db77",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 2
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 2
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db78",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 5
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 1
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db79",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 20
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 13
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db7a",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 5
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 8
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db7b",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 9
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 2
+			}
+		]
+	},
+	{
+		"user": "6213d79b3a57cb555079db7c",
+		"products": [
+			{
+				"item": "6213d55cf8b9765ec0fbbcaa",
+				"quantity": 8
+			},
+			{
+				"item": "6213d55cf8b9765ec0fbbcb6",
+				"quantity": 8
+			}
+		]
+	}
+]

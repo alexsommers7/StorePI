@@ -17,7 +17,6 @@ const reviewRouter = require('./routes/reviewRoutes');
 const purchaseRouter = require('./routes/purchaseRoutes');
 const purchaseController = require('./controllers/purchaseController');
 const cartRouter = require('./routes/cartRoutes');
-const viewRouter = require('./routes/viewRoutes');
 
 const app = express();
 
@@ -66,7 +65,6 @@ app.use(
 // compress response text
 app.use(compression());
 
-app.use('/', viewRouter);
 app.use('/api/v1/products', productRouter);
 app.use('/api/v1/brands', brandRouter);
 app.use('/api/v1/categories', categoryRouter);

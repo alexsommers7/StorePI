@@ -45,7 +45,7 @@ exports.addProductToMyCart = catchAsync(async (req, res, next) => {
   const itemIndex = cart.products.findIndex((p) => p.item.sku === sku);
 
   if (itemIndex > -1) {
-    const overridingQuantity = req.body.override_quantity === true;
+    const overridingQuantity = req.query.override_quantity === 'true';
     const productItem = cart.products[itemIndex];
 
     productItem.quantity = overridingQuantity

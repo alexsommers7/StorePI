@@ -135,16 +135,21 @@ exports.getMine = (Model, singleItem = false, ...popOptions) =>
         query = query.populate(option);
       });
 
-    const doc = await query;
+    const features = new APIFeatures(Model.find(), req.query)
+      .filter()
+      .sort()
+      .project()
+      .paginate();
+    const docs = await features.query;
 
-    if (!doc) {
+    if (!docs) {
       return next(
-        new AppError('No document found belonging to this user', 404)
+        new AppError('No documents found belonging to this user', 404)
       );
     }
 
     res.status(200).json({
       status: 'success',
-      data: doc,
+      data: docs,
     });
   });

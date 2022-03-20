@@ -13,15 +13,18 @@ router.get('/logout', authController.logout);
 router.post('/forgot-password', authController.forgotPassword);
 router.patch('/reset-password/:token', authController.resetPassword);
 
-router.get(
-  '/me',
-  authController.protect,
-  userController.getMe,
-  userController.getUser
-);
+router
+  .route('/current')
+  .get(authController.protect, userController.getMe, userController.getUser)
+  .patch(authController.protect, userController.updateMe)
+  .delete(
+    authController.protect,
+    userController.getMe,
+    userController.deleteMe
+  );
 
 router
-  .route('/my-wishlist')
+  .route('/current/wishlist')
   .get(
     authController.protect,
     userController.getMe,
@@ -39,7 +42,7 @@ router
   );
 
 router
-  .route('/my-cart')
+  .route('/current/cart')
   .get(authController.protect, userController.getMe, cartController.getMyCart)
   .patch(
     authController.protect,
@@ -53,7 +56,7 @@ router
   );
 
 router
-  .route('/my-purchases')
+  .route('/current/purchases')
   .get(
     authController.protect,
     userController.getMe,
@@ -61,20 +64,12 @@ router
   );
 
 router
-  .route('/my-reviews')
+  .route('/current/reviews')
   .get(
     authController.protect,
     userController.getMe,
     reviewController.getMyReviews
   );
-
-router.patch('/update-me', authController.protect, userController.updateMe);
-router.delete(
-  '/delete-me',
-  authController.protect,
-  userController.getMe,
-  userController.deleteMe
-);
 
 router
   .route('/')

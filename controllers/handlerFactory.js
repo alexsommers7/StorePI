@@ -126,6 +126,7 @@ exports.getAll = (Model) =>
 
 exports.getMine = (Model, singleItem = false, ...popOptions) =>
   catchAsync(async (req, res, next) => {
+    console.log(req.params.id);
     let query = singleItem
       ? Model.find({ user: req.params.id })
       : Model.findOne({ user: req.params.id });
@@ -135,7 +136,7 @@ exports.getMine = (Model, singleItem = false, ...popOptions) =>
         query = query.populate(option);
       });
 
-    const features = new APIFeatures(Model.find(), req.query)
+    const features = new APIFeatures(query, req.query)
       .filter()
       .sort()
       .project()
@@ -150,6 +151,7 @@ exports.getMine = (Model, singleItem = false, ...popOptions) =>
 
     res.status(200).json({
       status: 'success',
+      results: docs.length,
       data: docs,
     });
   });

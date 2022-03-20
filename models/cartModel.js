@@ -73,6 +73,8 @@ cartSchema.post('save', function () {
 });
 
 cartSchema.virtual('total').get(function () {
+  if (!this.products) return null;
+
   const totalCost = this.products.reduce(
     (total, cur) => cur.item.sale_price * cur.quantity + total,
     0
@@ -82,6 +84,8 @@ cartSchema.virtual('total').get(function () {
 });
 
 cartSchema.virtual('total_pretty').get(function () {
+  if (!this.products) return null;
+
   const totalCost = this.products.reduce(
     (total, cur) => cur.item.sale_price * cur.quantity + total,
     0

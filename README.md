@@ -1,5 +1,7 @@
 # StorePI
 
+StorePI is a free, open-source API that was created to assist in e-commerce prototyping and developer talent evaluations. This API is currently in development.
+
 **Highlights:**
 
 Highlights coming soon

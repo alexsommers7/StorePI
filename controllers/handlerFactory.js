@@ -108,8 +108,6 @@ exports.getAll = (Model) =>
     else if (req.body.brandFormatted)
       filter = { brand: { $regex: req.body.brandFormatted, $options: 'i' } };
 
-    console.log(filter);
-
     const features = new APIFeatures(Model.find(filter), req.query)
       .filter()
       .sort()
@@ -126,7 +124,6 @@ exports.getAll = (Model) =>
 
 exports.getMine = (Model, singleItem = false, ...popOptions) =>
   catchAsync(async (req, res, next) => {
-    console.log(req.params.id);
     let query = singleItem
       ? Model.find({ user: req.params.id })
       : Model.findOne({ user: req.params.id });

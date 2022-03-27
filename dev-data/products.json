@@ -404,5 +404,891 @@
 			"mens_clothing/3b.jpg",
 			"mens_clothing/3c.jpg"
 		]
-  }
+  },
+	{
+		"sku": 15,
+    "name": "Baby Girls Floral-Print Footed Coverall",
+		"category": "6213d49cb7f67e0d64774e95",
+		"brand": "First Impressions",
+		"best_seller": false,
+		"regular_price": 26.00,
+		"sale_price": 10.92,
+		"in_stock": true,
+		"description": "Precious finishing touches — like a beautiful botanical print and bow detail — star on this darling footed coverall from First Impressions.",
+		"features": [
+			"Bow at neckline",
+			"Snap closures at left front and bottom",
+			"Footed"
+		],
+		"specs": [
+			{ "Material": "Cotton" },
+			{ "Care": "Machine Washable" },
+			{ "Imported": "Yes" }
+		],
+		"image_main": "kids_and_baby/3a.jpg",
+		"images": [
+			"kids_and_baby/3a.jpg",
+			"kids_and_baby/3b.jpg",
+			"kids_and_baby/3c.jpg"
+		],
+		"url" : "https://www.macys.com/shop/product/first-impressions-baby-girls-floral-print-footed-coverall-created-for-macys?ID=3468233&CategoryID=48692"
+  },
+	{
+		"sku": 16,
+    "name": "Flip 6",
+		"category": "6213d49cb7f67e0d64774e92",
+		"brand": "JBL",
+		"best_seller": true,
+		"regular_price": 129.95,
+		"sale_price": 110.99,
+		"in_stock": false,
+		"description": "Our Powerful lightweight JBL Flip 6 Bluetooth speaker goes anywhere.",
+		"features": [
+			"Dual passive radiators for deep bass",
+			"Powerful racetrack-shaped woofer",
+			"A separate tweeter for better high frequency extension"
+		],
+		"specs": [
+			{ "Warranty": "Limited warranty for one year from date of purchase" },
+			{ "Materials": "Plastic" },
+			{ "Care": "Wipe clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/jbl-flip-6-water-resistant-bluetooth-speaker?ID=13529700&CategoryID=22672"
+  },
+	{
+		"sku": 17,
+    "name": "Men's Faux-Shearling Overcoat",
+		"category": "6213d49cb7f67e0d64774e93",
+		"brand": "Guess",
+		"best_seller": false,
+		"regular_price": 350.00,
+		"sale_price": 300.99,
+		"in_stock": true,
+		"description": "Add a luxe layer of style and comfort to your cold-weather wardrobe with the warm faux shearling and timeless double-breasted design of this overcoat from GUESS.",
+		"features": [
+			"Waterproof",
+			"Classic fit",
+			"Double-breasted button closure"
+		],
+		"specs": [
+			{ "Size & Fit": "Loose" },
+			{ "Materials": "Polyester; faux fur: polyester/acrylic" },
+			{ "Care": "Machine washable" }
+		],
+		"url" : "https://www.macys.com/shop/product/guess-mens-faux-shearling-overcoat?ID=6542271&CategoryID=269756"
+  },
+	{
+		"sku": 18,
+    "name": "Men's Mixed Media Motorcycle Jacket",
+		"category": "6213d49cb7f67e0d64774e93",
+		"brand": "DKNY",
+		"best_seller": true,
+		"regular_price": 225.00,
+		"sale_price": 135.00,
+		"in_stock": true,
+		"description": "Cool, fresh and perfect to keep you warm for fall.",
+		"features": [
+			"quilted sleeve",
+			"sherpa fleece-lined collar",
+			"Sits at waist"
+		],
+		"specs": [
+			{ "Size & Fit": "Regular fit" },
+			{ "Materials": "Shell face: polyurethane; shell back: polyester/cotton" },
+			{ "Care": "Machine washable" }
+		],
+		"url" : "https://www.macys.com/shop/product/dkny-mens-mixed-media-motorcycle-jacket?ID=12563728&tdp=cm_app~zMCOM-NAVAPP~xcm_zone~zPDP_ZONE_B~xcm_choiceId~zcidM06MWC-c9e07bb2-4fff-43cd-ac77-32682c8825b2%40HB1%40Customers%2Balso%2Bloved%243763%2412563728~xcm_pos~zPos2~xcm_srcCatID~z3763"
+  },
+	{
+		"sku": 19,
+    "name": "Sheath with 3/4 Chiffon Sleeves",
+		"category": "6213d49cb7f67e0d64774e94",
+		"brand": "DKNY",
+		"best_seller": true,
+		"regular_price": 225.00,
+		"sale_price": 135.00,
+		"in_stock": true,
+		"description": "Cut to fit and flatter, this DKNY sheath dress is complete with elegant chiffon sleeves for instant polish and undeniable refinement.",
+		"features": [
+			"Back zipper closure",
+			"Jewel neck",
+			"Scuba crepe"
+		],
+		"specs": [
+			{ "Size & Fit": "Approx. 37.5 long from center back neck to hem" },
+			{ "Materials": "Polyester/spandex" },
+			{ "Care": "Dry clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/dkny-sheath-with-3-4-chiffon-sleeves?ID=12181512&CategoryID=5449&swatchColor=Cream"
+  },
+	{
+		"sku": 20,
+    "name": "Foiled Jersey Sleeveless Gown",
+		"category": "6213d49cb7f67e0d64774e94",
+		"brand": "Lauren Ralph Lauren",
+		"best_seller": true,
+		"regular_price": 260.00,
+		"sale_price": 230.00,
+		"in_stock": false,
+		"description": "Cut from light-catching foiled jersey, Lauren Ralph Lauren's breathtaking evening gown is designed with a sexy slit at the skirt and a waist-defining self-belt, which is accented with a rhinestone-embellished buckle.",
+		"features": [
+			"Fully lined",
+			"Slit at the left princess seam",
+			"Pleating gathers at the left waist"
+		],
+		"specs": [
+			{ "Size & Fit": "Approx. 59-½ long from center back to hem" },
+			{ "Materials": "Shell and lining: polyester/elastane" },
+			{ "Care": "Dry clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/lauren-ralph-lauren-foiled-jersey-sleeveless-gown?ID=13844808&CategoryID=5449"
+  },
+	{
+		"sku": 21,
+    "name": "Dura Drone with Live Streaming Camera",
+		"category": "6213d49cb7f67e0d64774e92",
+		"brand": "Protocol",
+		"best_seller": true,
+		"regular_price": 200.00,
+		"sale_price": 100.00,
+		"in_stock": true,
+		"description": "Create a seamless movie with 3 different camera angles + audio.",
+		"features": [
+			"Auto launch, hover, land with altitude sensor",
+			"Simultaneous video and photo - 3 camera shoot",
+			"Records audio via phone's microphone"
+		],
+		"specs": [
+			{ "Size & Fit": "7.25W (includes blade guards)" },
+			{ "Materials": "Plastic" },
+			{ "Care": "Wipe clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/closeout-protocol-dura-drone-with-live-streaming-camera?ID=11173487&CategoryID=22672"
+  },
+	{
+		"sku": 22,
+    "name": "Mobile Film Scanner",
+		"category": "6213d49cb7f67e0d64774e92",
+		"brand": "Kodak",
+		"best_seller": false,
+		"regular_price": 56.00,
+		"sale_price": 25.00,
+		"in_stock": true,
+		"description": "Digitize your film and slides with the Mobile Film Scanner from Kodak.",
+		"features": [
+			"Digitizes film and slides",
+			"Adjusts color contrast",
+			"Crop, rotate, and adjust images"
+		],
+		"specs": [
+			{ "Powered by": "2 x AA batteries (not included)" },
+			{ "Materials": "Plastic/metal" },
+			{ "Care": "Spot clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/kodak-mobile-film-scanner?ID=10457939&CategoryID=22672&isDlp=true"
+  },
+	{
+		"sku": 23,
+    "name": "Toddler Boys 2-Piece Button-Front Shirt and Shorts Set",
+		"category": "6213d49cb7f67e0d64774e95",
+		"brand": "Carter's",
+		"best_seller": true,
+		"regular_price": 30.00,
+		"sale_price": 26.00,
+		"in_stock": false,
+		"description": "Crafted in soft cotton with a button-front design, this shirt pairs with coordinating pull-on shorts for the perfect outfit.",
+		"features": [
+			"Short sleeves",
+			"Set includes - 1 shirt and 1 pair of shorts",
+			"Imported"
+		],
+		"specs": [
+			{ "Size & Fit": "Covered elastic waistband for a comfy fit" },
+			{ "Materials": "100% Cotton" },
+			{ "Care": "Machine Washable" }
+		],
+		"url" : "https://www.macys.com/shop/product/toddler-boys-2-piece-button-front-shirt-shorts-set?ID=13236723&CategoryID=27058"
+  },
+	{
+		"sku": 24,
+    "name": "Toddler Girls Printed Shantung Dress",
+		"category": "6213d49cb7f67e0d64774e95",
+		"brand": "Rare Editions",
+		"best_seller": true,
+		"regular_price": 64.00,
+		"sale_price": 55.00,
+		"in_stock": true,
+		"description": "She will love this sleeveless navy dress with a pink bow and flower waist detail.",
+		"features": [
+			"Zipper closer",
+			"Polka dots",
+			"Knee length"
+		],
+		"specs": [
+			{ "Size & Fit": "Toddler" },
+			{ "Materials": "100% Polyester" },
+			{ "Care": "Hand Wash" }
+		],
+		"url" : "https://www.macys.com/shop/product/toddler-girls-printed-shantung-dress-with-bow-flower-detail?ID=13454453&CategoryID=6581"
+  },
+	{
+		"sku": 25,
+    "name": "Hard-Anodized Aluminum Nonstick 11-Pc. Cookware Set",
+		"category": "6213d49cb7f67e0d64774e97",
+		"brand": "KitchenAid",
+		"best_seller": false,
+		"regular_price": 279.95,
+		"sale_price": 55.00,
+		"in_stock": true,
+		"description": "Take control of your kitchen with the bold look and pro-quality features of this 11-piece cookware set from KitchenAid.",
+		"features": [
+			"Even heat distribution",
+			"Durable construction",
+			"Premium food release"
+		],
+		"specs": [
+			{ "Temperature": "oven safe to 500°F without lids; 350°F with lids" },
+			{ "Materials": "Hard anodized aluminum/glass" },
+			{ "Care": "Dishwasher safe" }
+		],
+		"url" : "https://www.macys.com/shop/product/kitchenaid-hard-anodized-aluminum-nonstick-11-pc.-cookware-set?ID=11548315&CategoryID=7552"
+  },
+	{
+		"sku": 26,
+    "name": "Atmosphere Nonstick Aluminum 12-Pc. Cookware Set",
+		"category": "6213d49cb7f67e0d64774e97",
+		"brand": "Brooklyn Steel Co",
+		"best_seller": true,
+		"regular_price": 399.99,
+		"sale_price": 199.99,
+		"in_stock": true,
+		"description": "Bring cooking to a higher level with this striking 12-piece set from Brooklyn Steel Co.'s Atmosphere collection.",
+		"features": [
+			"Multi-layer matte ceramic coating provides a polished nonstick cooking surface",
+			"Forged vessel aluminum construction",
+			"Natural beechwood handles"
+		],
+		"specs": [
+			{ "Suitable for": "Gas, electric, ceramic, halogen and induction cooktops" },
+			{ "Materials": "Aluminum/ceramic/glass/beechwood" },
+			{ "Care": "Hand wash" }
+		],
+		"url" : "https://www.macys.com/shop/product/brooklyn-steel-co.-atmosphere-nonstick-aluminum-12-pc.-cookware-set?ID=12218475&CategoryID=7552&swatchColor=Sky"
+  },
+	{
+		"sku": 27,
+    "name": "5-Pc. All Is Calm, All Is Bright Gift Set",
+		"category": "6213d49cb7f67e0d64774e96",
+		"brand": "Mario Badescu",
+		"best_seller": false,
+		"regular_price": 37.00,
+		"sale_price": 13.20,
+		"in_stock": false,
+		"description": "Replenish your skin with an infusion of soothing botanicals and antioxidants.",
+		"features": [
+			"For all skin types",
+			"Facial Spray With Aloe, Chamomile & Lavender is a soothing, lavender-packed face mist that features vitamin C to restore balance and brightness",
+			"Witch Hazel & Lavender Toner is a mild astringent that clarifies and re-balances stressed skin post-cleanse, while soothing and hydrating"
+		],
+		"specs": [
+			{ "Caution": "If products get into eyes, rinse well with water" },
+			{ "Pieces": "5" },
+			{ "Created for": "Macy's" }
+		],
+		"url" : "https://www.macys.com/shop/product/mario-badescu-5-pc.-all-is-calm-all-is-bright-gift-set-created-for-macys?ID=12837724&CategoryID=170845"
+  },
+	{
+		"sku": 28,
+    "name": "Good Genes All-In-One Lactic Acid Treatment",
+		"category": "6213d49cb7f67e0d64774e96",
+		"brand": "Sunday Riley",
+		"best_seller": true,
+		"regular_price": 142.00,
+		"sale_price": 122.00,
+		"in_stock": true,
+		"description": "Good Genes All-In-One Lactic Acid Treatment is formulated with high potency, purified grade lactic acid that immediately exfoliates dull, pore-clogging dead skin cells, revealing smoother, fresher, younger-looking skin. Fine lines appear visually plumped while the skin looks more radiant. With continued use, the appearance of stubborn hyperpigmentation and the visible signs of aging are reduced for a healthier-looking complexion.",
+		"features": [
+			"For all skin types",
+			"Good Genes clarifies, smooths, and retexturizes for instant radiance",
+			"High Potency, Purified Grade Lactic Acid: Exfoliates dull, pore-clogging dead skin cells to instantly clarify and reveal smoother, clearer, younger-looking skin, while fighting visible signs of hyperpigmentation"
+		],
+		"specs": [
+			{ "Vegan": "Yes" },
+			{ "Cruelty free": "Yes" },
+			{ "Manufactures": "ethically manufactured with standards ensuring safe labor practices & the verified use of natural resources" }
+		],
+		"url" : "https://www.macys.com/shop/product/sunday-riley-good-genes-all-in-one-lactic-acid-treatment-1.7-fl.-oz.?ID=4595020&CategoryID=58514&lid=consciousbeauty_productgrid-4595020"
+  },
+	{
+		"sku": 29,
+    "name": "FlashPatch Rejuvenating Eye Gels",
+		"category": "6213d49cb7f67e0d64774e96",
+		"brand": "Patchology",
+		"best_seller": false,
+		"regular_price": 50.00,
+		"sale_price": 46.00,
+		"in_stock": true,
+		"description": "Puffiness. Fatigue. Dryness. Enter the fast fix for tired eyes, featuring caffeine and hydrolyzed collagen.",
+		"features": [
+			"Our proprietary HydraSurge5™ Moisture System features an exclusive complex of 5 proven hydrating ingredients",
+			"Caffeine: Improves micro-circulation for brighter tone and reduced puffiness Sodium",
+			"Hyaluronate: Naturally binds moisture to the skin"
+		],
+		"specs": [
+			{ "Ingredients": "formulated without parabens, sulfates, mineral oils, silicone, petroleum & phthalates" },
+			{ "Cruelty free": "Yes" },
+			{ "Count": "Includes 30 pairs" }
+		],
+		"url" : "https://www.macys.com/shop/product/patchology-flashpatch-rejuvenating-eye-gels-jar-30ct?ID=4071312&CategoryID=58514&lid=consciousbeauty_productgrid-4071312"
+  },
+	{
+		"sku": 30,
+    "name": "6-Pc. Wake Up With Me Complete Brightening Morning Routine",
+		"category": "6213d49cb7f67e0d64774e96",
+		"brand": "Sunday Riley",
+		"best_seller": true,
+		"regular_price": 177.00,
+		"sale_price": 95.00,
+		"in_stock": true,
+		"description": "A brightening AM routine with vitamin C, turmeric and caffeine to brighten dark spots and banish dark circles.",
+		"features": [
+			"Brightens dark spots and banishes dark circles",
+			"Cleanly formulated without synthetic fragrances, mineral oils, TEA, petrolatum, sulfates, parabens, gluten, soy and phthalates",
+			"Vitamin C helps fight the signs of aging caused by time, stress, lifestyle and pollution, including dullness, visible loss of firmness, the signs of lines and wrinkles and the appearance of dark spots"
+		],
+		"specs": [
+			{ "Vegan": "Yes" },
+			{ "Cruelty free": "Yes" },
+			{ "Count": "6 pieces" }
+		],
+		"url" : "https://www.macys.com/shop/product/sunday-riley-6-pc.-wake-up-with-me-complete-brightening-morning-routine?ID=11325742&CategoryID=58514&lid=consciousbeauty_productgrid-11325742"
+  },
+	{
+		"sku": 31,
+    "name": "Levi's® Flex Men's 505 Regular Fit Jeans",
+		"category": "6213d49cb7f67e0d64774e93",
+		"brand": "Levi's",
+		"best_seller": false,
+		"regular_price": 69.50,
+		"sale_price": 48.65,
+		"in_stock": true,
+		"description": "The 505™ Regular Fit Levi's® Jeans are one of our most popular straight fits, classic straight leg style, cut to sit at the waist, and comfortable throughout the seat and thigh.",
+		"features": [
+			"Two front pockets; coin pocket; two back pockets",
+			"Zip fly with button closure",
+			"Sits at waist"
+		],
+		"specs": [
+			{ "Size & Fit": "Regular fit; classic seat and thigh" },
+			{ "Materials": "All cotton" },
+			{ "Care": "Machine washable" }
+		],
+		"url" : "https://www.macys.com/shop/product/levis-flex-mens-505-regular-fit-jeans?ID=9437906&CategoryID=11221&swatchColor=Roth%20-%20Waterless"
+  },
+	{
+		"sku": 32,
+    "name": "Men's Faux Leather Racer Jacket",
+		"category": "6213d49cb7f67e0d64774e93",
+		"brand": "GUESS",
+		"best_seller": true,
+		"regular_price": 175.00,
+		"sale_price": 49.00,
+		"in_stock": true,
+		"description": "Achieve a rugged and edgy look with the smooth faux leather finish and moto-inspired accents of this racer jacket by GUESS.",
+		"features": [
+			"Snap button banded collar with perforated detailing; full-zip front closure",
+			"Two side zipper pockets",
+			"Long sleeves with zipper cuffs"
+		],
+		"specs": [
+			{ "Size & Fit": "Regular fit" },
+			{ "Materials": "Polyurethane shell; lining: nylon" },
+			{ "Care": "Machine washable" }
+		],
+		"url" : "https://www.macys.com/shop/product/guess-mens-faux-leather-racer-jacket?ID=13646125&CategoryID=3763&swatchColor=Navy"
+  },
+	{
+		"sku": 33,
+    "name": "Men's HBR Basketball Shorts",
+		"category": "6213d49cb7f67e0d64774e93",
+		"brand": "Nike",
+		"best_seller": false,
+		"regular_price": 35.00,
+		"sale_price": 30.99,
+		"in_stock": false,
+		"description": "Blending style and performance? That's a slam dunk in Nike's basketball shorts, made with sweat-wicking technology and bold flourishes.",
+		"features": [
+			"Swoosh design cut, then sewn into place",
+			"Elastic waistband with drawcord",
+			"Hand pockets"
+		],
+		"specs": [
+			{ "Size & Fit": "Knee length" },
+			{ "Materials": "Polyester" },
+			{ "Care": "Machine washable" }
+		],
+		"url" : "https://www.macys.com/shop/product/nike-mens-hbr-basketball-shorts?ID=11225390&CategoryID=3310&swatchColor=Black%2FWhite"
+  },
+	{
+		"sku": 34,
+    "name": "Men's Buffalo Plaid Shawl-Collar Cotton Robe",
+		"category": "6213d49cb7f67e0d64774e93",
+		"brand": "Nautica",
+		"best_seller": true,
+		"regular_price": 55.00,
+		"sale_price": 38.50,
+		"in_stock": false,
+		"description": "Buffalo plaid gets the blues in this fun update from Nautica, a comfy shawl robe with a classic fit and breathable fabric.",
+		"features": [
+			"Pockets at front",
+			"Shawl collar with wrap closure",
+			"Self belt"
+		],
+		"specs": [
+			{ "Size & Fit": "Classic fit" },
+			{ "Materials": "All cotton" },
+			{ "Care": "Machine washable" }
+		],
+		"url" : "https://www.macys.com/shop/product/nautica-mens-buffalo-plaid-shawl-collar-cotton-robe?ID=5712380&CategoryID=16295&swatchColor=Navy"
+  },
+	{
+		"sku": 35,
+    "name": "Women's Plaid Single-Breasted Walker Coat",
+		"category": "6213d49cb7f67e0d64774e94",
+		"brand": "Calvin Klein",
+		"best_seller": true,
+		"regular_price": 400.00,
+		"sale_price": 139.99,
+		"in_stock": false,
+		"description": "Classic plaid defines this single-breasted reefer coat from Calvin Klein, fashioned with two flap pockets and an elongated silhouette.",
+		"features": [
+			"Two flap pockets at front",
+			"Notched collar; front button closures",
+			"Lined"
+		],
+		"specs": [
+			{ "Size & Fit": "Approx. 41 inches long from center back to hem" },
+			{ "Materials": "Shell: polyester/wool; lining: polyester" },
+			{ "Care": "Dry clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/calvin-klein-womens-plaid-single-breasted-walker-coat?ID=11031592&CategoryID=269&swatchColor=Grey%20Ivory%20Plaid"
+  },
+	{
+		"sku": 36,
+    "name": "Women's Double-Brested Trench Coat",
+		"category": "6213d49cb7f67e0d64774e94",
+		"brand": "Lauren Ralph Lauren",
+		"best_seller": true,
+		"regular_price": 190.00,
+		"sale_price": 93.10,
+		"in_stock": true,
+		"description": "Lauren Ralph Lauren's signature raincoat is designed with a double-breasted silhouette that's belted at the waist for a defined figure.",
+		"features": [
+			"Two front waist buttoned flap pockets",
+			"Long sleeves with buttoned tabs at the cuffs",
+			"Comes with a buckled-self belt"
+		],
+		"specs": [
+			{ "Size & Fit": "Size small has a 30 inch body length, a 39 inch bust, and a 32½ inch sleeve length." },
+			{ "Materials": "Polyester" },
+			{ "Care": "Machine washable" }
+		],
+		"url" : "https://www.macys.com/shop/product/lauren-ralph-lauren-womens-double-brested-trench-coat-created-for-macys?ID=13226952&CategoryID=269&swatchColor=Red"
+  },
+	{
+		"sku": 37,
+    "name": "Women's Faux-Leather-Trim Belted Wrap Coat",
+		"category": "6213d49cb7f67e0d64774e94",
+		"brand": "Tahari",
+		"best_seller": true,
+		"regular_price": 215.99,
+		"sale_price": 126.00,
+		"in_stock": false,
+		"description": "A sleek faux-leather belt highlights this stunning wrap coat from Tahari, designed with an open front that's trimmed in more gorgeous faux leather.",
+		"features": [
+			"On-seam pockets",
+			"LUnlined",
+			"Created for Macy's"
+		],
+		"specs": [
+			{ "Size & Fit": "Approx. 44 inches long from center back to hem" },
+			{ "Materials": "Shell: wool/polyester/nylon/acrylic; faux leather: polyurethane/polyester" },
+			{ "Care": "Dry clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/tahari-womens-faux-leather-trim-belted-wrap-coat-created-for-macys?ID=12342580&CategoryID=269&swatchColor=Caramel"
+  },
+	{
+		"sku": 38,
+    "name": "Women's Hooded Stretch Belted Puffer Coat",
+		"category": "6213d49cb7f67e0d64774e94",
+		"brand": "Calvin Klein",
+		"best_seller": false,
+		"regular_price": 179.99,
+		"sale_price": 105.00,
+		"in_stock": true,
+		"description": "Finished with a logo-detail belt, this hooded puffer coat from Calvin Klein is a cozy, contemporary topper for the season.",
+		"features": [
+			"Welt pockets at waist; inside pocket",
+			"Stand collar with attached hood; zipper closure with button overlay at front",
+			"Removable belt at waist"
+		],
+		"specs": [
+			{ "Size & Fit": "Approx. length: 27 inches from center back to hem" },
+			{ "Materials": "Shell, lining: polyester; belt: polyester/latex" },
+			{ "Care": "Machine washable" }
+		],
+		"url" : "https://www.macys.com/shop/product/calvin-klein-womens-hooded-stretch-belted-puffer-coat?ID=12459444"
+  },
+	{
+		"sku": 39,
+    "name": "Toy RC Robotic Robotosaur Mini",
+		"category": "6213d49cb7f67e0d64774e95",
+		"brand": "Sharper Image",
+		"best_seller": true,
+		"regular_price": 35.99,
+		"sale_price": 13.99,
+		"in_stock": false,
+		"description": "Where technology meets fun your children will love the mini robot's cute size and easy-to-use controls Inspire STEM Interest in children make learning engaging and exciting for children of all ages with a toy that combines interactive fun with science and engineering concepts.",
+		"features": [
+			"The two button remote offers easy-to-learn controls for even the youngest of RC toy beginners master guiding the dinosaur in no time at all with built-in forward motion and spin functions",
+			"The mini dinosaur features wheel tracks beneath its clawed feet, making it easy to drive over most level surface, for best results, operate your dino on a flat, smooth surface such as wood floors, tile, tabletops and countertops, or short carpet",
+			"Futuristic design offers a fresh spin on the beloved classic t-rex, bringing a touch of sci-fi to a children's favorite, It's the perfect holiday or Christmas gift for any child"
+		],
+		"specs": [
+			{ "Size": "15 inches" },
+			{ "Materials": "Plastic" },
+			{ "Care": "Spot Clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/sharper-image-toy-rc-robotic-robotosaur-mini?ID=11222341&CategoryID=260274"
+  },
+	{
+		"sku": 40,
+    "name": "Discovery Mindblown Toy Space and Planetarium Projector",
+		"category": "6213d49cb7f67e0d64774e95",
+		"brand": "Discovery #MINDBLOWN",
+		"best_seller": true,
+		"regular_price": 49.99,
+		"sale_price": 19.99,
+		"in_stock": true,
+		"description": "DISCOVERY KIDS 2-In-1 Reversible Planetarium Space Projector w/ 360 Rotation, Moving Stars Mode and Stationary Viewfinder Mode; Includes 3 Reels/Disks of 32 Slides/Images.",
+		"features": [
+			"With the fascinating Discovery Kids Planetarium Space Projector, your children can explore the marvels of our universe in the comfort of your living room, bedroom or classroom",
+			"The projector is double sided and features two different modes: stationary and moving",
+			"The moving side features two layered translucent domes that rotate slowly, projecting moving stars onto any surface for a truly immersive celestial experience For best viewing results, use the projector in a dark room"
+		],
+		"specs": [
+			{ "Size": "11x5x13" },
+			{ "Materials": "Plastic" },
+			{ "Care": "Spot Clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/discovery-mindblown-toy-space-planetarium-projector?ID=14150714&CategoryID=260274&sizes=TOY_TYPE!!Educational"
+  },
+	{
+		"sku": 41,
+    "name": "Lakitu Sky World Expansion Set 484 Pieces Toy Set",
+		"category": "6213d49cb7f67e0d64774e95",
+		"brand": "LEGO®",
+		"best_seller": true,
+		"regular_price": 39.99,
+		"sale_price": 30.00,
+		"in_stock": false,
+		"description": "Kids can add a cloud-spinning battle against Lakitu, a Bullet Bill and a Fuzzy to their LEGO Super Mario Starter Course with this fun Expansion Set.",
+		"features": [
+			"Suitable for ages- 7 and up",
+			"Add a cloud-spinning, digital-coin-winning challenge to children's brick-built LEGO Super Mario LEGO universe with this Lakitu Sky World Expansion Set",
+			"Includes LEGO toy figures of 3 iconic Super Mario LEGO enemy characters- Lakitu, a Bullet Bill and a Fuzzy, plus a Time Block offering players extra time to complete the level"
+		],
+		"specs": [
+			{ "Dimensions": "13.94 inches L x 7.52 inches W x 2.76 inches H" },
+			{	"Materials": "Plastic" },
+			{ "Care": "Wipe Clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/lego-lakitu-sky-world-expansion-set-484-pieces-toy-set?ID=13726770"
+  },
+	{
+		"sku": 42,
+    "name": "Venom 565 Pieces Toy Set",
+		"category": "6213d49cb7f67e0d64774e95",
+		"brand": "LEGO®",
+		"best_seller": true,
+		"regular_price": 59.99,
+		"sale_price": 35.99,
+		"in_stock": true,
+		"description": "Escape the real world for the Spider-Man universe with this LEGO brick recreation of Venom - a rewarding project for adult fans of Marvel comics.",
+		"features": [
+			"Suitable for ages- 18 and up",
+			"Build and display one of the most feared characters in the Marvel Universe with LEGO Marvel Spider-Man Venom 76187- a captivating build-and-display model",
+			"The iconic alien creature, with its dagger-like teeth and long, twisting tongue, stands on a sturdy base with a stylish name plaque attached"
+		],
+		"specs": [
+			{ "Dimensions": "7.52 inches L x 13.94 inches W x 3.58 inches H" },
+			{	"Materials": "Plastic" },
+			{ "Care": "Wipe Clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/lego-venom-565-pieces-toy-set?ID=13726814"
+  },
+	{
+		"sku": 43,
+    "name": "Aviator Remote Control Helicopter",
+		"category": "6213d49cb7f67e0d64774e92",
+		"brand": "Protocol",
+		"best_seller": false,
+		"regular_price": 50.00,
+		"sale_price": 25.99,
+		"in_stock": true,
+		"description": "Take precision flying to a whole new level of ease and fun! Protocol's Aviator RC Helicopter with Gyro features a wide area remote control allowing it to explore open spaces while its flight capability gives it the power to navigate left, right, forward, backward, up, and down in tight spots.",
+		"features": [
+			"Recharges through remote",
+			"Remote requires 4 'AA' batteries (not included)",
+			"Box includes:HelicopterRemote Instruction Manual Spare Parts: Tail Rotor, Screwdriver"
+		],
+		"specs": [
+			{ "Dimensions": "9 inches long" },
+			{	"Materials": "Plastic" },
+			{ "Care": "Wipe Clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/closeout-aviator-remote-control-helicopter?ID=13186400&CategoryID=22672"
+  },
+	{
+		"sku": 44,
+    "name": "Dura Drone with Live Streaming Camera",
+		"category": "6213d49cb7f67e0d64774e92",
+		"brand": "Protocol",
+		"best_seller": false,
+		"regular_price": 200.00,
+		"sale_price": 100.00,
+		"in_stock": false,
+		"description": "Create a seamless movie with 3 different camera angles + audio. Fly Dura using the 2.4 Gig remote control and with our free downloadable app, you can stream live video of your flight and switch effortlessly from the drone's aerial camera to your device's POV and selfie cameras.",
+		"features": [
+			"Auto launch, hover, land with altitude sensor",
+			"Recharges through provided USB cord-• Remote requires 4 x 'AA' batteries (not included)",
+			"Live streaming video capability-• Camera Resolution: 480p"
+		],
+		"specs": [
+			{ "Dimensions": "Measures 7.25 inches W (includes blade guards)" },
+			{	"Materials": "Plastic" },
+			{ "Care": "Wipe Clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/closeout-protocol-dura-drone-with-live-streaming-camera?ID=11173487&CategoryID=22672&isDlp=true"
+  },
+	{
+		"sku": 45,
+    "name": "Video Home Surveillance Kit With LED Spotlight",
+		"category": "6213d49cb7f67e0d64774e92",
+		"brand": "CasaCam",
+		"best_seller": true,
+		"regular_price": 299.99,
+		"sale_price": 253.99,
+		"in_stock": true,
+		"description": "2.4ghz digital wireless surveillance kit with led spotlight camera.",
+		"features": [
+			"Allows you to illuminate and monitor your property",
+			"Can be used with local 7.0 inch Touchscreen Monitor or remotely using App for smartphone or tablet (remote monitoring requires an internet connection)",
+			"Weatherproof camera with motion detection and LED Spotlight"
+		],
+		"specs": [
+			{ "Warranty": "1 year" },
+			{	"Materials": "Plastic & metal" },
+			{ "Care": "Wipe Clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/casacam-video-home-surveillance-kit-with-led-spotlight?ID=10053805&tdp=cm_app~zMCOM-NAVAPP~xcm_zone~zPDP_ZONE_B~xcm_choiceId~zcidM06MWC-f759c2f9-ce38-4ee7-b3f4-393080833f0b%40HB1%40Customers%2Balso%2Bloved%2422672%2410053805~xcm_pos~zPos4~xcm_srcCatID~z22672"
+  },
+	{
+		"sku": 46,
+    "name": "auraLED Illumalight Multicolor LED Light Bar",
+		"category": "6213d49cb7f67e0d64774e92",
+		"brand": "Tzumi",
+		"best_seller": false,
+		"regular_price": 50.99,
+		"sale_price": 16.99,
+		"in_stock": true,
+		"description": "2.4ghz digital wireless surveillance kit with led spotlight camera.",
+		"features": [
+			"Adjustable Color Intensity & Brightness via App",
+			"Relieve Eyes from Fatigue",
+			"Install on Horizontal or Vertical Surfaces such as Tables, Walls & Ceilings"
+		],
+		"specs": [
+			{ "Warranty": "3 inches D x 3.6 inches W x 11 inches H" },
+			{	"Materials": "Plastic" },
+			{ "Care": "Wipe Clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/auraled-illumalight-multicolor-led-light-bar?ID=10457982&CategoryID=22672"
+  },
+	{
+		"sku": 46,
+    "name": "Saybridge Sofa",
+		"category": "6213d49cb7f67e0d64774e97",
+		"brand": "Martha Stewart Collection",
+		"best_seller": true,
+		"regular_price": 1299.00,
+		"sale_price": 1169.10,
+		"in_stock": true,
+		"description": "The makings of a modern romance! A coquettish shape features diamond tufting and a lush velvety upholstery that infuse your space with undeniable charm and sophistication.",
+		"features": [
+			"Fabric has a velvety texture",
+			"Hardwood frame is corner blocked, glued and stapled",
+			"No-sag spring construction"
+		],
+		"specs": [
+			{ "Dimensions": "92 inches" },
+			{	"Materials": "Polyester upholstery" },
+			{ "Care": "Spot clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/martha-stewart-collection-saybridge-92-fabric-sofa-created-for-macys?ID=625489&CategoryID=35419&swatchColor=Bella%20Light%20Grey"
+  },
+	{
+		"sku": 47,
+    "name": "Effie Grand Fabric Sofa",
+		"category": "6213d49cb7f67e0d64774e97",
+		"brand": "Effie",
+		"best_seller": true,
+		"regular_price": 1429.00,
+		"sale_price": 899.10,
+		"in_stock": false,
+		"description": "Ground your living space with transitional style through this handsome grand sofa. Its pared-down lines, with track arms and an exposed walnut finished wood base balance both traditional and modern styles for a look that is inviting and versatile. Plush seat cushions and super-soft contrasting toss pillows lend the piece a remarkable feel that you and others can enjoy.",
+		"features": [
+			"Detachable seat cushions",
+			"Created for Macy's",
+			"Includes four (4) toss pillows, each approx. 22 inches x 21 inches"
+		],
+		"specs": [
+			{ "Maker": "Made in the USA" },
+			{	"Materials": "Hardwood/engineered plywood frame; wood base and legs with walnut finish; polyester upholstery; foam; feather fill in toss pillows" },
+			{ "Care": "Spot clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/effie-95-grand-fabric-sofa-created-for-macys?ID=10969307&CategoryID=35419&swatchColor=Northwest%20Stucco%20Tan"
+  },
+	{
+		"sku": 48,
+    "name": "Regent Vinyl Dining Chair",
+		"category": "6213d49cb7f67e0d64774e97",
+		"brand": "Modway",
+		"best_seller": true,
+		"regular_price": 209.00,
+		"sale_price": 188.10,
+		"in_stock": true,
+		"description": "Transport your decor to a simpler time with the Regent Dining Side Chair. Fashioned with a chic and elegant look, Regent features finely tufted buttons, studded nail head trim, and a regal seat generously padded in foam and upholstered in vinyl.",
+		"features": [
+			"One year warranty from the manufacturer from the date of purchase",
+			"Created for Macy's",
+			"Assembly Required"
+		],
+		"specs": [
+			{ "Dimensions": "25 inches L x 22 inches W x 36 inches H" },
+			{	"Materials": "Vinyl" },
+			{ "Care": "Spot clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/modway-regent-vinyl-dining-chair?ID=6907656&CategoryID=69960&swatchColor=White"
+  },
+	{
+		"sku": 49,
+    "name": "Hayden Dining Chairs, Set of 2",
+		"category": "6213d49cb7f67e0d64774e97",
+		"brand": "Noble House",
+		"best_seller": true,
+		"regular_price": 539.00,
+		"sale_price": 485.10,
+		"in_stock": false,
+		"description": "These dining chairs are a great addition to any home. Use them either as dining chairs or as accent chairs. The versatility of the chair is only one of the many features, including its upholstered fabric with diamond tufted backrests that contour the body for added comfort.",
+		"features": [
+			"Color: Dark Teal | Leg Finish: Dark Brown",
+			"Created for Macy's",
+			"Assembly Required"
+		],
+		"specs": [
+			{ "Dimensions": "21.50 inches deep x 24.75 inches wide x 35.75 inches high" },
+			{	"Materials": "Fabric | Fabric Composition: 100% Polyester | Leg Material: Birch" },
+			{ "Care": "Spot clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/hayden-dining-chairs-set-of-2?ID=10440272&tdp=cm_app~zMCOM-NAVAPP~xcm_zone~zPDP_ZONE_B~xcm_choiceId~zcidM06MWC-30f293ed-0755-4bd6-bb30-ca757d828840%40HB1%40Customers%2Balso%2Bloved%2429391%2410440272~xcm_pos~zPos1~xcm_srcCatID~z29391"
+  },
+	{
+		"sku": 50,
+    "name": "Soniclear Petite Antimicrobial Sonic Skin Cleansing Brush",
+		"category": "6213d49cb7f67e0d64774e96",
+		"brand": "Michael Todd Beauty",
+		"best_seller": true,
+		"regular_price": 119.00,
+		"sale_price": 101.15,
+		"in_stock": true,
+		"description": "Soniclear Petite Antimicrobial Sonic Skin Cleansing Brush is a 3-in-1 beauty device for skin cleansing, firming massage and serum infusion. Soniclear provides cleaner, smoother, brighter skin and helps reduce the appearance of pore size. Dermatologist recommended.",
+		"features": [
+			"Patented antimicrobial protection guards brush head against 99% of stain- and odor-causing bacteria that can grow on unprotected brushes, so your brushes stay cleaner, fresher, longer;* replace every 6 months",
+			"Brush heads oscillate at 18,000 micro-movements per minute; sonic movement allows for gentle effective cleansing and exfoliation; the brush heads allow you to cleanse hard-to-reach places like the T-zone area seven times better than hands alone",
+			"Three speed settings allow you to personalize your cleansing routine"
+		],
+		"specs": [
+			{ "Water proof": "Yes" },
+			{	"Materials": "Plastic & metal" },
+			{ "Care": "Rinse" }
+		],
+		"url" : "https://www.macys.com/shop/product/michael-todd-beauty-soniclear-petite-antimicrobial-sonic-skin-cleansing-brush?ID=10580794&CategoryID=30565&swatchColor=English%20Garden"
+  },
+	{
+		"sku": 51,
+    "name": "Facefx 360 Anti-Aging Device",
+		"category": "6213d49cb7f67e0d64774e96",
+		"brand": "Silk'N",
+		"best_seller": false,
+		"regular_price": 189.00,
+		"sale_price": 160.65,
+		"in_stock": true,
+		"description": "The Silk'N FaceFX 360 degree is a home fractional light-based treatment that helps rejuvenate the skin. It's a handheld LED device that helps treat periorbital wrinkles and reduces pore size and helping to improve the appearance of the skin.",
+		"features": [
+			"Suitable for helping anti-aging and skin rejuvenation",
+			"Immediate improvements, long-lasting effects",
+			"Achieve glowing skin with improved texture"
+		],
+		"specs": [
+			{ "Dimensions": "1.75 inches L x 1.5 inches D x 6 inches H" },
+			{	"Materials": "Plastic Housing" },
+			{ "Care": "Wipe clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/silkn-facefx-360-anti-aging-device?ID=10162141&CategoryID=30565"
+  },
+	{
+		"sku": 52,
+    "name": "High-Frequency Facial Wand",
+		"category": "6213d49cb7f67e0d64774e96",
+		"brand": "Skin Gym",
+		"best_seller": true,
+		"regular_price": 95.00,
+		"sale_price": 80.75,
+		"in_stock": false,
+		"description": "The ultimate facial accessory you can now bring home. Skin Gym High-Frequency Facial Wand uses an electrical current to help zap stubborn zits.",
+		"features": [
+			"Comes with three electrode attachments",
+			"Immediate improvements, long-lasting effects",
+			"Achieve glowing skin with improved texture"
+		],
+		"specs": [
+			{ "Dimensions": "7 inches L" },
+			{	"Materials": "Plastic Housing" },
+			{ "Care": "Wipe clean" }
+		],
+		"url" : "https://www.macys.com/shop/product/skin-gym-high-frequency-facial-wand?ID=11227441&CategoryID=30565"
+	},
+	{
+		"sku": 53,
+		"name": "For Men Broad Spectrum SPF 21 Moisturizer",
+		"category": "6213d49cb7f67e0d64774e96",
+		"brand": "Clinique",
+		"best_seller": true,
+		"regular_price": 32.00,
+		"sale_price": 27.20,
+		"in_stock": true,
+		"description": "Needed hydration plus daily UVA/UVB protection. Improves skin's condition. Lightweight, oil-free formula absorbs quickly. Smooth onto face and neck, avoid immediate eye area.",
+		"features": [
+			"CActual product packaging for this item may vary",
+			"Allergy Tested",
+			"Fragrance Free"
+		],
+		"specs": [
+			{ "Size": "3.4 oz" },
+			{	"Consistency": "Thick" },
+			{ "Application": "2x per day" }
+		],
+		"url" : "https://www.macys.com/shop/product/clinique-for-men-broad-spectrum-spf-21-moisturizer-3.4-oz?ID=154642&CategoryID=58499"
+	}
 ]

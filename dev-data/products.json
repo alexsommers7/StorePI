@@ -208,5 +208,201 @@
 			"home/1c.jpg",
 			"home/1d.jpg"
 		]
+  },
+	{
+		"sku": 8,
+    "name": "Amazfit GTS 2 Mini Smart Watch",
+		"category": "6213d49cb7f67e0d64774e92",
+		"brand": "Amazfit",
+		"best_seller": true,
+		"regular_price": 99.99,
+		"sale_price": 69.99,
+		"in_stock": true,
+		"description": "Get an intelligent little pal to remind you of the incoming calls, text messages, apps, and calendars, alarm clock, weather forecast, and support control the music playback & camera on your smartphone.",
+		"features": [
+			"Ultra-slim and Light Design",
+			"Always-on AMOLED Display",
+			"Blood-Oxygen Saturation Measurement"
+		],
+		"specs": [
+			{ "Battery Life": "14 days" },
+			{ "Watch Display": "1.55 inch AMOLED" },
+			{ "Sports Modes": "70+" },
+			{ "Water Reistance": "5 ATM" }
+		],
+		"image_main": "electronics/3a.jpg",
+		"images": [
+			"electronics/3a.jpg",
+			"electronics/3b.jpg",
+			"electronics/3c.jpg"
+		]
+  },
+	{
+		"sku": 9,
+    "name": "Gaya Stardew Valley Plush Junimo Blue",
+		"category": "6213d49cb7f67e0d64774e95",
+		"brand": "Gaya Entertainment",
+		"best_seller": false,
+		"regular_price": 49.99,
+		"sale_price": 40.99,
+		"in_stock": true,
+		"description": "This plush version of the forest spirit Junimo from the Stardew Valley video game might not take care of your crops, but he's just begging to be cuddled.",
+		"features": [
+			"Jumbo Version of the Junimos Stardew Valley Game",
+			"Small spirits that help you with your crops",
+			"Officially licensed product"
+		],
+		"specs": [
+			{ "Product Dimensions": "10.24 x 9.84 x 6.3 inches" },
+			{ "Item Weight": "7 ounces" },
+			{ "Manufacturer-Recommended Age": "3 years and up" }
+		],
+		"image_main": "kids_and_baby/2a.jpg",
+		"images": [
+			"kids_and_baby/2a.jpg",
+			"kids_and_baby/2b.jpg"
+		]
+  },
+	{
+		"sku": 10,
+    "name": "Morden Fort Modern Contemporary Love Seat",
+		"category": "6213d49cb7f67e0d64774e97",
+		"brand": "Morden Fort Store",
+		"best_seller": true,
+		"regular_price": 669.00,
+		"sale_price": 600.00,
+		"in_stock": false,
+		"description": "Beauty and comfort all in one for your contemporary home.",
+		"features": [
+			"Deep button tufting dutch velvet",
+			"Solid wood frame",
+			"Iron legs"
+		],
+		"specs": [
+			{ "Item Weight": "121 pounds" },
+			{ "Product Dimensions": "3.5 x 62 x 29 inches" },
+			{ "Room Type": "Bedroom, Living Room, Home Office" },
+			{ "Country of Origin": "Vietnam" }
+		],
+		"image_main": "home/2a.jpg",
+		"images": [
+			"home/2a.jpg",
+			"home/2b.jpg",
+			"home/2c.jpg",
+			"home/2d.jpg"
+		]
+  },
+	{
+		"sku": 11,
+    "name": "Red Kap Men's Long Sleeve",
+		"category": "6213d49cb7f67e0d64774e93",
+		"brand": "Red Kap",
+		"best_seller": true,
+		"regular_price": 48.30,
+		"sale_price": 30.49,
+		"in_stock": true,
+		"description": "Our Performance Plus Shop Shirt is built with an exclusive OilBlok finish that can repel some of the toughest garage fluids. Its scooped hem provides maximum coverage while looking professional tucked in or left out.",
+		"features": [
+			"Built for comfort and function",
+			"Underarm gussets that offer improved mobility",
+			"Built-in Flex Stretch panels"
+		],
+		"specs": [
+			{ "Chest Pocket": "Two specialty pockets" },
+			{ "RipStop Material": "65% Polyester, 35% Cotton" },
+			{ "Stech Panel Material": "3.8oz Stretch Knit 100% Polyester" },
+			{ "ZeroSkratch Protection": "Yes" },
+			{ "OilBlok Technology": "Yes" }
+		],
+		"image_main": "mens_clothing/2a.jpg",
+		"images": [
+			"mens_clothing/2a.jpg",
+			"mens_clothing/2b.jpg",
+			"mens_clothing/2c.jpg",
+			"mens_clothing/2d.jpg"
+		]
+  },
+	{
+		"sku": 12,
+    "name": "MIHOLL Women's Long Sleeve",
+		"category": "6213d49cb7f67e0d64774e94",
+		"brand": "MIHOLL",
+		"best_seller": true,
+		"regular_price": 22.99,
+		"sale_price": 15.99,
+		"in_stock": false,
+		"description": "Long sleeve shirt with lace design, provides a flattering, elegant look and shows good figure. Pair with shorts, skinny jeans, boots, leggings for a chic look.",
+		"features": [
+			"Zipper closure",
+			"Suitable for casual outings, school, office, and daily wear",
+			"High quality lace"
+		],
+		"specs": [
+			{ "Package Dimensions": "13.11 x 9.8 x 1.34 inches; 8.78 Ounces" },
+			{ "Material": "Polyester, Spandex" },
+			{ "Wash Instructions": "Hand wash or machine wash in laundry bag" },
+			{ "Imported": "Yes" }
+		],
+		"image_main": "womens_clothing/2a.jpg",
+		"images": [
+			"womens_clothing/2a.jpg",
+			"womens_clothing/2b.jpg",
+			"womens_clothing/2c.jpg"
+		]
+  },
+	{
+		"sku": 13,
+    "name": "LEE Women's Straight Leg Pant",
+		"category": "6213d49cb7f67e0d64774e94",
+		"brand": "Lee",
+		"best_seller": true,
+		"regular_price": 69.97,
+		"sale_price": 52.19,
+		"in_stock": true,
+		"description": "These pants are made for all day wear with silky-soft fabric and a slight drape.",
+		"features": [
+			"Zip-Fly with button closure",
+			"Straight fit through the seat, leg, and thigh",
+			"High quality fabric"
+		],
+		"specs": [
+			{ "Package Dimensions": "12.2 x 9.6 x 1.5 inches; 4.8 Ounces" },
+			{ "Pockets": "2 welt back pockets, 2 front pockets" },
+			{ "Inseam": "Short 29 inches, Medium 31 inches, Long 33 inches" },
+			{ "Rise": "Mid rise, sits at the natural waist" }
+		],
+		"image_main": "womens_clothing/3a.jpg",
+		"images": [
+			"womens_clothing/3a.jpg",
+			"womens_clothing/3b.jpg",
+			"womens_clothing/3c.jpg"
+		]
+  },
+	{
+		"sku": 14,
+    "name": "Men's Sonoma Goods For Life® Supersoft Modern-Fit Raglan Tee & Jogger Pants Pajama Set",
+		"category": "6213d49cb7f67e0d64774e93",
+		"brand": "Sonoma Goods For Life",
+		"best_seller": false,
+		"regular_price": 54.99,
+		"sale_price": 21.60,
+		"in_stock": true,
+		"description": "Get a good night's sleep or lounge in comfort with this men's Sonoma Goods for Life raglan tee and jogger pants set.",
+		"features": [
+			"Includes: tee & jogger pants",
+			"Crewneck, long raglan sleeves",
+			"Great for gifting"
+		],
+		"specs": [
+			{ "Tee Material": "Cotton, rayon" },
+			{ "Pant Material": "Cotton" },
+			{ "Care": "Machine washable" }
+		],
+		"image_main": "mens_clothing/3a.jpg",
+		"images": [
+			"mens_clothing/3a.jpg",
+			"mens_clothing/3b.jpg",
+			"mens_clothing/3c.jpg"
+		]
   }
 ]

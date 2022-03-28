@@ -396,7 +396,7 @@
 		"specs": [
 			{ "Tee Material": "Cotton, rayon" },
 			{ "Pant Material": "Cotton" },
-			{ "Care": "Machine washable" }
+			{ "Care": "Machine-washable" }
 		],
 		"image_main": "mens_clothing/3a.jpg",
 		"images": [
@@ -411,7 +411,7 @@
 		"category": "6213d49cb7f67e0d64774e95",
 		"brand": "First Impressions",
 		"best_seller": false,
-		"regular_price": 26.00,
+		"regular_price": 25.99,
 		"sale_price": 10.92,
 		"in_stock": true,
 		"description": "Precious finishing touches — like a beautiful botanical print and bow detail — star on this darling footed coverall from First Impressions.",
@@ -422,7 +422,7 @@
 		],
 		"specs": [
 			{ "Material": "Cotton" },
-			{ "Care": "Machine Washable" },
+			{ "Care": "Machine-Washable" },
 			{ "Imported": "Yes" }
 		],
 		"image_main": "kids_and_baby/3a.jpg",
@@ -430,19 +430,18 @@
 			"kids_and_baby/3a.jpg",
 			"kids_and_baby/3b.jpg",
 			"kids_and_baby/3c.jpg"
-		],
-		"url" : "https://www.macys.com/shop/product/first-impressions-baby-girls-floral-print-footed-coverall-created-for-macys?ID=3468233&CategoryID=48692"
+		]
   },
 	{
 		"sku": 16,
-    "name": "Flip 6",
+    "name": "Flip 6 Water-Resistant Bluetooth Speaker",
 		"category": "6213d49cb7f67e0d64774e92",
 		"brand": "JBL",
 		"best_seller": true,
 		"regular_price": 129.95,
-		"sale_price": 110.99,
+		"sale_price": 110.95,
 		"in_stock": false,
-		"description": "Our Powerful lightweight JBL Flip 6 Bluetooth speaker goes anywhere.",
+		"description": "Our Powerful lightweight JBL Flip 6 Bluetooth speaker goes anywhere. With water-resistant design, you can rock out to our signature sound rain or shine. Pair two JBL PartyBoost-compatible speakers together for stereo sound or link multiple JBL PartyBoost-compatible speakers to create a bigger party.",
 		"features": [
 			"Dual passive radiators for deep bass",
 			"Powerful racetrack-shaped woofer",
@@ -451,9 +450,15 @@
 		"specs": [
 			{ "Warranty": "Limited warranty for one year from date of purchase" },
 			{ "Materials": "Plastic" },
-			{ "Care": "Wipe clean" }
+			{ "Play Time": "12 hours" }
 		],
-		"url" : "https://www.macys.com/shop/product/jbl-flip-6-water-resistant-bluetooth-speaker?ID=13529700&CategoryID=22672"
+		"image_main": "electronics/4a.jpg",
+		"images": [
+			"electronics/4a.jpg",
+			"electronics/4b.jpg",
+			"electronics/4c.jpg",
+			"electronics/4d.jpg"
+		]
   },
 	{
 		"sku": 17,
@@ -461,8 +466,8 @@
 		"category": "6213d49cb7f67e0d64774e93",
 		"brand": "Guess",
 		"best_seller": false,
-		"regular_price": 350.00,
-		"sale_price": 300.99,
+		"regular_price": 349.99,
+		"sale_price": 299.99,
 		"in_stock": true,
 		"description": "Add a luxe layer of style and comfort to your cold-weather wardrobe with the warm faux shearling and timeless double-breasted design of this overcoat from GUESS.",
 		"features": [
@@ -473,9 +478,14 @@
 		"specs": [
 			{ "Size & Fit": "Loose" },
 			{ "Materials": "Polyester; faux fur: polyester/acrylic" },
-			{ "Care": "Machine washable" }
+			{ "Care": "Machine-washable" }
 		],
-		"url" : "https://www.macys.com/shop/product/guess-mens-faux-shearling-overcoat?ID=6542271&CategoryID=269756"
+		"image_main": "mens_clothing/4a.jpg",
+		"images": [
+			"mens_clothing/4a.jpg",
+			"mens_clothing/4b.jpg",
+			"mens_clothing/4c.jpg"
+		]
   },
 	{
 		"sku": 18,
@@ -483,21 +493,27 @@
 		"category": "6213d49cb7f67e0d64774e93",
 		"brand": "DKNY",
 		"best_seller": true,
-		"regular_price": 225.00,
-		"sale_price": 135.00,
+		"regular_price": 224.99,
+		"sale_price": 135.99,
 		"in_stock": true,
-		"description": "Cool, fresh and perfect to keep you warm for fall.",
+		"description": "Cool, fresh and perfect to keep you warm for fall, the DKNY mixed media motorcycle jacket combines quilted sleeve details and a sherpa fleece-lined collar for a fun update to a classic style.",
 		"features": [
-			"quilted sleeve",
-			"sherpa fleece-lined collar",
+			"Quilted sleeve",
+			"Sherpa fleece-lined collar",
 			"Sits at waist"
 		],
 		"specs": [
 			{ "Size & Fit": "Regular fit" },
 			{ "Materials": "Shell face: polyurethane; shell back: polyester/cotton" },
-			{ "Care": "Machine washable" }
+			{ "Care": "Machine-washable" }
 		],
-		"url" : "https://www.macys.com/shop/product/dkny-mens-mixed-media-motorcycle-jacket?ID=12563728&tdp=cm_app~zMCOM-NAVAPP~xcm_zone~zPDP_ZONE_B~xcm_choiceId~zcidM06MWC-c9e07bb2-4fff-43cd-ac77-32682c8825b2%40HB1%40Customers%2Balso%2Bloved%243763%2412563728~xcm_pos~zPos2~xcm_srcCatID~z3763"
+		"image_main": "mens_clothing/5a.jpg",
+		"images": [
+			"mens_clothing/5a.jpg",
+			"mens_clothing/5b.jpg",
+			"mens_clothing/5c.jpg",
+			"mens_clothing/5d.jpg"
+		]
   },
 	{
 		"sku": 19,
@@ -505,8 +521,8 @@
 		"category": "6213d49cb7f67e0d64774e94",
 		"brand": "DKNY",
 		"best_seller": true,
-		"regular_price": 225.00,
-		"sale_price": 135.00,
+		"regular_price": 149.99,
+		"sale_price": 89.98,
 		"in_stock": true,
 		"description": "Cut to fit and flatter, this DKNY sheath dress is complete with elegant chiffon sleeves for instant polish and undeniable refinement.",
 		"features": [
@@ -519,7 +535,13 @@
 			{ "Materials": "Polyester/spandex" },
 			{ "Care": "Dry clean" }
 		],
-		"url" : "https://www.macys.com/shop/product/dkny-sheath-with-3-4-chiffon-sleeves?ID=12181512&CategoryID=5449&swatchColor=Cream"
+		"image_main": "womens_clothing/4a.jpg",
+		"images": [
+			"womens_clothing/4a.jpg",
+			"womens_clothing/4b.jpg",
+			"womens_clothing/4c.jpg",
+			"womens_clothing/4d.jpg"
+		]
   },
 	{
 		"sku": 20,
@@ -527,8 +549,8 @@
 		"category": "6213d49cb7f67e0d64774e94",
 		"brand": "Lauren Ralph Lauren",
 		"best_seller": true,
-		"regular_price": 260.00,
-		"sale_price": 230.00,
+		"regular_price": 259.99,
+		"sale_price": 229.99,
 		"in_stock": false,
 		"description": "Cut from light-catching foiled jersey, Lauren Ralph Lauren's breathtaking evening gown is designed with a sexy slit at the skirt and a waist-defining self-belt, which is accented with a rhinestone-embellished buckle.",
 		"features": [
@@ -541,7 +563,12 @@
 			{ "Materials": "Shell and lining: polyester/elastane" },
 			{ "Care": "Dry clean" }
 		],
-		"url" : "https://www.macys.com/shop/product/lauren-ralph-lauren-foiled-jersey-sleeveless-gown?ID=13844808&CategoryID=5449"
+		"image_main": "womens_clothing/5a.jpg",
+		"images": [
+			"womens_clothing/5a.jpg",
+			"womens_clothing/5b.jpg",
+			"womens_clothing/5c.jpg"
+		]
   },
 	{
 		"sku": 21,
@@ -549,74 +576,93 @@
 		"category": "6213d49cb7f67e0d64774e92",
 		"brand": "Protocol",
 		"best_seller": true,
-		"regular_price": 200.00,
-		"sale_price": 100.00,
+		"regular_price": 199.99,
+		"sale_price": 99.99,
 		"in_stock": true,
-		"description": "Create a seamless movie with 3 different camera angles + audio.",
+		"description": "Create a seamless movie with 3 different camera angles + audio. Fly Dura using the 2.4 Gig remote control and with our free downloadable app, you can stream live video of your flight and switch effortlessly from the drone's aerial camera to your device's POV and selfie cameras.",
 		"features": [
 			"Auto launch, hover, land with altitude sensor",
 			"Simultaneous video and photo - 3 camera shoot",
 			"Records audio via phone's microphone"
 		],
 		"specs": [
-			{ "Size & Fit": "7.25W (includes blade guards)" },
-			{ "Materials": "Plastic" },
-			{ "Care": "Wipe clean" }
+			{ "Size": "7.25W (includes blade guards)" },
+			{ "Remote Battery Type": "4x AA batteries (not included)" },
+			{ "Materials": "Plastic" }
 		],
-		"url" : "https://www.macys.com/shop/product/closeout-protocol-dura-drone-with-live-streaming-camera?ID=11173487&CategoryID=22672"
+		"image_main": "electronics/5a.jpg",
+		"images": [
+			"electronics/5a.jpg",
+			"electronics/5b.jpg",
+			"electronics/5c.jpg",
+			"electronics/5d.jpg"
+		]
   },
 	{
 		"sku": 22,
-    "name": "Mobile Film Scanner",
+    "name": "GPX Micro Projector",
 		"category": "6213d49cb7f67e0d64774e92",
-		"brand": "Kodak",
+		"brand": "iLive",
 		"best_seller": false,
-		"regular_price": 56.00,
-		"sale_price": 25.00,
-		"in_stock": true,
-		"description": "Digitize your film and slides with the Mobile Film Scanner from Kodak.",
+		"regular_price": 340.99,
+		"sale_price": 340.99,
+		"in_stock": false,
+		"description": "Recreate a drive-in movie experience anywhere with our micro projector with tripod included . Easy setup lets you manually adjust the picture's focus, adjust the screen size up to 120 inches, and play your content via Wi-Fi mirroring, HDMI or USB. Connect your speakers to the audio output or use the built-in speaker to complete the experience.",
 		"features": [
-			"Digitizes film and slides",
-			"Adjusts color contrast",
-			"Crop, rotate, and adjust images"
+			"DLP display technology",
+			"Up to 120-inch viewable screen size",
+			"Stream and mirror video and audio over Wi-Fi"
 		],
 		"specs": [
-			{ "Powered by": "2 x AA batteries (not included)" },
-			{ "Materials": "Plastic/metal" },
-			{ "Care": "Spot clean" }
+			{ "Native Resolution": "854 x 480" },
+			{ "Charge Time": "6-7 hours" },
+			{ "Dimension": "4.3 x 3.9 x 1.54 inches" },
+			{ "Display Distance": "Up to 8.5 feet" },
+			{ "Input Type": "HDMI" }
 		],
-		"url" : "https://www.macys.com/shop/product/kodak-mobile-film-scanner?ID=10457939&CategoryID=22672&isDlp=true"
+		"image_main": "electronics/6a.jpg",
+		"images": [
+			"electronics/6a.jpg",
+			"electronics/6b.jpg",
+			"electronics/6c.jpg",
+			"electronics/6d.jpg"
+		]
   },
 	{
 		"sku": 23,
-    "name": "Toddler Boys 2-Piece Button-Front Shirt and Shorts Set",
+    "name": "Toddler Boys Graphic Shorts Set, 2 Piece",
 		"category": "6213d49cb7f67e0d64774e95",
-		"brand": "Carter's",
+		"brand": "Adidas",
 		"best_seller": true,
-		"regular_price": 30.00,
+		"regular_price": 38.00,
 		"sale_price": 26.00,
 		"in_stock": false,
-		"description": "Crafted in soft cotton with a button-front design, this shirt pairs with coordinating pull-on shorts for the perfect outfit.",
+		"description": "Give him a go-to look that comes complete. This boys adidas 2-piece set makes it easy to get out the door in a flash. The top has sporty raglan sleeves and iconic 3 stripes. The shorts have a comfortable, stretchy waistband and are made of lightweight closed mesh.",
 		"features": [
-			"Short sleeves",
-			"Set includes - 1 shirt and 1 pair of shorts",
-			"Imported"
+			"Set includes- 1 T-shirt and 1 shorts",
+			"Top - raglan short sleeves, angled-forward side seams",
+			"Shorts- applied 3 stripes, elastic waist"
 		],
 		"specs": [
-			{ "Size & Fit": "Covered elastic waistband for a comfy fit" },
-			{ "Materials": "100% Cotton" },
-			{ "Care": "Machine Washable" }
+			{ "Top Materials": "100% Polyester Interlock" },
+			{ "Shorts Materials": "100% Polyester Closed-Hole Mesh" },
+			{ "Care": "Machine-Washable" }
 		],
-		"url" : "https://www.macys.com/shop/product/toddler-boys-2-piece-button-front-shirt-shorts-set?ID=13236723&CategoryID=27058"
+		"image_main": "kids_and_baby/4a.jpg",
+		"images": [
+			"kids_and_baby/4a.jpg",
+			"kids_and_baby/4b.jpg",
+			"kids_and_baby/4c.jpg"
+		]
   },
 	{
 		"sku": 24,
-    "name": "Toddler Girls Printed Shantung Dress",
+    "name": "Toddler Girls Printed Shantung Dress with Bow and Flower Detail",
 		"category": "6213d49cb7f67e0d64774e95",
 		"brand": "Rare Editions",
 		"best_seller": true,
 		"regular_price": 64.00,
-		"sale_price": 55.00,
+		"sale_price": 26.88,
 		"in_stock": true,
 		"description": "She will love this sleeveless navy dress with a pink bow and flower waist detail.",
 		"features": [
@@ -629,7 +675,11 @@
 			{ "Materials": "100% Polyester" },
 			{ "Care": "Hand Wash" }
 		],
-		"url" : "https://www.macys.com/shop/product/toddler-girls-printed-shantung-dress-with-bow-flower-detail?ID=13454453&CategoryID=6581"
+		"image_main": "kids_and_baby/5a.jpg",
+		"images": [
+			"kids_and_baby/5a.jpg",
+			"kids_and_baby/5b.jpg"
+		]
   },
 	{
 		"sku": 25,
@@ -638,20 +688,27 @@
 		"brand": "KitchenAid",
 		"best_seller": false,
 		"regular_price": 279.95,
-		"sale_price": 55.00,
+		"sale_price": 279.95,
 		"in_stock": true,
-		"description": "Take control of your kitchen with the bold look and pro-quality features of this 11-piece cookware set from KitchenAid.",
+		"description": "Take control of your kitchen with the bold look and pro-quality features of this 11-piece cookware set from KitchenAid. Hard, anodized aluminum construction is combined with thick forged bases to heat evenly and eliminate hot spots. Sleek induction-compatible pots and pans are oven safe up to 500°F without lids for seamless stovetop-to-oven cooking.",
 		"features": [
 			"Even heat distribution",
 			"Durable construction",
 			"Premium food release"
 		],
 		"specs": [
-			{ "Temperature": "oven safe to 500°F without lids; 350°F with lids" },
+			{ "Temperature": "Oven-safe to 500°F without lids; 350°F with lids" },
 			{ "Materials": "Hard anodized aluminum/glass" },
+			{ "Coating": "Triple layer, PFOA-free nonstick" },
 			{ "Care": "Dishwasher safe" }
 		],
-		"url" : "https://www.macys.com/shop/product/kitchenaid-hard-anodized-aluminum-nonstick-11-pc.-cookware-set?ID=11548315&CategoryID=7552"
+		"image_main": "home/3a.jpg",
+		"images": [
+			"home/3a.jpg",
+			"home/3b.jpg",
+			"home/3c.jpg",
+			"home/3d.jpg"
+		]
   },
 	{
 		"sku": 26,
@@ -660,20 +717,29 @@
 		"brand": "Brooklyn Steel Co",
 		"best_seller": true,
 		"regular_price": 399.99,
-		"sale_price": 199.99,
+		"sale_price": 299.99,
 		"in_stock": true,
-		"description": "Bring cooking to a higher level with this striking 12-piece set from Brooklyn Steel Co.'s Atmosphere collection.",
+		"description": "Bring cooking to a higher level with this striking 12-piece set from Brooklyn Steel Co.'s Atmosphere collection. Aluminum combines with multi-layer ceramic nonstick interiors for superior performance and looks, as well as easy cleanup.",
 		"features": [
 			"Multi-layer matte ceramic coating provides a polished nonstick cooking surface",
 			"Forged vessel aluminum construction",
 			"Natural beechwood handles"
 		],
 		"specs": [
-			{ "Suitable for": "Gas, electric, ceramic, halogen and induction cooktops" },
-			{ "Materials": "Aluminum/ceramic/glass/beechwood" },
+			{ "Cooking Surfaces": "Gas, electric, ceramic, halogen and induction cooktops" },
+			{ "Materials": "Aluminum, ceramic, glass, beechwood" },
 			{ "Care": "Hand wash" }
 		],
-		"url" : "https://www.macys.com/shop/product/brooklyn-steel-co.-atmosphere-nonstick-aluminum-12-pc.-cookware-set?ID=12218475&CategoryID=7552&swatchColor=Sky"
+		"image_main": "home/4a.jpg",
+		"images": [
+			"home/4a.jpg",
+			"home/4b.jpg",
+			"home/4c.jpg",
+			"home/4d.jpg",
+			"home/4e.jpg",
+			"home/4f.jpg",
+			"home/4g.jpg"
+		]
   },
 	{
 		"sku": 27,
@@ -681,21 +747,29 @@
 		"category": "6213d49cb7f67e0d64774e96",
 		"brand": "Mario Badescu",
 		"best_seller": false,
-		"regular_price": 37.00,
-		"sale_price": 13.20,
+		"regular_price": 67.00,
+		"sale_price": 43.20,
 		"in_stock": false,
-		"description": "Replenish your skin with an infusion of soothing botanicals and antioxidants.",
+		"description": "Replenish your skin with an infusion of soothing botanicals and antioxidants. Your skin deserves a little R&R. Start with a clean slate. Refresh and re-balance your skin, then replenish with layers of comforting, complexion-boosting formulas that restore luminosity so you wake up fresh-faced and glowing.",
 		"features": [
 			"For all skin types",
 			"Facial Spray With Aloe, Chamomile & Lavender is a soothing, lavender-packed face mist that features vitamin C to restore balance and brightness",
 			"Witch Hazel & Lavender Toner is a mild astringent that clarifies and re-balances stressed skin post-cleanse, while soothing and hydrating"
 		],
 		"specs": [
-			{ "Caution": "If products get into eyes, rinse well with water" },
 			{ "Pieces": "5" },
-			{ "Created for": "Macy's" }
+			{ "Facial Spray Ingredients": "Lavender Essential Water, Vitamin C, Chamomile Extract" },
+			{ "Cleansing Oil Ingredients": "Rice Bran Oil, Evening Primrose Oil, Jojoba Oil" },
+			{ "Witch Hazel and Lavender Toner Ingredients": "Witch Hazel, Lavender Essential Water, Aloe Vera" },
+			{ "Vitamin C Serum Ingredients": "Vitamin C, Sodium Hyaluronate, Ginseng Extract" },
+			{ "Lip Balm Ingredients": "Cocoa Butter, Vitamin E, Wheat Germ Oil" }
 		],
-		"url" : "https://www.macys.com/shop/product/mario-badescu-5-pc.-all-is-calm-all-is-bright-gift-set-created-for-macys?ID=12837724&CategoryID=170845"
+		"image_main": "health_and_beauty/2a.jpg",
+		"images": [
+			"health_and_beauty/2a.jpg",
+			"health_and_beauty/2b.jpg",
+			"health_and_beauty/2c.jpg"
+		]
   },
 	{
 		"sku": 28,
@@ -709,15 +783,22 @@
 		"description": "Good Genes All-In-One Lactic Acid Treatment is formulated with high potency, purified grade lactic acid that immediately exfoliates dull, pore-clogging dead skin cells, revealing smoother, fresher, younger-looking skin. Fine lines appear visually plumped while the skin looks more radiant. With continued use, the appearance of stubborn hyperpigmentation and the visible signs of aging are reduced for a healthier-looking complexion.",
 		"features": [
 			"For all skin types",
-			"Good Genes clarifies, smooths, and retexturizes for instant radiance",
-			"High Potency, Purified Grade Lactic Acid: Exfoliates dull, pore-clogging dead skin cells to instantly clarify and reveal smoother, clearer, younger-looking skin, while fighting visible signs of hyperpigmentation"
+			"Clarifies, smooths, and retexturizes for instant radiance",
+			"High-potency, purified-grade lactic acid exfoliates dull, pore-clogging dead skin cells to instantly clarify and reveal smoother, clearer, younger-looking skin, while fighting visible signs of hyperpigmentation"
 		],
 		"specs": [
+			{ "Key Ingredients": "High Potency, Purified Grade Lactic Acid, Licorice, Lemongrass, and Aloe" },
+			{ "How to Use": "Apply one to two pumps to clean skin" },
 			{ "Vegan": "Yes" },
-			{ "Cruelty free": "Yes" },
-			{ "Manufactures": "ethically manufactured with standards ensuring safe labor practices & the verified use of natural resources" }
+			{ "Cruelty-Free": "Yes" }
 		],
-		"url" : "https://www.macys.com/shop/product/sunday-riley-good-genes-all-in-one-lactic-acid-treatment-1.7-fl.-oz.?ID=4595020&CategoryID=58514&lid=consciousbeauty_productgrid-4595020"
+		"image_main": "health_and_beauty/3a.jpg",
+		"images": [
+			"health_and_beauty/3a.jpg",
+			"health_and_beauty/3b.jpg",
+			"health_and_beauty/3c.jpg",
+			"health_and_beauty/3d.jpg"
+		]
   },
 	{
 		"sku": 29,
@@ -726,20 +807,26 @@
 		"brand": "Patchology",
 		"best_seller": false,
 		"regular_price": 50.00,
-		"sale_price": 46.00,
+		"sale_price": 42.50,
 		"in_stock": true,
-		"description": "Puffiness. Fatigue. Dryness. Enter the fast fix for tired eyes, featuring caffeine and hydrolyzed collagen.",
+		"description": "Puffiness? Fatigue? Dryness? Enter the fast fix for tired eyes, featuring caffeine and hydrolyzed collagen. Look like you got your full 8 hours all day, every day.",
 		"features": [
 			"Our proprietary HydraSurge5™ Moisture System features an exclusive complex of 5 proven hydrating ingredients",
 			"Caffeine: Improves micro-circulation for brighter tone and reduced puffiness Sodium",
 			"Hyaluronate: Naturally binds moisture to the skin"
 		],
 		"specs": [
-			{ "Ingredients": "formulated without parabens, sulfates, mineral oils, silicone, petroleum & phthalates" },
-			{ "Cruelty free": "Yes" },
-			{ "Count": "Includes 30 pairs" }
+			{ "Count": "30 pairs" },
+			{ "Ingredients": "Formulated without parabens, sulfates, mineral oils, silicone, petroleum & phthalates" },
+			{ "Cruelty-Free": "Yes" }
 		],
-		"url" : "https://www.macys.com/shop/product/patchology-flashpatch-rejuvenating-eye-gels-jar-30ct?ID=4071312&CategoryID=58514&lid=consciousbeauty_productgrid-4071312"
+		"image_main": "health_and_beauty/4a.jpg",
+		"images": [
+			"health_and_beauty/4a.jpg",
+			"health_and_beauty/4b.jpg",
+			"health_and_beauty/4c.jpg",
+			"health_and_beauty/4d.jpg"
+		]
   },
 	{
 		"sku": 30,
@@ -748,7 +835,7 @@
 		"brand": "Sunday Riley",
 		"best_seller": true,
 		"regular_price": 177.00,
-		"sale_price": 95.00,
+		"sale_price": 177.00,
 		"in_stock": true,
 		"description": "A brightening AM routine with vitamin C, turmeric and caffeine to brighten dark spots and banish dark circles.",
 		"features": [
@@ -757,11 +844,19 @@
 			"Vitamin C helps fight the signs of aging caused by time, stress, lifestyle and pollution, including dullness, visible loss of firmness, the signs of lines and wrinkles and the appearance of dark spots"
 		],
 		"specs": [
+			{ "Count": "6 pieces" },
+			{ "Key Ingredients": "Vitamin C, Caffeine, Brazilian Ginseng, Lactic Acid, and Licorice Root" },
 			{ "Vegan": "Yes" },
-			{ "Cruelty free": "Yes" },
-			{ "Count": "6 pieces" }
+			{ "Cruelty-Free": "Yes" }
 		],
-		"url" : "https://www.macys.com/shop/product/sunday-riley-6-pc.-wake-up-with-me-complete-brightening-morning-routine?ID=11325742&CategoryID=58514&lid=consciousbeauty_productgrid-11325742"
+		"image_main": "health_and_beauty/5a.jpg",
+		"images": [
+			"health_and_beauty/5a.jpg",
+			"health_and_beauty/5b.jpg",
+			"health_and_beauty/5c.jpg",
+			"health_and_beauty/5d.jpg",
+			"health_and_beauty/5e.jpg"
+		]
   },
 	{
 		"sku": 31,
@@ -781,7 +876,7 @@
 		"specs": [
 			{ "Size & Fit": "Regular fit; classic seat and thigh" },
 			{ "Materials": "All cotton" },
-			{ "Care": "Machine washable" }
+			{ "Care": "Machine-washable" }
 		],
 		"url" : "https://www.macys.com/shop/product/levis-flex-mens-505-regular-fit-jeans?ID=9437906&CategoryID=11221&swatchColor=Roth%20-%20Waterless"
   },
@@ -803,7 +898,7 @@
 		"specs": [
 			{ "Size & Fit": "Regular fit" },
 			{ "Materials": "Polyurethane shell; lining: nylon" },
-			{ "Care": "Machine washable" }
+			{ "Care": "Machine-washable" }
 		],
 		"url" : "https://www.macys.com/shop/product/guess-mens-faux-leather-racer-jacket?ID=13646125&CategoryID=3763&swatchColor=Navy"
   },
@@ -825,7 +920,7 @@
 		"specs": [
 			{ "Size & Fit": "Knee length" },
 			{ "Materials": "Polyester" },
-			{ "Care": "Machine washable" }
+			{ "Care": "Machine-washable" }
 		],
 		"url" : "https://www.macys.com/shop/product/nike-mens-hbr-basketball-shorts?ID=11225390&CategoryID=3310&swatchColor=Black%2FWhite"
   },
@@ -847,7 +942,7 @@
 		"specs": [
 			{ "Size & Fit": "Classic fit" },
 			{ "Materials": "All cotton" },
-			{ "Care": "Machine washable" }
+			{ "Care": "Machine-washable" }
 		],
 		"url" : "https://www.macys.com/shop/product/nautica-mens-buffalo-plaid-shawl-collar-cotton-robe?ID=5712380&CategoryID=16295&swatchColor=Navy"
   },
@@ -891,7 +986,7 @@
 		"specs": [
 			{ "Size & Fit": "Size small has a 30 inch body length, a 39 inch bust, and a 32½ inch sleeve length." },
 			{ "Materials": "Polyester" },
-			{ "Care": "Machine washable" }
+			{ "Care": "Machine-washable" }
 		],
 		"url" : "https://www.macys.com/shop/product/lauren-ralph-lauren-womens-double-brested-trench-coat-created-for-macys?ID=13226952&CategoryID=269&swatchColor=Red"
   },
@@ -935,7 +1030,7 @@
 		"specs": [
 			{ "Size & Fit": "Approx. length: 27 inches from center back to hem" },
 			{ "Materials": "Shell, lining: polyester; belt: polyester/latex" },
-			{ "Care": "Machine washable" }
+			{ "Care": "Machine-washable" }
 		],
 		"url" : "https://www.macys.com/shop/product/calvin-klein-womens-hooded-stretch-belted-puffer-coat?ID=12459444"
   },

@@ -396,7 +396,7 @@
 		"specs": [
 			{ "Tee Material": "Cotton, rayon" },
 			{ "Pant Material": "Cotton" },
-			{ "Care": "Machine-washable" }
+			{ "Care": "Machine washable" }
 		],
 		"image_main": "mens_clothing/3a.jpg",
 		"images": [
@@ -422,7 +422,7 @@
 		],
 		"specs": [
 			{ "Material": "Cotton" },
-			{ "Care": "Machine-Washable" },
+			{ "Care": "Machine washable" },
 			{ "Imported": "Yes" }
 		],
 		"image_main": "kids_and_baby/3a.jpg",
@@ -478,7 +478,7 @@
 		"specs": [
 			{ "Size & Fit": "Loose" },
 			{ "Materials": "Polyester; faux fur: polyester/acrylic" },
-			{ "Care": "Machine-washable" }
+			{ "Care": "Machine washable" }
 		],
 		"image_main": "mens_clothing/4a.jpg",
 		"images": [
@@ -505,7 +505,7 @@
 		"specs": [
 			{ "Size & Fit": "Regular fit" },
 			{ "Materials": "Shell face: polyurethane; shell back: polyester/cotton" },
-			{ "Care": "Machine-washable" }
+			{ "Care": "Machine washable" }
 		],
 		"image_main": "mens_clothing/5a.jpg",
 		"images": [
@@ -646,7 +646,7 @@
 		"specs": [
 			{ "Top Materials": "100% Polyester Interlock" },
 			{ "Shorts Materials": "100% Polyester Closed-Hole Mesh" },
-			{ "Care": "Machine-Washable" }
+			{ "Care": "Machine washable" }
 		],
 		"image_main": "kids_and_baby/4a.jpg",
 		"images": [
@@ -867,40 +867,51 @@
 		"regular_price": 69.50,
 		"sale_price": 48.65,
 		"in_stock": true,
-		"description": "The 505™ Regular Fit Levi's® Jeans are one of our most popular straight fits, classic straight leg style, cut to sit at the waist, and comfortable throughout the seat and thigh.",
+		"description": "The 505™ Regular Fit Levi's® Jeans are one of our most popular straight fits, classic straight leg style, cut to sit at the waist, and comfortable throughout the seat and thigh. Great for all body types. Made with Levi's® Flex: Our most advanced stretch technology engineered to deliver maximum flex and optimum comfort.",
 		"features": [
-			"Two front pockets; coin pocket; two back pockets",
+			"Two front pockets, coin pocket, and two back pockets",
 			"Zip fly with button closure",
 			"Sits at waist"
 		],
 		"specs": [
 			{ "Size & Fit": "Regular fit; classic seat and thigh" },
-			{ "Materials": "All cotton" },
-			{ "Care": "Machine-washable" }
+			{ "Materials": "100% cotton" },
+			{ "Care": "Machine washable" }
 		],
-		"url" : "https://www.macys.com/shop/product/levis-flex-mens-505-regular-fit-jeans?ID=9437906&CategoryID=11221&swatchColor=Roth%20-%20Waterless"
+		"image_main": "mens_clothing/6a.jpg",
+		"images": [
+			"mens_clothing/6a.jpg",
+			"mens_clothing/6b.jpg",
+			"mens_clothing/6c.jpg",
+			"mens_clothing/6d.jpg"
+		]
   },
 	{
 		"sku": 32,
-    "name": "Men's Faux Leather Racer Jacket",
+    "name": "Men's Bomber Jacket with Reflective Logo Detailing",
 		"category": "6213d49cb7f67e0d64774e93",
-		"brand": "GUESS",
+		"brand": "Guess",
 		"best_seller": true,
-		"regular_price": 175.00,
-		"sale_price": 49.00,
+		"regular_price": 125.00,
+		"sale_price": 79.95,
 		"in_stock": true,
-		"description": "Achieve a rugged and edgy look with the smooth faux leather finish and moto-inspired accents of this racer jacket by GUESS.",
+		"description": "A reflective, logo-themed back gives the classic bomber jacket a fashionable, modern touch on this piece by Guess.",
 		"features": [
-			"Snap button banded collar with perforated detailing; full-zip front closure",
-			"Two side zipper pockets",
-			"Long sleeves with zipper cuffs"
+			"Long sleeves with ribbed cuffs",
+			"Ribbed baseball collar, full-zip front closure",
+			"Two side-zip pockets, one zip pocket on left sleeve"
 		],
 		"specs": [
 			{ "Size & Fit": "Regular fit" },
-			{ "Materials": "Polyurethane shell; lining: nylon" },
-			{ "Care": "Machine-washable" }
+			{ "Materials": "Shell and lining: polyester" },
+			{ "Care": "Machine washable" }
 		],
-		"url" : "https://www.macys.com/shop/product/guess-mens-faux-leather-racer-jacket?ID=13646125&CategoryID=3763&swatchColor=Navy"
+		"image_main": "mens_clothing/7a.jpg",
+		"images": [
+			"mens_clothing/7a.jpg",
+			"mens_clothing/7b.jpg",
+			"mens_clothing/7c.jpg"
+		]
   },
 	{
 		"sku": 33,
@@ -909,27 +920,32 @@
 		"brand": "Nike",
 		"best_seller": false,
 		"regular_price": 35.00,
-		"sale_price": 30.99,
+		"sale_price": 35.00,
 		"in_stock": false,
 		"description": "Blending style and performance? That's a slam dunk in Nike's basketball shorts, made with sweat-wicking technology and bold flourishes.",
 		"features": [
 			"Swoosh design cut, then sewn into place",
 			"Elastic waistband with drawcord",
-			"Hand pockets"
+			"Dri-FIT technology to wick away moisture"
 		],
 		"specs": [
-			{ "Size & Fit": "Knee length" },
-			{ "Materials": "Polyester" },
-			{ "Care": "Machine-washable" }
+			{ "Size & Fit": "Knee length, loose fit for a roomy feel" },
+			{ "Materials": "100% Polyester" },
+			{ "Care": "Machine washable" }
 		],
-		"url" : "https://www.macys.com/shop/product/nike-mens-hbr-basketball-shorts?ID=11225390&CategoryID=3310&swatchColor=Black%2FWhite"
+		"image_main": "mens_clothing/8a.jpg",
+		"images": [
+			"mens_clothing/8a.jpg",
+			"mens_clothing/8b.jpg",
+			"mens_clothing/8c.jpg"
+		]
   },
 	{
 		"sku": 34,
     "name": "Men's Buffalo Plaid Shawl-Collar Cotton Robe",
 		"category": "6213d49cb7f67e0d64774e93",
 		"brand": "Nautica",
-		"best_seller": true,
+		"best_seller": false,
 		"regular_price": 55.00,
 		"sale_price": 38.50,
 		"in_stock": false,
@@ -941,32 +957,42 @@
 		],
 		"specs": [
 			{ "Size & Fit": "Classic fit" },
-			{ "Materials": "All cotton" },
-			{ "Care": "Machine-washable" }
+			{ "Materials": "100% cotton" },
+			{ "Care": "Machine washable" }
 		],
-		"url" : "https://www.macys.com/shop/product/nautica-mens-buffalo-plaid-shawl-collar-cotton-robe?ID=5712380&CategoryID=16295&swatchColor=Navy"
+		"image_main": "mens_clothing/9a.jpg",
+		"images": [
+			"mens_clothing/9a.jpg",
+			"mens_clothing/9b.jpg",
+			"mens_clothing/9c.jpg"
+		]
   },
-	{
-		"sku": 35,
+	{		"sku": 35,
     "name": "Women's Plaid Single-Breasted Walker Coat",
 		"category": "6213d49cb7f67e0d64774e94",
 		"brand": "Calvin Klein",
-		"best_seller": true,
+		"best_seller": false,
 		"regular_price": 400.00,
-		"sale_price": 139.99,
+		"sale_price": 239.99,
 		"in_stock": false,
 		"description": "Classic plaid defines this single-breasted reefer coat from Calvin Klein, fashioned with two flap pockets and an elongated silhouette.",
 		"features": [
 			"Two flap pockets at front",
-			"Notched collar; front button closures",
+			"Notched collar, front button closures",
 			"Lined"
 		],
 		"specs": [
-			{ "Size & Fit": "Approx. 41 inches long from center back to hem" },
+			{ "Size & Fit": "Approximately 41 inches long from center back to hem" },
 			{ "Materials": "Shell: polyester/wool; lining: polyester" },
 			{ "Care": "Dry clean" }
 		],
-		"url" : "https://www.macys.com/shop/product/calvin-klein-womens-plaid-single-breasted-walker-coat?ID=11031592&CategoryID=269&swatchColor=Grey%20Ivory%20Plaid"
+		"image_main": "womens_clothing/6a.jpg",
+		"images": [
+			"womens_clothing/6a.jpg",
+			"womens_clothing/6b.jpg",
+			"womens_clothing/6c.jpg",
+			"womens_clothing/6d.jpg"
+		]
   },
 	{
 		"sku": 36,
@@ -986,7 +1012,7 @@
 		"specs": [
 			{ "Size & Fit": "Size small has a 30 inch body length, a 39 inch bust, and a 32½ inch sleeve length." },
 			{ "Materials": "Polyester" },
-			{ "Care": "Machine-washable" }
+			{ "Care": "Machine washable" }
 		],
 		"url" : "https://www.macys.com/shop/product/lauren-ralph-lauren-womens-double-brested-trench-coat-created-for-macys?ID=13226952&CategoryID=269&swatchColor=Red"
   },
@@ -1030,7 +1056,7 @@
 		"specs": [
 			{ "Size & Fit": "Approx. length: 27 inches from center back to hem" },
 			{ "Materials": "Shell, lining: polyester; belt: polyester/latex" },
-			{ "Care": "Machine-washable" }
+			{ "Care": "Machine washable" }
 		],
 		"url" : "https://www.macys.com/shop/product/calvin-klein-womens-hooded-stretch-belted-puffer-coat?ID=12459444"
   },

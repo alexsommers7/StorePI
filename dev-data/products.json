@@ -1202,15 +1202,22 @@
 		"description": "Take precision flying to a whole new level of ease and fun! Protocol's Aviator RC Helicopter with Gyro features a wide area remote control allowing it to explore open spaces while its flight capability gives it the power to navigate left, right, forward, backward, up, and down in tight spots.",
 		"features": [
 			"Recharges through remote",
-			"Remote requires 4 'AA' batteries (not included)",
+			"Gyro stabilizer for precise flight",
 			"Box includes helicopter, remote, instruction manual, spare tail rotor and a screwdriver"
 		],
 		"specs": [
-			{ "Dimensions": "9 inches long" },
+			{ "Box Includes": "Helicopter, remote, instruction manual, spare tail rotor, and screwdriver" },
 			{	"Materials": "100% Plastic" },
+			{ "Ages": "14+" },
 			{ "Care": "Wipe clean" }
 		],
-		"url" : "https://www.macys.com/shop/product/closeout-aviator-remote-control-helicopter?ID=13186400&CategoryID=22672"
+		"image_main": "electronics/7a.jpg",
+		"images": [
+			"electronics/7a.jpg",
+			"electronics/7b.jpg",
+			"electronics/7c.jpg",
+			"electronics/7d.jpg"
+		]
   },
 	{
 		"sku": 44,
@@ -1224,15 +1231,21 @@
 		"description": "Create a seamless movie with 3 different camera angles + audio. Fly Dura using the 2.4 Gig remote control and with our free downloadable app, you can stream live video of your flight and switch effortlessly from the drone's aerial camera to your device's POV and selfie cameras.",
 		"features": [
 			"Auto launch, hover, land with altitude sensor",
-			"Recharges through provided USB cord-• Remote requires 4 x 'AA' batteries (not included)",
-			"Live streaming video capability-• Camera Resolution: 480p"
+			"Recharges through provided USB cord",
+			"Live streaming video capability with 480p camera resolution"
 		],
 		"specs": [
-			{ "Dimensions": "Measures 7.25 inches W (includes blade guards)" },
+			{ "Dimensions": "7.25 inches wide (including blade guards)" },
+			{ "Batteries": "Remote requires 4 x 'AA' batteries (not included)" },
 			{	"Materials": "100% Plastic" },
 			{ "Care": "Wipe clean" }
 		],
-		"url" : "https://www.macys.com/shop/product/closeout-protocol-dura-drone-with-live-streaming-camera?ID=11173487&CategoryID=22672&isDlp=true"
+		"image_main": "electronics/8a.jpg",
+		"images": [
+			"electronics/8a.jpg",
+			"electronics/8b.jpg",
+			"electronics/8c.jpg"
+		]
   },
 	{
 		"sku": 45,
@@ -1243,18 +1256,24 @@
 		"regular_price": 299.99,
 		"sale_price": 253.99,
 		"in_stock": true,
-		"description": "2.4ghz digital wireless surveillance kit with led spotlight camera.",
+		"description": "2.4ghz digital wireless surveillance kit with led spotlight camera, featuring two-way audio, offline access, and a free app for remote access.",
 		"features": [
 			"Allows you to illuminate and monitor your property",
-			"Can be used with local 7.0 inch Touchscreen Monitor or remotely using App for smartphone or tablet (remote monitoring requires an internet connection)",
+			"Can be used with local, 7-inch Touchscreen Monitor or remotely using app for smartphone or tablet (remote monitoring requires an internet connection)",
 			"Weatherproof camera with motion detection and LED Spotlight"
 		],
 		"specs": [
 			{ "Warranty": "1 year" },
 			{	"Materials": "Plastic & metal" },
-			{ "Care": "Wipe clean" }
+			{ "Weight": "4.02 lbs" },
+			{ "Batteries": "1 lithium polymer battery required (included)" }
 		],
-		"url" : "https://www.macys.com/shop/product/casacam-video-home-surveillance-kit-with-led-spotlight?ID=10053805&tdp=cm_app~zMCOM-NAVAPP~xcm_zone~zPDP_ZONE_B~xcm_choiceId~zcidM06MWC-f759c2f9-ce38-4ee7-b3f4-393080833f0b%40HB1%40Customers%2Balso%2Bloved%2422672%2410053805~xcm_pos~zPos4~xcm_srcCatID~z22672"
+		"image_main": "electronics/9a.jpg",
+		"images": [
+			"electronics/9a.jpg",
+			"electronics/9b.jpg",
+			"electronics/9c.jpg"
+		]
   },
 	{
 		"sku": 46,
@@ -1262,21 +1281,27 @@
 		"category": "6213d49cb7f67e0d64774e92",
 		"brand": "Tzumi",
 		"best_seller": false,
-		"regular_price": 50.99,
-		"sale_price": 16.99,
+		"regular_price": 30.99,
+		"sale_price": 30.99,
 		"in_stock": true,
-		"description": "2.4ghz digital wireless surveillance kit with led spotlight camera.",
+		"description": "Enhance your home atmosphere with a personalized lighting experience. Illumalight is fully customizable via remote and mobile app, transforming your space with a soft RGB glow in the color of your choice. Perfect for living rooms, offices and more, the sleek design adds a tailor-made touch.",
 		"features": [
-			"Adjustable Color Intensity & Brightness via App",
-			"Relieve Eyes from Fatigue",
-			"Install on Horizontal or Vertical Surfaces such as Tables, Walls & Ceilings"
+			"Adjustable color intensity and brightness via app",
+			"Relieve eyes from fatigue",
+			"Install on horizontal or vertical surfaces such as tables, walls, and ceilings"
 		],
 		"specs": [
-			{ "Warranty": "3 x 3.6 x 11 inches" },
-			{	"Materials": "Plastic" },
+			{ "Dimensions": "3 x 3.6 x 11 inches" },
+			{	"Materials": "100% plastic" },
 			{ "Care": "Wipe clean" }
 		],
-		"url" : "https://www.macys.com/shop/product/auraled-illumalight-multicolor-led-light-bar?ID=10457982&CategoryID=22672"
+		"image_main": "electronics/10a.jpg",
+		"images": [
+			"electronics/10a.jpg",
+			"electronics/10b.jpg",
+			"electronics/10c.jpg",
+			"electronics/10d.jpg"
+		]
   },
 	{
 		"sku": 46,
@@ -1285,20 +1310,28 @@
 		"brand": "Martha Stewart Collection",
 		"best_seller": true,
 		"regular_price": 1299.00,
-		"sale_price": 1169.10,
+		"sale_price": 1129.99,
 		"in_stock": true,
 		"description": "The makings of a modern romance! A coquettish shape features diamond tufting and a lush velvety upholstery that infuse your space with undeniable charm and sophistication.",
 		"features": [
 			"Fabric has a velvety texture",
-			"Hardwood frame is corner blocked, glued and stapled",
+			"Hardwood frame is corner blocked, glued, and stapled",
 			"No-sag spring construction"
 		],
 		"specs": [
-			{ "Dimensions": "92 inches" },
-			{	"Materials": "Polyester upholstery" },
-			{ "Care": "Spot clean" }
+			{ "Dimensions": "92 W x 40 D x 31 H inches" },
+			{	"Materials": "Hardwood frame in mocha finish, polyester upholstery" },
+			{ "Seat Depth": "24 inches" },
+			{ "Arm Height": "31 inches" },
+			{ "Seat Length Between Arms": "71 inches" }
 		],
-		"url" : "https://www.macys.com/shop/product/martha-stewart-collection-saybridge-92-fabric-sofa-created-for-macys?ID=625489&CategoryID=35419&swatchColor=Bella%20Light%20Grey"
+		"image_main": "home/5a.jpg",
+		"images": [
+			"home/5a.jpg",
+			"home/5b.jpg",
+			"home/5c.jpg",
+			"home/5d.jpg"
+		]
   },
 	{
 		"sku": 47,
@@ -1307,42 +1340,59 @@
 		"brand": "Effie",
 		"best_seller": true,
 		"regular_price": 1429.00,
-		"sale_price": 899.10,
+		"sale_price": 999.00,
 		"in_stock": false,
 		"description": "Ground your living space with transitional style through this handsome grand sofa. Its pared-down lines, with track arms and an exposed walnut finished wood base balance both traditional and modern styles for a look that is inviting and versatile. Plush seat cushions and super-soft contrasting toss pillows lend the piece a remarkable feel that you and others can enjoy.",
 		"features": [
 			"Detachable seat cushions",
-			"Created for Macy's",
+			"7 inch tapered wood legs",
 			"Includes four (4) toss pillows, each approx. 22 inches x 21 inches"
 		],
 		"specs": [
-			{ "Maker": "Made in the USA" },
-			{	"Materials": "Hardwood/engineered plywood frame; wood base and legs with walnut finish; polyester upholstery; foam; feather fill in toss pillows" },
-			{ "Care": "Spot clean" }
+			{	"Materials": "Hardwood/engineered plywood frame, wood base and legs with walnut finish, polyester upholstery, feather fill in toss pillows" },
+			{ "Dimensions": "94.5 W x 40 D x 33.5 H inches" },
+			{ "Seat Depth": "24 inches" },
+			{ "Arm Height": "24 inches" },
+			{ "Seat Length Between Arms": "85 inches" }
 		],
-		"url" : "https://www.macys.com/shop/product/effie-95-grand-fabric-sofa-created-for-macys?ID=10969307&CategoryID=35419&swatchColor=Northwest%20Stucco%20Tan"
+		"image_main": "home/6a.jpg",
+		"images": [
+			"home/6a.jpg",
+			"home/6b.jpg",
+			"home/6c.jpg",
+			"home/6d.jpg",
+			"home/6e.jpg"
+		]
   },
 	{
 		"sku": 48,
     "name": "Regent Vinyl Dining Chair",
 		"category": "6213d49cb7f67e0d64774e97",
 		"brand": "Modway",
-		"best_seller": true,
+		"best_seller": false,
 		"regular_price": 209.00,
-		"sale_price": 188.10,
+		"sale_price": 209.00,
 		"in_stock": true,
-		"description": "Transport your decor to a simpler time with the Regent Dining Side Chair. Fashioned with a chic and elegant look, Regent features finely tufted buttons, studded nail head trim, and a regal seat generously padded in foam and upholstered in vinyl.",
+		"description": "Turn your dining room into a space of comfort with these contemporary Regent vinyl dining chairs. Available in a variety of colors, each chair is upholstered in a sleek and easy to clean vinyl. Button tufted backs and nailhead trim give this set a unique and memorable chic.",
 		"features": [
-			"One year warranty from the manufacturer from the date of purchase",
-			"Created for Macy's",
+			"One year manufacturer warranty from the date of purchase",
+			"Nailhead trim, button tufted backs seated on black rubberwood legs",
 			"Assembly Required"
 		],
 		"specs": [
 			{ "Dimensions": "25 x 22 x 36 inches" },
-			{	"Materials": "Vinyl" },
-			{ "Care": "Spot clean" }
+			{	"Frame Material": "Rubberwood" },
+			{	"Seat Material": "Foam, vinyl" },
+			{	"Weight Capacity": "287 lbs" },
+			{ "Style": "Modern & contemporary" }
 		],
-		"url" : "https://www.macys.com/shop/product/modway-regent-vinyl-dining-chair?ID=6907656&CategoryID=69960&swatchColor=White"
+		"image_main": "home/7a.jpg",
+		"images": [
+			"home/7a.jpg",
+			"home/7b.jpg",
+			"home/7c.jpg",
+			"home/7d.jpg"
+		]
   },
 	{
 		"sku": 49,
@@ -1355,49 +1405,64 @@
 		"in_stock": false,
 		"description": "These dining chairs are a great addition to any home. Use them either as dining chairs or as accent chairs. The versatility of the chair is only one of the many features, including its upholstered fabric with diamond tufted backrests that contour the body for added comfort.",
 		"features": [
-			"Color: Dark Teal | Leg Finish: Dark Brown",
-			"Created for Macy's",
-			"Assembly Required"
+			"Elegant tufted back",
+			"Sturdy construction makes it long-lasting",
+			"Light assembly required"
 		],
 		"specs": [
-			{ "Dimensions": "21.50 x 24.75 x 35.75 inches" },
-			{	"Materials": "Fabric Composition: 100% Polyester, Leg Material: Birch" },
+			{ "Dimensions": "21.50 L x 24.75 W x 35.75 H inches" },
+			{	"Fabric Componsition": "100% Polyester" },
+			{	"Leg Material": "Birch" },
 			{ "Care": "Spot clean" }
 		],
-		"url" : "https://www.macys.com/shop/product/hayden-dining-chairs-set-of-2?ID=10440272&tdp=cm_app~zMCOM-NAVAPP~xcm_zone~zPDP_ZONE_B~xcm_choiceId~zcidM06MWC-30f293ed-0755-4bd6-bb30-ca757d828840%40HB1%40Customers%2Balso%2Bloved%2429391%2410440272~xcm_pos~zPos1~xcm_srcCatID~z29391"
+		"image_main": "home/8a.jpg",
+		"images": [
+			"home/8a.jpg",
+			"home/8b.jpg",
+			"home/8c.jpg",
+			"home/8d.jpg",
+			"home/8e.jpg"
+		]
   },
 	{
 		"sku": 50,
     "name": "Soniclear Petite Antimicrobial Sonic Skin Cleansing Brush",
 		"category": "6213d49cb7f67e0d64774e96",
 		"brand": "Michael Todd Beauty",
-		"best_seller": true,
+		"best_seller": false,
 		"regular_price": 119.00,
-		"sale_price": 101.15,
+		"sale_price": 119.00,
 		"in_stock": true,
 		"description": "Soniclear Petite Antimicrobial Sonic Skin Cleansing Brush is a 3-in-1 beauty device for skin cleansing, firming massage and serum infusion. Soniclear provides cleaner, smoother, brighter skin and helps reduce the appearance of pore size. Dermatologist recommended.",
 		"features": [
-			"Patented antimicrobial protection guards brush head against 99% of stain- and odor-causing bacteria that can grow on unprotected brushes, so your brushes stay cleaner, fresher, longer;* replace every 6 months",
-			"Brush heads oscillate at 18,000 micro-movements per minute; sonic movement allows for gentle effective cleansing and exfoliation; the brush heads allow you to cleanse hard-to-reach places like the T-zone area seven times better than hands alone",
+			"Patented antimicrobial protection guards brush head against 99% of stain- and odor-causing bacteria, so your brushes stay cleaner for longer",
+			"Brush heads oscillate at 18,000 micro-movements per minute, sonic movement allows for gentle effective cleansing and exfoliation",
 			"Three speed settings allow you to personalize your cleansing routine"
 		],
 		"specs": [
-			{ "Water proof": "Yes" },
+			{ "Waterproof": "Yes" },
+			{ "Cordless": "Yes" },
 			{	"Materials": "Plastic & metal" },
-			{ "Care": "Rinse" }
+			{	"Skin Types": "All" }
 		],
-		"url" : "https://www.macys.com/shop/product/michael-todd-beauty-soniclear-petite-antimicrobial-sonic-skin-cleansing-brush?ID=10580794&CategoryID=30565&swatchColor=English%20Garden"
+		"image_main": "health_and_beauty/6a.jpg",
+		"images": [
+			"health_and_beauty/6a.jpg",
+			"health_and_beauty/6b.jpg",
+			"health_and_beauty/6c.jpg",
+			"health_and_beauty/6d.jpg"
+		]
   },
 	{
 		"sku": 51,
     "name": "Facefx 360 Anti-Aging Device",
 		"category": "6213d49cb7f67e0d64774e96",
-		"brand": "Silk'N",
+		"brand": "SilkN",
 		"best_seller": false,
 		"regular_price": 189.00,
 		"sale_price": 160.65,
 		"in_stock": true,
-		"description": "The Silk'N FaceFX 360 degree is a home fractional light-based treatment that helps rejuvenate the skin. It's a handheld LED device that helps treat periorbital wrinkles and reduces pore size and helping to improve the appearance of the skin.",
+		"description": "The SilkN FaceFX 360 degree is a home fractional light-based treatment that helps rejuvenate the skin. It's a handheld LED device that helps treat periorbital wrinkles and reduces pore size and helping to improve the appearance of the skin.",
 		"features": [
 			"Suitable for helping anti-aging and skin rejuvenation",
 			"Immediate improvements, long-lasting effects",
@@ -1406,9 +1471,15 @@
 		"specs": [
 			{ "Dimensions": "1.75 x 1.5 x 6 inches" },
 			{	"Materials": "Plastic Housing" },
-			{ "Care": "Wipe clean" }
+			{ "Automatic Shutoff": "Yes" }
 		],
-		"url" : "https://www.macys.com/shop/product/silkn-facefx-360-anti-aging-device?ID=10162141&CategoryID=30565"
+		"image_main": "health_and_beauty/7a.jpg",
+		"images": [
+			"health_and_beauty/7a.jpg",
+			"health_and_beauty/7b.jpg",
+			"health_and_beauty/7c.jpg",
+			"health_and_beauty/7d.jpg"
+		]
   },
 	{
 		"sku": 52,
@@ -1417,12 +1488,12 @@
 		"brand": "Skin Gym",
 		"best_seller": true,
 		"regular_price": 95.00,
-		"sale_price": 80.75,
+		"sale_price": 95.00,
 		"in_stock": false,
-		"description": "The ultimate facial accessory you can now bring home. Skin Gym High-Frequency Facial Wand uses an electrical current to help zap stubborn zits.",
+		"description": "Bye, breakouts. This facial accessory uses high-frequency electrical currents to help zap stubborn zits - from minor blemishes to the bad breakouts that seemingly happen overnight. With 3 attachments to target specific areas of the face, you can watch your skin transform with this professional spa-quality tool that you can use right from your living room.",
 		"features": [
+			"Best for acne-prone skin",
 			"Comes with three electrode attachments",
-			"Immediate improvements, long-lasting effects",
 			"Achieve glowing skin with improved texture"
 		],
 		"specs": [
@@ -1430,28 +1501,39 @@
 			{	"Materials": "Plastic Housing" },
 			{ "Care": "Wipe clean" }
 		],
-		"url" : "https://www.macys.com/shop/product/skin-gym-high-frequency-facial-wand?ID=11227441&CategoryID=30565"
+		"image_main": "health_and_beauty/8a.jpg",
+		"images": [
+			"health_and_beauty/8a.jpg",
+			"health_and_beauty/8b.jpg",
+			"health_and_beauty/8c.jpg"
+		]
 	},
 	{
 		"sku": 53,
 		"name": "For Men Broad Spectrum SPF 21 Moisturizer",
 		"category": "6213d49cb7f67e0d64774e96",
 		"brand": "Clinique",
-		"best_seller": true,
+		"best_seller": false,
 		"regular_price": 32.00,
 		"sale_price": 27.20,
 		"in_stock": true,
 		"description": "Needed hydration plus daily UVA/UVB protection. Improves skin's condition. Lightweight, oil-free formula absorbs quickly. Smooth onto face and neck, avoid immediate eye area.",
 		"features": [
-			"CActual product packaging for this item may vary",
 			"Allergy Tested",
-			"Fragrance Free"
+			"100% Fragrance Free",
+			"Actual product packaging for this item may vary"
 		],
 		"specs": [
 			{ "Size": "3.4 oz" },
 			{	"Consistency": "Thick" },
 			{ "Application": "2x per day" }
 		],
-		"url" : "https://www.macys.com/shop/product/clinique-for-men-broad-spectrum-spf-21-moisturizer-3.4-oz?ID=154642&CategoryID=58499"
+		"image_main": "health_and_beauty/9a.jpg",
+		"images": [
+			"health_and_beauty/9a.jpg",
+			"health_and_beauty/9b.jpg",
+			"health_and_beauty/9c.jpg",
+			"health_and_beauty/9d.jpg"
+		]
 	}
 ]

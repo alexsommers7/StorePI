@@ -1221,21 +1221,21 @@
   },
 	{
 		"sku": 44,
-    "name": "Dura Drone with Live Streaming Camera",
+    "name": "Fly and Drive Drone",
 		"category": "6213d49cb7f67e0d64774e92",
-		"brand": "Protocol",
+		"brand": "Sharper Image",
 		"best_seller": false,
-		"regular_price": 200.00,
-		"sale_price": 100.00,
+		"regular_price": 129.99,
+		"sale_price": 71.99,
 		"in_stock": false,
-		"description": "Create a seamless movie with 3 different camera angles + audio. Fly Dura using the 2.4 Gig remote control and with our free downloadable app, you can stream live video of your flight and switch effortlessly from the drone's aerial camera to your device's POV and selfie cameras.",
+		"description": "Fly and drive in style with the Sharper Image Fly Drive Drone Rechargeable Dual Function Vehicle. Race on land or fly through the air.",
 		"features": [
-			"Auto launch, hover, land with altitude sensor",
-			"Recharges through provided USB cord",
-			"Live streaming video capability with 480p camera resolution"
+			"Auto orientation and gyro stabilization flight control",
+			"Assisted landing - calibrating landing zone",
+			"2.4 GHz long range control"
 		],
 		"specs": [
-			{ "Dimensions": "7.25 inches wide (including blade guards)" },
+			{ "Flight Range": "250 foot radius" },
 			{ "Batteries": "Remote requires 4 x 'AA' batteries (not included)" },
 			{	"Materials": "100% Plastic" },
 			{ "Care": "Wipe clean" }
@@ -1244,7 +1244,8 @@
 		"images": [
 			"electronics/8a.jpg",
 			"electronics/8b.jpg",
-			"electronics/8c.jpg"
+			"electronics/8c.jpg",
+			"electronics/8d.jpg"
 		]
   },
 	{

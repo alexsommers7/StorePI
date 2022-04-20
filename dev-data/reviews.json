@@ -4,6 +4,7 @@
 		"review": "The jacket is very stylish and modern. I would recommend sizing down one size. My husband is 5'9 180 with an athletic build and we had to exchange for S from a M.",
 		"rating": 4,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6a",
 		"product": "6213d55cf8b9765ec0fbbcb0"
 	},
@@ -28,6 +29,7 @@
 		"review": "Amazing, clear, and good price. I've been shopping around for a decent-sized monitor for quite a while now. There are literally thousands to choose from, but I was working on a budget. This monitor came in to save the day. The box it comes in is really professional and neatly packed, it sets up really easily too. I do not regret the purchase at all.",
 		"rating": 5,
 		"recommends": true,
+		"incentivized": true,
 		"user": "6213d79b3a57cb555079db6a",
 		"product": "6213d55cf8b9765ec0fbbcaa"
 	},
@@ -68,6 +70,7 @@
 		"review": "I've had this couch for about 2 weeks now. I wanted to try it out and give an honest review. Its so beautiful and durable. I love that the cushion is very comfortable and yet durable. I dont think it will cave in any time soon. Soft velvet fabric used gives a soft feel. It arrived without any damages. It is actually a bigger couch than I initially thought. Do not hesitate to buy this you will not regret it. Assembly is very easy and takes less than 10 minutes. I would recommend this sofa based on looks as well as comfort.",
 		"rating": 5,
 		"recommends": true,
+		"incentivized": true,
 		"user": "6213d79b3a57cb555079db6a",
 		"product": "625c50fcc1198f626cc41829"
 	},
@@ -76,6 +79,7 @@
 		"review": "Very solid product, on time, good value, and meets my need for a work monitor. Easy to set up. Would be slightly better if it were more adjustable, but all in all very pleased.",
 		"rating": 4,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db74",
 		"product": "6213d55cf8b9765ec0fbbcaa"
 	},
@@ -108,6 +112,8 @@
 		"review": "Great shirt, my husband wears it as often as he can ever since I gifted it to him. Thanks for the great service and the great gift. Buy these - you will not regret it!",
 		"rating": 5,
 		"recommends": true,
+		"incentivized": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6a",
 		"product": "625c50fcc1198f626cc4182a"
 	},
@@ -116,6 +122,7 @@
 		"review": "There are so many details on this top! It's very good quality, I love the black because it looks classy and perfect for a date night top this is actually COMFORTABLE!!! I'm wearing a medium which is my normal size.",
 		"rating": 5,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db74",
 		"product": "625b0886432da9136843cb76"
 	},
@@ -124,6 +131,7 @@
 		"review": "Perfect monitor if you Know how to calibrate it! HDR isn't great though. Worth it once you calibrate with RGB color hues & saturation. So good many settings.",
 		"rating": 4,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6a",
 		"product": "6213d55cf8b9765ec0fbbcad"
 	},
@@ -180,6 +188,7 @@
 		"review": "I bought this outfit a few weeeks ago and I love it, I'm so happy I did. The material is good quality and fits my kid very well.",
 		"rating": 5,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6b",
 		"product": "625c50fcc1198f626cc41836"
 	},
@@ -196,6 +205,7 @@
 		"review": "The rejuvenating facial spray with lavender and chamomile is the best. It feel so refreshing and gets those essential oil smells creating a calm self, the cleaning oil makes such smooth skin and best of all is the lip balm. I got it at a discounted rate which was well worth the money. Full price I would've found it to be not the best value but great products either way.",
 		"rating": 4,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6b",
 		"product": "625c50fcc1198f626cc4183a"
 	},
@@ -208,18 +218,11 @@
 		"product": "625c50fcc1198f626cc41838"
 	},
 	{
-		"_id": "625c762ee84c84320ca30bc9",
-		"review": "So pretty in person - such a great addition to my kitchen. Quality is also amazing - just be sure to hand wash only!!",
-		"rating": 5,
-		"recommends": true,
-		"user": "6213d79b3a57cb555079db6b",
-		"product": "625c50fcc1198f626cc41839"
-	},
-	{
 		"_id": "625c762ee84c84320ca30bcd",
 		"review": "I'm 2 days into using this regimen and I'm a fan! I feel moisturized all day. I just wish there was a mini SPF included as I like some protection- don't believe this has it from what I've seen. But, great kit!",
 		"rating": 4,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6b",
 		"product": "625c50fcc1198f626cc4183d"
 	},
@@ -228,6 +231,7 @@
 		"review": "My husband loves this pair of jeans. He likes them because they have a zipper. Levi jeans are very durable and never go out of style.",
 		"rating": 5,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6b",
 		"product": "625c50fcc1198f626cc4183e"
 	},
@@ -236,6 +240,7 @@
 		"review": "Fits perfectly size XL, looks great much better and fleshy than picture. Got a really sweet deal on it to. Highly recommend.",
 		"rating": 5,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6b",
 		"product": "625c50fcc1198f626cc4183f"
 	},
@@ -260,6 +265,7 @@
 		"review": "When I first put it on, I wasn't sure what to think, but once I was dazzled up for my formal event with the dress on, I knew this was the right one. True to size, flattering, high quality and gorgeous material.",
 		"rating": 5,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db74",
 		"product": "625c50fcc1198f626cc41833"
 	},
@@ -292,6 +298,7 @@
 		"review": "Love Calvin Klien coats all together!!! This jacket is very warm coat and pretty fashionable at the same time. It fits right below the bum area for people who are worried that'll be to short. Its a perfect coat for the winter and its true to size and adult women size not junior size.",
 		"rating": 5,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6f",
 		"product": "625c50fcc1198f626cc41845"
 	},
@@ -316,6 +323,7 @@
 		"review": "This is such a great toy and educational also. My grandson just loves it and plays for hours with it!",
 		"rating": 5,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6f",
 		"product": "625c50fcc1198f626cc41847"
 	},
@@ -324,6 +332,7 @@
 		"review": "Love this toy. Got this for my nephew and he loved it. He open it and was so surprised. It comes with all the pieces on the front of the box and he was so excited to open it. Would recommend to anyone looking for a good gift.",
 		"rating": 4,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6f",
 		"product": "625c50fcc1198f626cc41848"
 	},
@@ -340,6 +349,7 @@
 		"review": "Unfortunately, it broke the first time we used it. It was too light, the wind carried it away and it lost contact with the controller and dropped to the ground. Obliterated on the first use.",
 		"rating": 2,
 		"recommends": false,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6c",
 		"product": "625c50fcc1198f626cc4184a"
 	},
@@ -348,6 +358,7 @@
 		"review": "I love the classic look this sofa has. It's comfortable and just lovely, very happy with my purchase.",
 		"rating": 5,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6c",
 		"product": "625c50fcc1198f626cc4184e"
 	},
@@ -364,6 +375,7 @@
 		"review": "So far we have been loving this security camera system for our house. It is very easy to install and friendly to use even for a not so tech-savvy person like me. Truly a plug and play product. When I opened the package, I was happily surprised by the free SD card that comes with the product (very thoughtful of the designer of the product to include this so users don't have to scramble around the house looking for an SD card). I am also loving the spotlight on the camera. I almost overlooked it at first, but it is so bright that it lights up my driveway beautifully at night! There's also a scheduling function that I use to turn the light on automatically from 8pm to 11:30pm. Highly recommend this product to anyone looking for a home security camera. From the thoughtful designs to the unbeatable price, this is one of my best purchases for our home. Totally worth the money!",
 		"rating": 5,
 		"recommends": true,
+		"incentivized": true,
 		"user": "6213d79b3a57cb555079db6c",
 		"product": "625c50fcc1198f626cc4184c"
 	},
@@ -372,6 +384,7 @@
 		"review": "Effective and quick! I've used these patches for several years and given them as gifts to my friends.",
 		"rating": 5,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6b",
 		"product": "625c50fcc1198f626cc4183c"
 	},
@@ -388,6 +401,7 @@
 		"review": "Decent buy. I bought four of these and they're definitely not made to be used together. One stops fading colors and stays at one color unless I press the button again on the remote. The one next to it is much brighter even though I lowered the dimming. The colors are nice and when used separately they are a great buy when on sale. You get a remote for each but you can save those and only use one on all of them. The timing for fading options are different on each (probably because I'm using different USB chargers with different outputs) so it's hard to get two to switch colors at the same time.",
 		"rating": 4,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6c",
 		"product": "625c50fcc1198f626cc4184d"
 	},
@@ -404,6 +418,7 @@
 		"review": "This couch is elegant, comfortable, and stylish. While I am using it in my glam room as an accent piece it is doing more for the room than expected. The delivery service was A1 as well.",
 		"rating": 5,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6c",
 		"product": "625c50fcc1198f626cc4184f"
 	},
@@ -412,6 +427,7 @@
 		"review": "Easy to shop. Easy to buy.",
 		"rating": 4,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6c",
 		"product": "625c50fcc1198f626cc41850"
 	},
@@ -420,6 +436,7 @@
 		"review": "This monitor is amazing! It has a crystal clear picture, great resolution! No blur and super quick response time. It was easy to setup and works beautifully! The colors are amazingly clear, vivid, and detailed. It is simple to adjust for your personal viewing angle, and is easy on your eyes. I would recommend this monitor to anyone looking to update your old one. You smiply cannot beat this quality at this price! Highly recommended!",
 		"rating": 5,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db70",
 		"product": "6213d55cf8b9765ec0fbbcad"
 	},
@@ -436,6 +453,7 @@
 		"review": "This is a great monitor for the price. It easily connected to a DVD player through HDMI and a sound bar through Bluetooth.",
 		"rating": 4,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db70",
 		"product": "6213d55cf8b9765ec0fbbcaa"
 	},
@@ -460,6 +478,7 @@
 		"review": "My skin feels better already after first use. Can't wait to see long term results. Most difficult part was waiting for it to fully charge so I could use it. I've always bought cheaper versions in the past that I thought were really good but this blows everything else I've ever tried away.",
 		"rating": 5,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db6c",
 		"product": "625c50fcc1198f626cc41852"
 	},
@@ -484,6 +503,7 @@
 		"review": "This shirt is very soft and cozy. Fits well!",
 		"rating": 5,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db70",
 		"product": "6213d55cf8b9765ec0fbbcb6"
 	},
@@ -500,6 +520,7 @@
 		"review": "Does this perfume smell good? Yes. However the lasting power is horrible for the price. I would honestly consider making this my go to spring scent if the longevity wasn't so bad. On me it only lasted two hours and most perfumes last between four to five hours on my skin. I bought this because I really like the smell of the original flowerbomb but it's one of my besties signature scents so I think of her whenever I smell it. I thought this would be similar but still have it's own identity but it sadly does not. It is basically the original flowerbomb with vanilla.",
 		"rating": 3,
 		"recommends": false,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db70",
 		"product": "6213d55cf8b9765ec0fbbcc6"
 	},
@@ -508,6 +529,7 @@
 		"review": "I have had several AMAZFIT and after trying some other brands, I always go back to AMAZFIT. On the economic side of smart watches these are reliable, resistant and elegant. ATENTION: The main issue I have noticed is that sometimes when AMAZFITs vibrate, make a buzzz sound and this should not be like that, is a vibration feature not a buzzer.",
 		"rating": 5,
 		"recommends": true,
+		"incentivized": true,
 		"user": "6213d79b3a57cb555079db70",
 		"product": "625c50fcc1198f626cc41827"
 	},
@@ -524,6 +546,7 @@
 		"review": "The build is solid with tufted fittings and cushions are strong with air able breathing. I needed one set for my living room and now ordering a second pair as well. The sofas are comfy, with great fabric and very easy to assemble. You will be satisfied with your living room with this one.",
 		"rating": 4,
 		"recommends": true,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db70",
 		"product": "625c50fcc1198f626cc41829"
 	},
@@ -540,20 +563,10 @@
 		"review": "After the first wash the legs shrunk so they now only reach mid-calf on my husband.",
 		"rating": 1,
 		"recommends": false,
+		"verified": true,
 		"user": "6213d79b3a57cb555079db74",
 		"product": "625c50fcc1198f626cc4182d"
 	},
-
-
-
-
-
-
-
-	
-
-
-	{ "user": "Jimmy Castillo" },
 	{
 		"_id": "623641df96433b10a833b05d",
 		"review": "I don't think this scent is groundbreaking, but not every scent has to be, does it? I love how simple and elegant this scent is at the same time. I love the vanilla orchid vibe I'm getting from this and it's beautiful. Overall this is a nice balance of floral and sweet (but not full on gourmand) and I really like that. I think this is a versatile scent and great for layering as well.",
@@ -562,72 +575,269 @@
 		"user": "6213d79b3a57cb555079db6d",
 		"product": "6213d55cf8b9765ec0fbbcc6"
 	},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	{ "user": "Daisy Gregory" },
-		{
-			"_id": "623641df96433b10a833b05e",
-			"review": "Exactly what it looked like in the picture. Size and color is perfect. Highly recommend!",
-			"rating": 5,
-			"recommends": true,
-			"user": "6213d79b3a57cb555079db6e",
-			"product": "6213d55cf8b9765ec0fbbccb"
-		},
-
-
-	{ "user": "Casey Zimmerman" },
-	{ "user": "Marco Lawrence" },
-	{ "user": "Kelly Beck" },
-	{ "user": "Cody Mendez" },
-	{ "user": "Dustin Fernandez" },
-	{ "user": "Phil Fletcher" },
-	{ "user": "Aubrey Strickland" },
-	{ "user": "Bennie Walton" },
-	{ "user": "Ramone Delgado" },
-	{ "user": "Perry Jimenez" },
-	{ "user": "Tracy Flores" }
-
-
-
-
-
-
-
+	{
+		"review": "Good baby shower gift. This coverall is very sweet and nicely made.",
+		"rating": 5,
+		"recommends": true,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db6d",
+		"product": "625c50fcc1198f626cc4182e"
+	},
+	{
+		"review": "Great speaker. Powerful and easy to use. I'm trying to work out how I can turn off the annoying start-up sound.",
+		"rating": 4,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db6d",
+		"product": "625c50fcc1198f626cc4182f"
+	},
+	{
+		"review": "This fit perfectly and the arm length was exact. Not too short. Very warm and received a lot of compliments.",
+		"rating": 5,
+		"recommends": true,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db6d",
+		"product": "625c50fcc1198f626cc41830"
+	},
+	{
+		"review": "This product was extremely high quality and great design overall. It is comfortable and suitable for fall/winter season yet it can be so stylish at the same time. I really like the combination of the two styles between puffer jacket on the sides and everything else leather jacket.",
+		"rating": 5,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db6d",
+		"product": "625c50fcc1198f626cc41831"
+	},
+	{
+		"review": "It's true to size, fits well, has flattering look with sleeves adding charm to it.",
+		"rating": 5,
+		"recommends": true,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db6d",
+		"product": "625c50fcc1198f626cc41832"
+	},
+	{
+		"review": "Beautiful dress. Photos cannot capture the beauty of this fabric. LRL has amazing style and this is the dress I selected for my sons wedding. I tried many many dresses and this one is special.",
+		"rating": 5,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db6d",
+		"product": "625c50fcc1198f626cc41833"
+	},
+	{
+		"review": "This drone is easy to set up and get started, but hard to control. The 14 age recommendation is definitely correct. I have limited experience with drones (I've only had one other), but I couldn't seem to get the hang of this one. On mine, the forward and backward seemed to be reversed and it didn't seem to matter if I was in compass mode or not. It was also pretty difficult to get it to hover in one spot without drifting pretty bad. I probably need to go through the trim procedure. I didn't test out the two stunt modes as I don't think I'll be taking this outside and it needs to be 10 ft up to perform those. I'm pretty sure this guy would zip off and away on me if I did.",
+		"rating": 4,
+		"recommends": true,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db6d",
+		"product": "625c50fcc1198f626cc41834"
+	},
+	{
+		"review": "I love the removable and adjustable stand it comes with. I was also surprised by the brightness and throw distance it was capable of, especially being such a small projector. The only issue was that the throw ratio was not listed on the specs or anywhere online, but I eventually was able to get an answer from customer service, the throw ratio being 1'.",
+		"rating": 5,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db6d",
+		"product": "625c50fcc1198f626cc41835"
+	},
+	{
+		"review": "I really like this cute set and want to love it, but the quality/thickness of the shirt is not quite what I hoped.",
+		"rating": 3,
+		"recommends": false,
+		"user": "6213d79b3a57cb555079db6d",
+		"product": "625c50fcc1198f626cc41836"
+	},
+	{
+		"review": "I needed a small pan for eggs because i was tired of cooking eggs for 1 in a large pan. This size is the perfect fit for what i was looking for. The non stick works great and makes it really easy to clean! Kitchen Aid never disappoints.",
+		"rating": 5,
+		"recommends": true,
+		"incentivized": true,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db6d",
+		"product": "625c50fcc1198f626cc41838"
+	},
+	{
+		"review": "When it was shipped the pots and pans were scratched on the outside and inside. Poor quality and disappointed.",
+		"rating": 2,
+		"recommends": false,
+		"user": "6213d79b3a57cb555079db6d",
+		"product": "625c50fcc1198f626cc41839"
+	},
+	{
+		"review": "These products do wonders for your skin!! Clears up acne, leaves skin soft and supple and my skin looks brighter and not as dull. I'm loving this and will purchase again. I've already purchased the same gift set for a few friends!",
+		"rating": 5,
+		"recommends": true,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db6d",
+		"product": "625c50fcc1198f626cc4183a"
+	},
+	{
+		"_id": "623641df96433b10a833b05e",
+		"review": "Exactly what it looked like in the picture. Size and color is perfect. Highly recommend!",
+		"rating": 5,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db6e",
+		"product": "6213d55cf8b9765ec0fbbccb"
+	},
+	{
+		"review": "I saw a review of this product and had to try it. Within a few days of the first use, stubborn breakouts were drying up and the rest of my skin looks smoother and fresher (I'm mid 50s). I have been using every other day and it hasn't been too drying for my skin. I has some slight “purging” after the first use, but not since. To me, this lactic acid product works better than over the counter retinol products I've tried.",
+		"rating": 5,
+		"recommends": true,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db6e",
+		"product": "625c50fcc1198f626cc4183b"
+	},
+	{
+		"review": "I like them but they really slide bad.",
+		"rating": 3,
+		"recommends": false,
+		"user": "6213d79b3a57cb555079db6e",
+		"product": "625c50fcc1198f626cc4183c"
+	},
+	{
+		"review": "I love how my face smells and feels when I finish my morning routine. Like a beautiful sunrise with a sweet smell of fruit salad.",
+		"rating": 5,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db6e",
+		"product": "625c50fcc1198f626cc4183d"
+	},
+	{
+		"review": "Very disappointed. Bought these for my son. He's only been wearing them for a couple months and they are tearing at the seams in several areas. They aren't worn thin, nor are they too small. He loves the fit and style but We can't be replacing them every 2 months.",
+		"rating": 2,
+		"recommends": false,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db6e",
+		"product": "625c50fcc1198f626cc4183e"
+	},
+	{
+		"review": "I have always been a fan of the Nike brand. I brought these for wear in my AAU officiating. Nice and comfortable, light, and breathable.",
+		"rating": 5,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db6e",
+		"product": "625c50fcc1198f626cc41840"
+	},
+	{
+		"review": "I wasn't a fan. It ran very small and the material felt cheap and thin.",
+		"rating": 2,
+		"recommends": false,
+		"user": "6213d79b3a57cb555079db6e",
+		"product": "625c50fcc1198f626cc41841"
+	},
+	{
+		"review": "Bought it yesterday when I saw in a store. Shoulders yes are little big for normal size small. Would love if the quality were a little softer, but for the asked price looks very cool.",
+		"rating": 4,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db6e",
+		"product": "625c50fcc1198f626cc41842"
+	},
+	{
+		"review": "I have been looking for basic trench for a while. Picked this up on sale & I'm really happy with it. The fit is true to a hair snug, I live in a warm climate so not an issue for me. My arms are longer than average & sleeve is perfect for me. Overall happy with this purchase.",
+		"rating": 5,
+		"recommends": true,
+		"incentivized": true,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db6e",
+		"product": "625c50fcc1198f626cc41843"
+	},
+	{
+		"review": "This coat is absolutely beautiful! The color pictured is accurate. My dad said that I looked like a movie star in the coat. (Yes, that's a dad for you!) I would describe it as a dress coat. Certainly not your 'let's go play in the snow coat'. It's very stylish and fun to wear when you need something other than a puffer jacket!",
+		"rating": 5,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db6e",
+		"product": "625c50fcc1198f626cc41844"
+	},
+	{
+		"review": "The warmest, trendiest puffer! Love the belted middle, gives you shape and makes the jacket look fitted yet cozy.",
+		"rating": 4,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db6e",
+		"product": "625c50fcc1198f626cc41845"
+	},
+	{
+		"review": "This was given to my child for a birthday gift and it was a favorite. The first day, it was played with for about three hours with siblings. It has a control that can move the dinosaur robot. It is combining two kid favorites into one awesome toy. It is a bit small, but that's good for small hands and fine motor skills. It was my child's tenth birthday, and I feel a couple years younger to a teen would appreciate this toy.",
+		"rating": 5,
+		"recommends": true,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db73",
+		"product": "625c50fcc1198f626cc41846"
+	},
+	{
+		"review": "My boys were obsessed with this item. It helped them fall asleep and kept them from being around of the dark. The little legs that hold it up broke sooner than i would have expected from my children switching the viewing mode. Now they cant use it unless it is propped up with other items.",
+		"rating": 4,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db73",
+		"product": "625c50fcc1198f626cc41847"
+	},
+	{
+		"review": "I bought my son several of these lego set and have been very impressed with them all. The quality is great and the detail is phenomenal. It is easy to use for a beginner builder and the legos snap together easily. Definitely a must buy!",
+		"rating": 5,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db73",
+		"product": "625c50fcc1198f626cc41848"
+	},
+	{
+		"review": "Bought this as a gift for my boyfriend for Christmas and he loved it! Plush came in great condition and has good detailing to it. If you're a fan of the character and series it's a must buy for any plushie collection.",
+		"rating": 5,
+		"recommends": true,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db73",
+		"product": "625c50fcc1198f626cc41849"
+	},
+	{
+		"review": "This jet/plane is awesome easy to fly for the novice and fun to fly for the experience. If windy you need to take off horizontally in 3D then switch to 6g and it flies great. Vertical take off works perfectly and once you get the hang of it there is no need for auto landing. Jet can be very fast and smooth. I would recommend this to anyone that has basic experience in rc flying. When pairing follow the pairing instructions and repeat for a second time to make sure the gyro is perfect then the plane will be perfectly synchronized. Other than that have fun and happy flying!",
+		"rating": 4,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db73",
+		"product": "625c50fcc1198f626cc4184a"
+	},
+	{
+		"review": "Fun toy to play with. The battery doesn't not last too long but is fun to play with while it lasts. Would make a great Birthday or Christmas present for a small child. Would recommend to someone with children.",
+		"rating": 4,
+		"recommends": true,
+		"incentivized": true,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db73",
+		"product": "625c50fcc1198f626cc4184b"
+	},
+	{
+		"review": "Easily installed and am very satisfied. I really like that the camera and spotlight are both in one compact housing. The spotlight is very bright and helps improve the video quality significantly at night. When the light comes on at night, you can see the colors very clearly. Quite outstanding!",
+		"rating": 4,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db73",
+		"product": "625c50fcc1198f626cc4184c"
+	},
+	{
+		"review": "The light is cool, I thought it was going to be two since the picture shows two but that is just on me since I did not read all the description. The light works well, it does not come with an outlet plug but I have plenty anyway. The remote does turn it on, off, different colors, how to change colors too. It can be placed horizontally or vertically. looks nice. Would have liked it to be music sensor too, that would have been a very nice plus. Regardless, looks nice. I have not tried the app, only the remote.",
+		"rating": 3,
+		"recommends": true,
+		"user": "6213d79b3a57cb555079db73",
+		"product": "625c50fcc1198f626cc4184d"
+	},
+	{
+		"review": "I absolutely love and admire our sofa. The color reflects more of gray-bluish and adds so much character to our living room space. The delivery crew did an amazing job in coming through the door without damaging the walls. They were quite accommodating when I decided to switch the sofa placement and location. My overall experience from purchase, scheduling and delivery exceeded my expectations.",
+		"rating": 5,
+		"recommends": true,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db73",
+		"product": "625c50fcc1198f626cc4184e"
+	},
+	{
+		"review": "Love the color and size but it is rather uncomfortable. It hurt my back and I tried returning to get a different type but was told I only had 3 days to have returned it. Unfortunately, I traveled for work during that time and when I returned was when I realized how uncomfortable it was so I couldn't return it. If you are the type that love soft couches this may not be for you.",
+		"rating": 2,
+		"recommends": false,
+		"user": "6213d79b3a57cb555079db73",
+		"product": "625c50fcc1198f626cc4184f"
+	},
+	{
+		"review": "Chair was back ordered, but I always received updates. I appreciate that and love the chair. Well worth the wait.",
+		"rating": 5,
+		"recommends": true,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db73",
+		"product": "625c50fcc1198f626cc41850"
+	},
+	{
+		"review": "Love the chairs!! Very comfortable and sturdy. Love how they went with our dinning room table that needed a quick and inexpensive makeover.",
+		"rating": 5,
+		"recommends": true,
+		"incentivized": true,
+		"verified": true,
+		"user": "6213d79b3a57cb555079db73",
+		"product": "625c50fcc1198f626cc41851"
+	}
 ]

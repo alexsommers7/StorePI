@@ -14,6 +14,14 @@ const reviewSchema = new mongoose.Schema(
       required: [true, 'Review must contain a rating'],
     },
     recommends: Boolean,
+    incentivized: {
+      type: Boolean,
+      default: false,
+    },
+    verified: {
+      type: Boolean,
+      default: false,
+    },
     created_at: {
       type: Date,
       default: Date.now(),
@@ -70,7 +78,7 @@ reviewSchema.statics.calcAverageRating = async function (productId) {
   } else {
     await Product.findByIdAndUpdate(productId, {
       reviews_quantity: 0,
-      reviews_average: 4.2,
+      reviews_average: 0,
     });
   }
 };

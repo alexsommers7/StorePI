@@ -13,7 +13,10 @@ const reviewSchema = new mongoose.Schema(
       max: 5,
       required: [true, 'Review must contain a rating'],
     },
-    recommends: Boolean,
+    recommends: {
+      type: Boolean,
+      default: true,
+    },
     incentivized: {
       type: Boolean,
       default: false,

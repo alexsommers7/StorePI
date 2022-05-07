@@ -2,7 +2,6 @@ const crypto = require('crypto');
 const { promisify } = require('util');
 const jwt = require('jsonwebtoken');
 const User = require('../models/userModel');
-const Cart = require('../models/cartModel');
 const catchAsync = require('../utils/catchAsync');
 const AppError = require('../utils/appError');
 
@@ -25,18 +24,13 @@ const createAndSendToken = (user, statusCode, req, res, next, sendJWT) => {
   // hide from output (not saving)
   user.password = undefined;
 
-  Cart.findOne({ user })
-    .then((cart) => {
-      res.status(statusCode).json({
-        status: 'success',
-        token: sendJWT ? token : 'JWT would be here in the real world',
-        data: {
-          user,
-          cart: cart || [],
-        },
-      });
-    })
-    .catch((err) => next(new AppError(err.message, 400)));
+  res.status(200).json({
+    status: 'success',
+    token: sendJWT ? token : 'JWT would be here in the real world',
+    data: {
+      user,
+    },
+  });
 };
 
 exports.signup = catchAsync(async (req, res, next) => {

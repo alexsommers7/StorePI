@@ -153,10 +153,7 @@ exports.createUser = (req, res, next) => {
   });
 };
 
-exports.getUser = factory.getOne(User, {
-  path: 'wishlist',
-  select: 'name sku',
-});
+exports.getUser = factory.getOne(User);
 
 exports.getAllUsers = factory.getAll(User);
 

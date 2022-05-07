@@ -81,7 +81,7 @@ const userSchema = new mongoose.Schema({
 // });
 
 userSchema.pre(/^find/, async function (next) {
-  this.find({ active: { $ne: false } }).select('-wishlist');
+  this.find({ active: { $ne: false } }).select('photo role name email');
   next();
 });
 

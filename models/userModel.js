@@ -85,6 +85,11 @@ userSchema.pre(/^find/, async function (next) {
   next();
 });
 
+userSchema.pre(/^find/, async function (next) {
+  this.select('-wishlist');
+  next();
+});
+
 userSchema.methods.correctPassword = async function (
   candidatePassword,
   userPassword

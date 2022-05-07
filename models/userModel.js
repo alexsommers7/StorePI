@@ -81,12 +81,7 @@ const userSchema = new mongoose.Schema({
 // });
 
 userSchema.pre(/^find/, async function (next) {
-  this.find({ active: { $ne: false } });
-  next();
-});
-
-userSchema.pre(/^find/, async function (next) {
-  this.select('-wishlist');
+  this.find({ active: { $ne: false } }).select('-wishlist');
   next();
 });
 

@@ -28,7 +28,7 @@ const reviewSchema = new mongoose.Schema(
     },
     created_at: {
       type: Date,
-      default: randomDate(),
+      default: () => randomDate(),
     },
     product: {
       type: mongoose.Schema.ObjectId,

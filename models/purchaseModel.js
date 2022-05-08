@@ -20,7 +20,7 @@ const purchaseSchema = new mongoose.Schema(
     },
     date: {
       type: Date,
-      default: randomDate(),
+      default: () => randomDate(),
     },
     paid: {
       type: Boolean,

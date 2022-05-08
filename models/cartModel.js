@@ -25,7 +25,7 @@ const cartSchema = new mongoose.Schema(
     ],
     created_at: {
       type: Date,
-      default: randomDate(),
+      default: () => randomDate(),
     },
   },
   {

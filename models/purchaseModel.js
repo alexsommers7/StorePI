@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
 const priceFormat = require('../utils/priceFormat');
+const randomDate = require('../utils/randomDate');
 
 const purchaseSchema = new mongoose.Schema(
   {
@@ -19,7 +20,7 @@ const purchaseSchema = new mongoose.Schema(
     },
     date: {
       type: Date,
-      default: Date.now(),
+      default: randomDate(),
     },
     paid: {
       type: Boolean,

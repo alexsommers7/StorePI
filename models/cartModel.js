@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
 const priceFormat = require('../utils/priceFormat');
+const randomDate = require('../utils/randomDate');
 // const Product = require('./productModel');
 
 const cartSchema = new mongoose.Schema(
@@ -24,7 +25,7 @@ const cartSchema = new mongoose.Schema(
     ],
     created_at: {
       type: Date,
-      default: Date.now(),
+      default: randomDate(),
     },
   },
   {

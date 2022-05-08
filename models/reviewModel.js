@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
 const Product = require('./productModel');
+const randomDate = require('../utils/randomDate');
 
 const reviewSchema = new mongoose.Schema(
   {
@@ -27,7 +28,7 @@ const reviewSchema = new mongoose.Schema(
     },
     created_at: {
       type: Date,
-      default: Date.now(),
+      default: randomDate(),
     },
     product: {
       type: mongoose.Schema.ObjectId,

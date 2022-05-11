@@ -24,12 +24,12 @@
 			{ "Response Time": "5 ms" },
 			{ "Color": "Black" }
 		],
-		"image_main": "electronics/1a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/1a.jpg",
 		"images": [
-			"electronics/1a.jpg",
-			"electronics/1b.jpg",
-			"electronics/1c.jpg",
-			"electronics/1d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/1a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/1b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/1c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/1d.jpg"
 		]
   },
 	{
@@ -57,12 +57,12 @@
 			{ "Response Time": "1 ms" },
 			{ "Color": "Black" }
 		],
-		"image_main": "electronics/2a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/2a.jpg",
 		"images": [
-			"electronics/2a.jpg",
-			"electronics/2b.jpg",
-			"electronics/2c.jpg",
-			"electronics/2d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/2a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/2b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/2c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/2d.jpg"
 		]
   },
 	{
@@ -86,13 +86,13 @@
 			{ "Fit Type": "Slim" },
 			{ "Color": "Army Green" }
 		],
-		"image_main": "mens_clothing/1a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/1a.jpg",
 		"images": [
-			"mens_clothing/1a.jpg",
-			"mens_clothing/1b.jpg",
-			"mens_clothing/1c.jpg",
-			"mens_clothing/1d.jpg",
-			"mens_clothing/1e.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/1a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/1b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/1c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/1d.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/1e.jpg"
 		]
   },
 	{
@@ -116,11 +116,11 @@
 			{ "Wash Type": "Machine wash" },
 			{ "Color": "Lavender" }
 		],
-		"image_main": "womens_clothing/1a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/1a.jpg",
 		"images": [
-			"womens_clothing/1a.jpg",
-			"womens_clothing/1b.jpg",
-			"womens_clothing/1c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/1a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/1b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/1c.jpg"
 		]
   },
 	{
@@ -143,10 +143,10 @@
 			{ "Wash Type": "Machine wash" },
 			{ "Color": "Blue Bright Buffalo" }
 		],
-		"image_main": "kids_and_baby/1a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/1a.jpg",
 		"images": [
-			"kids_and_baby/1a.jpg",
-			"kids_and_baby/1b.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/1a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/1b.jpg"
 		]
   },
 	{
@@ -169,12 +169,12 @@
 			{ "Scent Type": "Warm Florals" },
 			{ "Key Notes": "Vine Peach, Ruby Orchid, Bourbon Vanilla" }
 		],
-		"image_main": "health_and_beauty/1a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/1a.jpg",
 		"images": [
-			"health_and_beauty/1a.jpg",
-			"health_and_beauty/1b.jpg",
-			"health_and_beauty/1c.jpg",
-			"health_and_beauty/1d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/1a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/1b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/1c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/1d.jpg"
 		]
   },
 	{
@@ -199,12 +199,12 @@
 			{ "Shape": "Rectangular" },
 			{ "Pattern": "Floral" }
 		],
-		"image_main": "home/1a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/1a.jpg",
 		"images": [
-			"home/1a.jpg",
-			"home/1b.jpg",
-			"home/1c.jpg",
-			"home/1d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/1a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/1b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/1c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/1d.jpg"
 		]
   },
 	{
@@ -229,11 +229,11 @@
 			{ "Sports Modes": "70+" },
 			{ "Water Reistance": "5 ATM" }
 		],
-		"image_main": "electronics/3a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/3a.jpg",
 		"images": [
-			"electronics/3a.jpg",
-			"electronics/3b.jpg",
-			"electronics/3c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/3a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/3b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/3c.jpg"
 		]
   },
 	{
@@ -257,10 +257,10 @@
 			{ "Item Weight": "7 ounces" },
 			{ "Manufacturer-Recommended Age": "3 years and up" }
 		],
-		"image_main": "kids_and_baby/2a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/2a.jpg",
 		"images": [
-			"kids_and_baby/2a.jpg",
-			"kids_and_baby/2b.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/2a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/2b.jpg"
 		]
   },
 	{
@@ -285,12 +285,12 @@
 			{ "Room Type": "Bedroom, Living Room, Home Office" },
 			{ "Country of Origin": "Vietnam" }
 		],
-		"image_main": "home/2a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/2a.jpg",
 		"images": [
-			"home/2a.jpg",
-			"home/2b.jpg",
-			"home/2c.jpg",
-			"home/2d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/2a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/2b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/2c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/2d.jpg"
 		]
   },
 	{
@@ -315,12 +315,12 @@
 			{ "ZeroSkratch Protection": "Yes" },
 			{ "OilBlok Technology": "Yes" }
 		],
-		"image_main": "mens_clothing/2a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/2a.jpg",
 		"images": [
-			"mens_clothing/2a.jpg",
-			"mens_clothing/2b.jpg",
-			"mens_clothing/2c.jpg",
-			"mens_clothing/2d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/2a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/2b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/2c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/2d.jpg"
 		]
   },
 	{
@@ -344,11 +344,11 @@
 			{ "Wash Instructions": "Hand wash or machine wash in laundry bag" },
 			{ "Imported": "Yes" }
 		],
-		"image_main": "womens_clothing/2a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/2a.jpg",
 		"images": [
-			"womens_clothing/2a.jpg",
-			"womens_clothing/2b.jpg",
-			"womens_clothing/2c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/2a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/2b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/2c.jpg"
 		]
   },
 	{
@@ -372,11 +372,11 @@
 			{ "Inseam": "Short 29 inches, Medium 31 inches, Long 33 inches" },
 			{ "Rise": "Mid rise, sits at the natural waist" }
 		],
-		"image_main": "womens_clothing/3a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/3a.jpg",
 		"images": [
-			"womens_clothing/3a.jpg",
-			"womens_clothing/3b.jpg",
-			"womens_clothing/3c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/3a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/3b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/3c.jpg"
 		]
   },
 	{
@@ -400,11 +400,11 @@
 			{ "Pant Material": "Cotton" },
 			{ "Care": "Machine washable" }
 		],
-		"image_main": "mens_clothing/3a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/3a.jpg",
 		"images": [
-			"mens_clothing/3a.jpg",
-			"mens_clothing/3b.jpg",
-			"mens_clothing/3c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/3a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/3b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/3c.jpg"
 		]
   },
 	{
@@ -428,11 +428,11 @@
 			{ "Care": "Machine washable" },
 			{ "Imported": "Yes" }
 		],
-		"image_main": "kids_and_baby/3a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/3a.jpg",
 		"images": [
-			"kids_and_baby/3a.jpg",
-			"kids_and_baby/3b.jpg",
-			"kids_and_baby/3c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/3a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/3b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/3c.jpg"
 		]
   },
 	{
@@ -455,12 +455,12 @@
 			{ "Materials": "Plastic" },
 			{ "Play Time": "12 hours" }
 		],
-		"image_main": "electronics/4a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/4a.jpg",
 		"images": [
-			"electronics/4a.jpg",
-			"electronics/4b.jpg",
-			"electronics/4c.jpg",
-			"electronics/4d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/4a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/4b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/4c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/4d.jpg"
 		]
   },
 	{
@@ -484,11 +484,11 @@
 			{ "Materials": "Polyester; faux fur: polyester/acrylic" },
 			{ "Care": "Machine washable" }
 		],
-		"image_main": "mens_clothing/4a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/4a.jpg",
 		"images": [
-			"mens_clothing/4a.jpg",
-			"mens_clothing/4b.jpg",
-			"mens_clothing/4c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/4a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/4b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/4c.jpg"
 		]
   },
 	{
@@ -512,12 +512,12 @@
 			{ "Materials": "Shell face: polyurethane; shell back: polyester/cotton" },
 			{ "Care": "Machine washable" }
 		],
-		"image_main": "mens_clothing/5a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/5a.jpg",
 		"images": [
-			"mens_clothing/5a.jpg",
-			"mens_clothing/5b.jpg",
-			"mens_clothing/5c.jpg",
-			"mens_clothing/5d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/5a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/5b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/5c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/5d.jpg"
 		]
   },
 	{
@@ -540,12 +540,12 @@
 			{ "Materials": "Polyester/spandex" },
 			{ "Care": "Dry clean" }
 		],
-		"image_main": "womens_clothing/4a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/4a.jpg",
 		"images": [
-			"womens_clothing/4a.jpg",
-			"womens_clothing/4b.jpg",
-			"womens_clothing/4c.jpg",
-			"womens_clothing/4d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/4a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/4b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/4c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/4d.jpg"
 		]
   },
 	{
@@ -569,11 +569,11 @@
 			{ "Materials": "Shell and lining: polyester/elastane" },
 			{ "Care": "Dry clean" }
 		],
-		"image_main": "womens_clothing/5a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/5a.jpg",
 		"images": [
-			"womens_clothing/5a.jpg",
-			"womens_clothing/5b.jpg",
-			"womens_clothing/5c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/5a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/5b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/5c.jpg"
 		]
   },
 	{
@@ -597,12 +597,12 @@
 			{ "Remote Battery Type": "4x AA batteries (not included)" },
 			{ "Materials": "Plastic" }
 		],
-		"image_main": "electronics/5a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/5a.jpg",
 		"images": [
-			"electronics/5a.jpg",
-			"electronics/5b.jpg",
-			"electronics/5c.jpg",
-			"electronics/5d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/5a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/5b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/5c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/5d.jpg"
 		]
   },
 	{
@@ -628,12 +628,12 @@
 			{ "Display Distance": "Up to 8.5 feet" },
 			{ "Input Type": "HDMI" }
 		],
-		"image_main": "electronics/6a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/6a.jpg",
 		"images": [
-			"electronics/6a.jpg",
-			"electronics/6b.jpg",
-			"electronics/6c.jpg",
-			"electronics/6d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/6a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/6b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/6c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/6d.jpg"
 		]
   },
 	{
@@ -656,11 +656,11 @@
 			{ "Shorts Materials": "100% Polyester Closed-Hole Mesh" },
 			{ "Care": "Machine washable" }
 		],
-		"image_main": "kids_and_baby/4a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/4a.jpg",
 		"images": [
-			"kids_and_baby/4a.jpg",
-			"kids_and_baby/4b.jpg",
-			"kids_and_baby/4c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/4a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/4b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/4c.jpg"
 		]
   },
 	{
@@ -684,10 +684,10 @@
 			{ "Materials": "100% Polyester" },
 			{ "Care": "Hand Wash" }
 		],
-		"image_main": "kids_and_baby/5a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/5a.jpg",
 		"images": [
-			"kids_and_baby/5a.jpg",
-			"kids_and_baby/5b.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/5a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/5b.jpg"
 		]
   },
 	{
@@ -712,12 +712,12 @@
 			{ "Coating": "Triple layer, PFOA-free nonstick" },
 			{ "Care": "Dishwasher safe" }
 		],
-		"image_main": "home/3a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/3a.jpg",
 		"images": [
-			"home/3a.jpg",
-			"home/3b.jpg",
-			"home/3c.jpg",
-			"home/3d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/3a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/3b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/3c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/3d.jpg"
 		]
   },
 	{
@@ -741,15 +741,15 @@
 			{ "Materials": "Aluminum, ceramic, glass, beechwood" },
 			{ "Care": "Hand wash" }
 		],
-		"image_main": "home/4a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/4a.jpg",
 		"images": [
-			"home/4a.jpg",
-			"home/4b.jpg",
-			"home/4c.jpg",
-			"home/4d.jpg",
-			"home/4e.jpg",
-			"home/4f.jpg",
-			"home/4g.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/4a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/4b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/4c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/4d.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/4e.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/4f.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/4g.jpg"
 		]
   },
 	{
@@ -776,11 +776,11 @@
 			{ "Vitamin C Serum Ingredients": "Vitamin C, Sodium Hyaluronate, Ginseng Extract" },
 			{ "Lip Balm Ingredients": "Cocoa Butter, Vitamin E, Wheat Germ Oil" }
 		],
-		"image_main": "health_and_beauty/2a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/2a.jpg",
 		"images": [
-			"health_and_beauty/2a.jpg",
-			"health_and_beauty/2b.jpg",
-			"health_and_beauty/2c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/2a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/2b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/2c.jpg"
 		]
   },
 	{
@@ -805,12 +805,12 @@
 			{ "Vegan": "Yes" },
 			{ "Cruelty-Free": "Yes" }
 		],
-		"image_main": "health_and_beauty/3a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/3a.jpg",
 		"images": [
-			"health_and_beauty/3a.jpg",
-			"health_and_beauty/3b.jpg",
-			"health_and_beauty/3c.jpg",
-			"health_and_beauty/3d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/3a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/3b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/3c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/3d.jpg"
 		]
   },
 	{
@@ -834,12 +834,12 @@
 			{ "Ingredients": "Formulated without parabens, sulfates, mineral oils, silicone, petroleum & phthalates" },
 			{ "Cruelty-Free": "Yes" }
 		],
-		"image_main": "health_and_beauty/4a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/4a.jpg",
 		"images": [
-			"health_and_beauty/4a.jpg",
-			"health_and_beauty/4b.jpg",
-			"health_and_beauty/4c.jpg",
-			"health_and_beauty/4d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/4a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/4b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/4c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/4d.jpg"
 		]
   },
 	{
@@ -864,13 +864,13 @@
 			{ "Vegan": "Yes" },
 			{ "Cruelty-Free": "Yes" }
 		],
-		"image_main": "health_and_beauty/5a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/5a.jpg",
 		"images": [
-			"health_and_beauty/5a.jpg",
-			"health_and_beauty/5b.jpg",
-			"health_and_beauty/5c.jpg",
-			"health_and_beauty/5d.jpg",
-			"health_and_beauty/5e.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/5a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/5b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/5c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/5d.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/5e.jpg"
 		]
   },
 	{
@@ -894,12 +894,12 @@
 			{ "Materials": "100% cotton" },
 			{ "Care": "Machine washable" }
 		],
-		"image_main": "mens_clothing/6a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/6a.jpg",
 		"images": [
-			"mens_clothing/6a.jpg",
-			"mens_clothing/6b.jpg",
-			"mens_clothing/6c.jpg",
-			"mens_clothing/6d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/6a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/6b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/6c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/6d.jpg"
 		]
   },
 	{
@@ -922,11 +922,11 @@
 			{ "Materials": "Shell and lining: polyester" },
 			{ "Care": "Machine washable" }
 		],
-		"image_main": "mens_clothing/7a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/7a.jpg",
 		"images": [
-			"mens_clothing/7a.jpg",
-			"mens_clothing/7b.jpg",
-			"mens_clothing/7c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/7a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/7b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/7c.jpg"
 		]
   },
 	{
@@ -950,11 +950,11 @@
 			{ "Materials": "100% Polyester" },
 			{ "Care": "Machine washable" }
 		],
-		"image_main": "mens_clothing/8a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/8a.jpg",
 		"images": [
-			"mens_clothing/8a.jpg",
-			"mens_clothing/8b.jpg",
-			"mens_clothing/8c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/8a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/8b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/8c.jpg"
 		]
   },
 	{
@@ -978,11 +978,11 @@
 			{ "Materials": "100% cotton" },
 			{ "Care": "Machine washable" }
 		],
-		"image_main": "mens_clothing/9a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/9a.jpg",
 		"images": [
-			"mens_clothing/9a.jpg",
-			"mens_clothing/9b.jpg",
-			"mens_clothing/9c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/9a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/9b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/mens_clothing/9c.jpg"
 		]
   },
 	{	
@@ -1006,12 +1006,12 @@
 			{ "Materials": "Shell: polyester/wool; lining: polyester" },
 			{ "Care": "Dry clean" }
 		],
-		"image_main": "womens_clothing/6a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/6a.jpg",
 		"images": [
-			"womens_clothing/6a.jpg",
-			"womens_clothing/6b.jpg",
-			"womens_clothing/6c.jpg",
-			"womens_clothing/6d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/6a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/6b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/6c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/6d.jpg"
 		]
   },
 	{
@@ -1035,11 +1035,11 @@
 			{ "Materials": "100% Polyester" },
 			{ "Care": "Machine washable" }
 		],
-		"image_main": "womens_clothing/7a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/7a.jpg",
 		"images": [
-			"womens_clothing/7a.jpg",
-			"womens_clothing/7b.jpg",
-			"womens_clothing/7c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/7a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/7b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/7c.jpg"
 		]
   },
 	{
@@ -1062,11 +1062,11 @@
 			{ "Materials": "Shell: wool/polyester/nylon/acrylic; faux leather: polyurethane/polyester" },
 			{ "Care": "Dry clean" }
 		],
-		"image_main": "womens_clothing/8a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/8a.jpg",
 		"images": [
-			"womens_clothing/8a.jpg",
-			"womens_clothing/8b.jpg",
-			"womens_clothing/8c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/8a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/8b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/8c.jpg"
 		]
   },
 	{
@@ -1090,12 +1090,12 @@
 			{ "Materials": "Shell, lining: polyester; belt: polyester/latex" },
 			{ "Care": "Machine washable" }
 		],
-		"image_main": "womens_clothing/9a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/9a.jpg",
 		"images": [
-			"womens_clothing/9a.jpg",
-			"womens_clothing/9b.jpg",
-			"womens_clothing/9c.jpg",
-			"womens_clothing/9d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/9a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/9b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/9c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/womens_clothing/9d.jpg"
 		]
   },
 	{
@@ -1119,12 +1119,12 @@
 			{ "Materials": "100% Plastic" },
 			{ "Care": "Spot Clean" }
 		],
-		"image_main": "kids_and_baby/6a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/6a.jpg",
 		"images": [
-			"kids_and_baby/6a.jpg",
-			"kids_and_baby/6b.jpg",
-			"kids_and_baby/6c.jpg",
-			"kids_and_baby/6d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/6a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/6b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/6c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/6d.jpg"
 		]
   },
 	{
@@ -1148,12 +1148,12 @@
 			{ "Materials": "100% Plastic" },
 			{ "Care": "Spot Clean" }
 		],
-		"image_main": "kids_and_baby/7a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/7a.jpg",
 		"images": [
-			"kids_and_baby/7a.jpg",
-			"kids_and_baby/7b.jpg",
-			"kids_and_baby/7c.jpg",
-			"kids_and_baby/7d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/7a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/7b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/7c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/7d.jpg"
 		]
   },
 	{
@@ -1178,11 +1178,11 @@
 			{	"Materials": "100% Plastic" },
 			{ "Care": "Wipe clean" }
 		],
-		"image_main": "kids_and_baby/8a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/8a.jpg",
 		"images": [
-			"kids_and_baby/8a.jpg",
-			"kids_and_baby/8b.jpg",
-			"kids_and_baby/8c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/8a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/8b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/8c.jpg"
 		]
   },
 	{
@@ -1207,12 +1207,12 @@
 			{	"Materials": "100% Polyester" },
 			{ "Care": "Machine washable" }
 		],
-		"image_main": "kids_and_baby/9a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/9a.jpg",
 		"images": [
-			"kids_and_baby/9a.jpg",
-			"kids_and_baby/9b.jpg",
-			"kids_and_baby/9c.jpg",
-			"kids_and_baby/9d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/9a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/9b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/9c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/kids_and_baby/9d.jpg"
 		]
   },
 	{
@@ -1237,12 +1237,12 @@
 			{ "Ages": "14+" },
 			{ "Care": "Wipe clean" }
 		],
-		"image_main": "electronics/7a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/7a.jpg",
 		"images": [
-			"electronics/7a.jpg",
-			"electronics/7b.jpg",
-			"electronics/7c.jpg",
-			"electronics/7d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/7a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/7b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/7c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/7d.jpg"
 		]
   },
 	{
@@ -1267,12 +1267,12 @@
 			{	"Materials": "100% Plastic" },
 			{ "Care": "Wipe clean" }
 		],
-		"image_main": "electronics/8a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/8a.jpg",
 		"images": [
-			"electronics/8a.jpg",
-			"electronics/8b.jpg",
-			"electronics/8c.jpg",
-			"electronics/8d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/8a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/8b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/8c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/8d.jpg"
 		]
   },
 	{
@@ -1297,11 +1297,11 @@
 			{ "Weight": "4.02 lbs" },
 			{ "Batteries": "1 lithium polymer battery required (included)" }
 		],
-		"image_main": "electronics/9a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/9a.jpg",
 		"images": [
-			"electronics/9a.jpg",
-			"electronics/9b.jpg",
-			"electronics/9c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/9a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/9b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/9c.jpg"
 		]
   },
 	{
@@ -1325,12 +1325,12 @@
 			{	"Materials": "100% plastic" },
 			{ "Care": "Wipe clean" }
 		],
-		"image_main": "electronics/10a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/10a.jpg",
 		"images": [
-			"electronics/10a.jpg",
-			"electronics/10b.jpg",
-			"electronics/10c.jpg",
-			"electronics/10d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/10a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/10b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/10c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/electronics/10d.jpg"
 		]
   },
 	{
@@ -1355,12 +1355,12 @@
 			{ "Arm Height": "31 inches" },
 			{ "Seat Length Between Arms": "71 inches" }
 		],
-		"image_main": "home/5a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/5a.jpg",
 		"images": [
-			"home/5a.jpg",
-			"home/5b.jpg",
-			"home/5c.jpg",
-			"home/5d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/5a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/5b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/5c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/5d.jpg"
 		]
   },
 	{
@@ -1386,13 +1386,13 @@
 			{ "Arm Height": "24 inches" },
 			{ "Seat Length Between Arms": "85 inches" }
 		],
-		"image_main": "home/6a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/6a.jpg",
 		"images": [
-			"home/6a.jpg",
-			"home/6b.jpg",
-			"home/6c.jpg",
-			"home/6d.jpg",
-			"home/6e.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/6a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/6b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/6c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/6d.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/6e.jpg"
 		]
   },
 	{
@@ -1418,12 +1418,12 @@
 			{	"Weight Capacity": "287 lbs" },
 			{ "Style": "Modern & contemporary" }
 		],
-		"image_main": "home/7a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/7a.jpg",
 		"images": [
-			"home/7a.jpg",
-			"home/7b.jpg",
-			"home/7c.jpg",
-			"home/7d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/7a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/7b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/7c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/7d.jpg"
 		]
   },
 	{
@@ -1448,13 +1448,13 @@
 			{	"Leg Material": "Birch" },
 			{ "Care": "Spot clean" }
 		],
-		"image_main": "home/8a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/8a.jpg",
 		"images": [
-			"home/8a.jpg",
-			"home/8b.jpg",
-			"home/8c.jpg",
-			"home/8d.jpg",
-			"home/8e.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/8a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/8b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/8c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/8d.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/home/8e.jpg"
 		]
   },
 	{
@@ -1479,12 +1479,12 @@
 			{	"Materials": "Plastic & metal" },
 			{	"Skin Types": "All" }
 		],
-		"image_main": "health_and_beauty/6a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/6a.jpg",
 		"images": [
-			"health_and_beauty/6a.jpg",
-			"health_and_beauty/6b.jpg",
-			"health_and_beauty/6c.jpg",
-			"health_and_beauty/6d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/6a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/6b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/6c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/6d.jpg"
 		]
   },
 	{
@@ -1508,12 +1508,12 @@
 			{	"Materials": "Plastic Housing" },
 			{ "Automatic Shutoff": "Yes" }
 		],
-		"image_main": "health_and_beauty/7a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/7a.jpg",
 		"images": [
-			"health_and_beauty/7a.jpg",
-			"health_and_beauty/7b.jpg",
-			"health_and_beauty/7c.jpg",
-			"health_and_beauty/7d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/7a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/7b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/7c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/7d.jpg"
 		]
   },
 	{
@@ -1537,11 +1537,11 @@
 			{	"Materials": "Plastic Housing" },
 			{ "Care": "Wipe clean" }
 		],
-		"image_main": "health_and_beauty/8a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/8a.jpg",
 		"images": [
-			"health_and_beauty/8a.jpg",
-			"health_and_beauty/8b.jpg",
-			"health_and_beauty/8c.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/8a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/8b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/8c.jpg"
 		]
 	},
 	{
@@ -1565,12 +1565,12 @@
 			{	"Consistency": "Thick" },
 			{ "Application": "2x per day" }
 		],
-		"image_main": "health_and_beauty/9a.jpg",
+		"image_main": "https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/9a.jpg",
 		"images": [
-			"health_and_beauty/9a.jpg",
-			"health_and_beauty/9b.jpg",
-			"health_and_beauty/9c.jpg",
-			"health_and_beauty/9d.jpg"
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/9a.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/9b.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/9c.jpg",
+			"https://storepi-media.s3.us-west-1.amazonaws.com/img/products/health_and_beauty/9d.jpg"
 		]
 	}
 ]

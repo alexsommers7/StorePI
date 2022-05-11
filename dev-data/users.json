@@ -1,6 +1,6 @@
 [
   {
-		"photo": "user-1.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-1.jpg",
 		"role": "admin",
 		"_id": "6213d79b3a57cb555079db69",
 		"name": "Alex Sommers",
@@ -8,7 +8,7 @@
     "password": "$2a$12$Dzpx7AVmjOsT7dYFeddaCuYNOxNciTznHaUfecSuu27o2mSDoaPb."
   },
   {
-		"photo": "user-2.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-2.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db6a",
 		"name": "Dorothy Jennings",
@@ -17,7 +17,7 @@
 		"wishlist": ["625c50fcc1198f626cc4183c", "625c50fcc1198f626cc41839", "625c50fcc1198f626cc41842"]
   },
   {
-		"photo": "user-3.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-3.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db6b",
 		"name": "Jodi Warner",
@@ -26,7 +26,7 @@
 		"wishlist": ["625c50fcc1198f626cc41854", "625c50fcc1198f626cc41853", "625c50fcc1198f626cc41851", "625c50fcc1198f626cc4184f", "625c50fcc1198f626cc4184c", "625c50fcc1198f626cc41849", "625c50fcc1198f626cc41845"]
   },
   {
-		"photo": "user-4.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-4.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db6c",
 		"name": "Shari Castro",
@@ -34,7 +34,7 @@
     "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
   },
   {
-		"photo": "user-5.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-5.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db6d",
 		"name": "Jimmy Castillo",
@@ -43,7 +43,7 @@
 		"wishlist": ["625c50fcc1198f626cc41855"]
   },
   {
-		"photo": "user-6.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-6.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db6e",
 		"name": "Daisy Gregory",
@@ -52,7 +52,7 @@
 		"wishlist": ["625c50fcc1198f626cc41853", "625c50fcc1198f626cc41851", "625c50fcc1198f626cc41832", "625c50fcc1198f626cc4182f", "625c50fcc1198f626cc4182c"]
   },
   {
-		"photo": "user-7.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-7.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db6f",
 		"name": "Amy Neal",
@@ -61,7 +61,7 @@
 		"wishlist": ["625c50fcc1198f626cc4182b", "625c50fcc1198f626cc41829", "6213d55cf8b9765ec0fbbccb", "6213d55cf8b9765ec0fbbcc6", "6213d55cf8b9765ec0fbbcbe", "625c50fcc1198f626cc41847", "625c50fcc1198f626cc41848"]
   },
   {
-		"photo": "user-8.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-8.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db70",
 		"name": "Candace Burns",
@@ -70,7 +70,7 @@
 		"wishlist": ["625c50fcc1198f626cc41845", "625c50fcc1198f626cc41844", "625c50fcc1198f626cc41843"]
   },
   {
-		"photo": "user-9.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-9.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db71",
 		"name": "Marco Lawrence",
@@ -79,7 +79,7 @@
 		"wishlist": ["625c50fcc1198f626cc4184a", "625c50fcc1198f626cc4184d", "625c50fcc1198f626cc41851", "625c50fcc1198f626cc41840", "625c50fcc1198f626cc4183e"]
   },
   {
-		"photo": "user-10.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-10.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db72",
 		"name": "Dustin Fernandez",
@@ -88,7 +88,7 @@
 		"wishlist": ["625c50fcc1198f626cc41830", "625c50fcc1198f626cc4182d", "625c50fcc1198f626cc4182a"]
   },
   {
-		"photo": "user-11.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-11.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db73",
 		"name": "Casey Zimmerman",
@@ -97,7 +97,7 @@
 		"wishlist": ["625c50fcc1198f626cc41827", "6213d55cf8b9765ec0fbbcb0", "6213d55cf8b9765ec0fbbcad", "625c50fcc1198f626cc4183e", "625c50fcc1198f626cc41840", "625c50fcc1198f626cc41855", "625c50fcc1198f626cc41852", "625c50fcc1198f626cc41841", "625c50fcc1198f626cc41836"]
   },
   {
-		"photo": "user-12.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-12.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db74",
 		"name": "Jean Webb",
@@ -106,7 +106,7 @@
 		"wishlist": ["625c50fcc1198f626cc41837", "625c50fcc1198f626cc4183a", "625c50fcc1198f626cc4183c", "625c50fcc1198f626cc41842", "625c50fcc1198f626cc41849", "625c50fcc1198f626cc4184c", "625c50fcc1198f626cc41850", "625c50fcc1198f626cc41852"]
   },
   {
-		"photo": "user-13.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-13.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db75",
 		"name": "Cody Mendez",
@@ -115,7 +115,7 @@
 		"wishlist": ["6213d55cf8b9765ec0fbbcaa"]
   },
   {
-		"photo": "user-14.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-14.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db76",
 		"name": "Kelly Beck",
@@ -123,7 +123,7 @@
     "password": "$2a$12$wPi7W6TkOY2rYXNVH8Usze6z5El7v1JEnuZOFwOFFbHzGBeYBDdtS"
   },
   {
-		"photo": "user-15.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-15.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db77",
 		"name": "Phil Fletcher",
@@ -132,7 +132,7 @@
 		"wishlist": ["6213d55cf8b9765ec0fbbccb", "625c50fcc1198f626cc41828", "625c50fcc1198f626cc4182a", "625c50fcc1198f626cc4182f", "625c50fcc1198f626cc41834", "625c50fcc1198f626cc41840", "625c50fcc1198f626cc41830"]
   },
   {
-		"photo": "user-16.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-16.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db78",
 		"name": "Aubrey Strickland",
@@ -141,7 +141,7 @@
 		"wishlist": ["625c50fcc1198f626cc4183a", "625c50fcc1198f626cc41835", "625c50fcc1198f626cc41832", "625c50fcc1198f626cc41837"]
   },
   {
-		"photo": "user-17.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-17.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db79",
 		"name": "Bennie Walton",
@@ -150,7 +150,7 @@
 		"wishlist": ["625c50fcc1198f626cc41834", "625c50fcc1198f626cc4182f", "6213d55cf8b9765ec0fbbcad", "6213d55cf8b9765ec0fbbcbe", "625c50fcc1198f626cc4184c", "625c50fcc1198f626cc4184d"]
   },
   {
-		"photo": "user-18.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-18.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db7a",
 		"name": "Ramone Delgado",
@@ -159,7 +159,7 @@
 		"wishlist": ["625c50fcc1198f626cc4184f", "625c50fcc1198f626cc41855", "625c50fcc1198f626cc41835", "625c50fcc1198f626cc41830"]
   },
   {
-		"photo": "user-19.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-19.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db7b",
 		"name": "Perry Jimenez",
@@ -168,7 +168,7 @@
 		"wishlist": ["625c50fcc1198f626cc4182a", "625c50fcc1198f626cc41827", "6213d55cf8b9765ec0fbbcbe", "625c50fcc1198f626cc41835", "625c50fcc1198f626cc41847", "625c50fcc1198f626cc41848", "625c50fcc1198f626cc4184a"]
   },
   {
-		"photo": "user-20.jpg",
+		"photo": "https://storepi-media.s3.us-west-1.amazonaws.com/img/users/user-20.jpg",
 		"role": "user",
 		"_id": "6213d79b3a57cb555079db7c",
 		"name": "Tracy Flores",

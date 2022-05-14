@@ -6,11 +6,12 @@ exports.getAllBrands = catchAsync(async (req, res, next) => {
   const products = await Product.find({}, 'brand');
   const brands = products.map((item) => item.brand);
   const brandsUnique = Array.from(new Set(brands));
+  const brandsSorted = brandsUnique.sort((a, b) => a.localeCompare(b));
 
   res.status(200).json({
     status: 'success',
-    results: brandsUnique.length,
-    data: brandsUnique,
+    results: brandsSorted.length,
+    data: brandsSorted,
   });
 });
 

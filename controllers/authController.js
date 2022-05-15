@@ -111,28 +111,28 @@ exports.protect = catchAsync(async (req, res, next) => {
   next();
 });
 
-// Similar to exports.protect, except this one will apply to ALL routes, not just protected ones
+// similar to exports.protect, except this one will apply to ALL routes, not just protected ones
 exports.isLoggedIn = async (req, res, next) => {
   if (req.cookies.jwt) {
     try {
-      // 1) Verify token
+      // verify token
       const decoded = await promisify(jwt.verify)(
         req.cookies.jwt,
         process.env.JWT_SECRET
       );
 
-      // 2) If verification successful, ensure user still exists
+      // if verification successful, ensure user still exists
       const currentUser = await User.findById(decoded.id);
       if (!currentUser) {
         return next();
       }
 
-      // 3) check if user changed password after the JWT was issued
+      // check if user changed password after the JWT was issued
       if (currentUser.changedPasswordAfter(decoded.iat)) {
         return next();
       }
 
-      // make the user accessibe to the templates
+      // make the user accessible to the templates
       res.locals.user = currentUser;
       return next();
     } catch (err) {

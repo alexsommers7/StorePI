@@ -21,7 +21,7 @@ mongoose
     useUnifiedTopology: true,
     useFindAndModify: false,
   })
-  .then(() => console.log('DB connection successful!'));
+  .then(() => console.log('DB connection successful.'));
 
 const categories = JSON.parse(
   fs.readFileSync(`${__dirname}/categories.json`, 'utf-8')
@@ -47,7 +47,7 @@ const importData = async () => {
     await Cart.create(carts);
     await Purchase.create(purchases);
 
-    console.log('Data successfully imported!');
+    console.log('Data successfully imported.');
   } catch (err) {
     console.log(err);
   }
@@ -63,7 +63,7 @@ const deleteData = async () => {
     await Cart.deleteMany();
     await Purchase.deleteMany();
 
-    console.log('Data successfully deleted!');
+    console.log('Data successfully deleted.');
   } catch (err) {
     console.log(err);
   }

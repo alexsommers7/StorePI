@@ -8,7 +8,7 @@ const handleCastErrorDB = (err) => {
 const handleDuplicateFieldsDB = (err) => {
   const value = err.errmsg.match(/(["'])(\\?.)*?\1/)[0];
 
-  const message = `Duplicate field value: ${value}. Please use another value!`;
+  const message = `Duplicate field value: ${value}. Please use another value.`;
   return new AppError(message, 400);
 };
 
@@ -20,13 +20,13 @@ const handleValidationErrorDB = (err) => {
 };
 
 const handleJWTError = () =>
-  new AppError('Invalid token. Please log in again!', 401);
+  new AppError('Invalid token. Please log in again.', 401);
 
 const handleJWTExpiredError = () =>
-  new AppError('Your token has expired! Please log in again.', 401);
+  new AppError('Your token has expired. Please log in again.', 401);
 
 const sendErrorDev = (err, req, res) => {
-  // A) API
+  // API
   if (req.originalUrl.startsWith('/api')) {
     return res.status(err.statusCode).json({
       status: err.status,
@@ -36,44 +36,44 @@ const sendErrorDev = (err, req, res) => {
     });
   }
 
-  // B) RENDERED WEBSITE
-  console.error('ERROR 💥', err);
+  // RENDERED WEBSITE
+  console.error('ERROR', err);
   return res.status(err.statusCode).render('error', {
-    title: 'Something went wrong!',
+    title: 'Something went wrong.',
     msg: err.message,
   });
 };
 
 const sendErrorProd = (err, req, res) => {
-  // A) API
+  // API
   if (req.originalUrl.startsWith('/api')) {
-    // A) Operational, trusted error
+    // operational, trusted error
     if (err.isOperational) {
       return res.status(err.statusCode).json({
         status: err.status,
         message: err.message,
       });
     }
-    // B) Programming or other unknown error
-    console.error('ERROR 💥', err);
+    // programming or other unknown error
+    console.error('ERROR', err);
     return res.status(500).json({
       status: 'error',
-      message: 'Something went very wrong!',
+      message: 'Something went wrong.',
     });
   }
 
-  // B) RENDERED WEBSITE
-  // A) Operational, trusted error
+  // RENDERED WEBSITE
+  // operational, trusted error
   if (err.isOperational) {
     return res.status(err.statusCode).render('error', {
-      title: 'Something went wrong!',
+      title: 'Something went wrong.',
       msg: err.message,
     });
   }
-  // B) Programming or other unknown error
-  console.error('ERROR 💥', err);
+  // programming or other unknown error
+  console.error('ERROR', err);
   return res.status(err.statusCode).render('error', {
-    title: 'Something went wrong!',
+    title: 'Something went wrong.',
     msg: 'Please try again later.',
   });
 };

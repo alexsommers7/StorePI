@@ -17,7 +17,7 @@ const createAndSendToken = (user, statusCode, req, res, next, sendJWT) => {
       Date.now() + process.env.JWT_COOKIE_EXPIRES_IN * 24 * 60 * 60 * 1000
     ),
     httpOnly: true,
-    secure: req.secure || req.headers['x-forwarded-proto'] === 'httpss',
+    secure: req.secure || req.headers['x-forwarded-proto'] === 'https',
   });
 
   // hide from output (not saving)

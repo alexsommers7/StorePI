@@ -36,7 +36,7 @@ exports.addProductToMyWishlist = catchAsync(async (req, res, next) => {
 
   const skus = user.wishlist.map((item) => item.sku);
   if (skus.includes(sku)) {
-    return next(new AppError('Product is Already on Wishlist', 400));
+    return next(new AppError('Product is already on wishlist', 400));
   }
 
   user.wishlist.push(product);

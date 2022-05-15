@@ -89,5 +89,3 @@ exports.createPurchase = factory.createOne(
 exports.getPurchase = factory.getOne(Purchase);
 
 exports.getAllPurchases = factory.getAll(Purchase);
-
-exports.deletePurchase = factory.deleteOne(Purchase);

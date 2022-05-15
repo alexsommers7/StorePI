@@ -15,9 +15,6 @@ router
   .get(purchaseController.getAllPurchases)
   .post(purchaseController.createPurchase);
 
-router
-  .route('/:id')
-  .get(purchaseController.getPurchase)
-  .delete(purchaseController.deletePurchase);
+router.route('/:id').get(purchaseController.getPurchase);
 
 module.exports = router;

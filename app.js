@@ -15,7 +15,6 @@ const categoryRouter = require('./routes/categoryRoutes');
 const userRouter = require('./routes/userRoutes');
 const reviewRouter = require('./routes/reviewRoutes');
 const purchaseRouter = require('./routes/purchaseRoutes');
-const purchaseController = require('./controllers/purchaseController');
 const cartRouter = require('./routes/cartRoutes');
 
 const app = express();

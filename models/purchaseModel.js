@@ -13,11 +13,6 @@ const purchaseSchema = new mongoose.Schema(
         quantity: Number,
       },
     ],
-    user: {
-      type: mongoose.Schema.ObjectId,
-      ref: 'User',
-      required: [true, 'Purchase must belong to a user.'],
-    },
     date: {
       type: Date,
       default: () => randomDate(),

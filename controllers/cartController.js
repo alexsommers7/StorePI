@@ -30,17 +30,17 @@ exports.addProductToMyCart = catchAsync(async (req, res, next) => {
     );
   }
 
-  // if (!cart) {
-  //   const newCart = await Cart.create({
-  //     user: req.params.id,
-  //     products: [{ item: product._id, quantity, sku }],
-  //   }).then((t) => t.populate('item').execPopulate());
+  if (!cart) {
+    const newCart = await Cart.create({
+      user: req.params.id,
+      products: [{ item: product._id, quantity, sku }],
+    }).then((t) => t.populate('item').execPopulate());
 
-  //   return res.status(201).json({
-  //     status: 'success',
-  //     newCart,
-  //   });
-  // }
+    return res.status(201).json({
+      status: 'success',
+      newCart,
+    });
+  }
 
   const itemIndex = cart.products.findIndex((p) => p.item.sku === sku);
 

@@ -21,7 +21,7 @@ All endpoints act as real-world endpoints, but without actually writing anything
 
 ## Rate Limiting
 
-The rate limit for a given IP address is 300 requests per hour. If you require a higher rate limit for your use case, please submit an issue or contact me directly at **alex@alexsommers.com**.
+The rate limit for a given IP address is 300 requests per hour. The number of requests you have remaining can be viewed in the X-Ratelimit-Remaining response header of any request. If you require a higher rate limit for your use case, please contact me directly at **alex@alexsommers.com**.
 
 ## Authentication
 

@@ -114,7 +114,7 @@ exports.getAll = (Model) =>
       .project()
       .paginate();
     const docs = await features.query;
-    const total = await Model.countDocuments({});
+    const total = await Model.estimatedDocumentCount({});
 
     res.status(200).json({
       status: 'success',

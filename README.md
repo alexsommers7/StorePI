@@ -52,7 +52,7 @@ npm run start:prod
 ### Deploys to Heroku
 
 ```
-git push heroku main
+git push heroku master
 ```
 
 ### Debug with NDB

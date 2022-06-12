@@ -114,10 +114,12 @@ exports.getAll = (Model) =>
       .project()
       .paginate();
     const docs = await features.query;
+    const total = await Model.countDocuments({});
 
     res.status(200).json({
       status: 'success',
       results: docs.length,
+      total,
       data: docs,
     });
   });

@@ -17,7 +17,7 @@ StorePI is a free, open-source REST API that was created for use in e-commerce p
 
 ## Database Interaction
 
-All endpoints act as real-world endpoints, but without actually writing anything to the database.
+All endpoints act as real-world endpoints, but without actually writing anything to the database. In the event that you are creating or updating a resource, the response will contain the updated data without persisting it.
 
 ## CORS
 

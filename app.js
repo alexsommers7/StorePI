@@ -51,6 +51,8 @@ app.use(
       'reviews_quantity',
       'regular_price',
       'sale_price',
+      'brand',
+      'category',
     ],
   })
 );

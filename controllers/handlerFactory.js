@@ -111,10 +111,9 @@ exports.getAll = (Model) =>
     const features = new APIFeatures(Model.find(filter), req.query)
       .filter()
       .sort()
-      .project()
-      .paginate();
-    const docs = await features.query;
-    const total = await Model.estimatedDocumentCount({});
+      .project();
+    const total = await Model.countDocuments(features.query);
+    const docs = await features.paginate().query;
 
     res.status(200).json({
       status: 'success',

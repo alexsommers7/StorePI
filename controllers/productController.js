@@ -2,6 +2,12 @@ const Product = require('../models/productModel');
 const catchAsync = require('../utils/catchAsync');
 const factory = require('./handlerFactory');
 
+const properCase = (str) =>
+  str
+    .split('-')
+    .map((s) => s.charAt(0).toUpperCase() + s.slice(1))
+    .join('-');
+
 exports.createProduct = factory.createOne(Product, {
   path: 'category',
   select: 'name',
@@ -36,3 +42,13 @@ exports.aliasTopProductsRated = catchAsync(async (req, res, next) => {
 
   next();
 });
+
+exports.formatBrandParam = (req, res, next) => {
+  if (req.query.brand) {
+    req.query.brand = Array.isArray(req.query.brand)
+      ? req.query.brand.map((brand) => properCase(brand).split('-').join(' '))
+      : properCase(req.query.brand).split('-').join(' ');
+  }
+
+  next();
+};

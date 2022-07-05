@@ -22,7 +22,7 @@ router
 
 router
   .route('/')
-  .get(productController.getAllProducts)
+  .get(productController.formatBrandParam, productController.getAllProducts)
   .post(productController.createProduct);
 
 router

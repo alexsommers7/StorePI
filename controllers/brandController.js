@@ -15,7 +15,7 @@ exports.getAllBrands = catchAsync(async (req, res, next) => {
   });
 });
 
-exports.formatBrand = (req, res, next) => {
+exports.formatBrandBody = (req, res, next) => {
   const brand = req.params.brandName;
   req.body.brandFormatted = slugToString(brand);
 

@@ -4,7 +4,11 @@ const productRouter = require('./productRoutes');
 
 const router = express.Router({ mergeParams: true });
 
-router.use('/:brandName/products', brandController.formatBrand, productRouter);
+router.use(
+  '/:brandName/products',
+  brandController.formatBrandBody,
+  productRouter
+);
 
 router.route('/').get(brandController.getAllBrands);
 
